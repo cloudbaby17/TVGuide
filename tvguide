@@ -1,2 +1,303 @@
-# TVGuide
-TV Guide
+#EXTM3U
+#EXTINF:-1, Liverpool FC IPTVultra.com [1280x720]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32547.ts
+#EXTINF:-1, Sky Sport 3 IPTVultra.com [1280x720]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32542.ts
+#EXTINF:-1, Nat Geo Wild IPTVultra.com [1920x1088]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32433.ts
+#EXTINF:-1, BBC 4 HD IPTVultra.com [1280x720]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32528.ts
+#EXTINF:-1, Sky Sport 4 IPTVultra.com [1280x720]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32541.ts
+#EXTINF:-1, Eurosport IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/10.ts
+#EXTINF:-1, RAI 2 HD IPTVultra.com [1040x592]
+http://163.172.99.28:25461/live/dealsat/deal/61.ts
+#EXTINF:-1, MTV Base IPTVultra.com [720x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32448.ts
+#EXTINF:-1, Manchester United TV IPTVultra.com [1920x1088]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32548.ts
+#EXTINF:-1, NICKTOONS IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/16.ts
+#EXTINF:-1, Sky Sport F1 HD IPTVultra.com [864x480]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32422.ts
+#EXTINF:-1, Disney Junior IPTVultra.com [688x480]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32480.ts
+#EXTINF:-1, Sky Sport 3 HD IPTVultra.com [1280x720]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32543.ts
+#EXTINF:-1, CHALLENGE IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/1546.ts
+#EXTINF:-1, Animal Planet HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/58.ts
+#EXTINF:-1, RTE JUNIOR IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/1545.ts
+#EXTINF:-1, OSN YAHALA DRAMA HD IPTVultra.com [0x0]
+http://163.172.99.28:25461/live/dealsat/deal/15.ts
+#EXTINF:-1,UK  BBC World News IPTVultra.com [720x576]
+http://193.70.6.107:9876/live/002763037705/002763037705/1028.ts
+#EXTINF:-1, BT Sport 2 IPTVultra.com [1280x720]
+http://193.70.6.107:9876/live/002763037705/002763037705/206.ts
+#EXTINF:-1, MTV Base IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/44.ts
+#EXTINF:-1, AMC HD IPTVultra.com [960x544]
+http://163.172.99.28:25461/live/dealsat/deal/60.ts
+#EXTINF:-1,MOTOGP LIVE 3 IPTVultra.com [1920x1088]
+http://163.172.99.28:25461/live/dealsat/deal/53.ts
+#EXTINF:-1, REALLY IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/1543.ts
+#EXTINF:-1, TCM CINEMA IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/105.ts
+#EXTINF:-1,YU: BALKANIKA MUSIC TV HD IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/93.ts
+#EXTINF:-1,TSN 4 HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/14.ts
+#EXTINF:-1, NICKTOONS IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/116.ts
+#EXTINF:-1, Nick JR IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/17.ts
+#EXTINF:-1, MORE 4 IPTVultra.com [704x576]
+http://163.172.99.28:25461/live/dealsat/deal/66.ts
+#EXTINF:-1, SFR SPORT 2 HD IPTVultra.com [1920x1088]
+http://163.172.99.28:25461/live/dealsat/deal/73.ts
+#EXTINF:-1, Nat Geo HD IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/52.ts
+#EXTINF:-1, E! IPTVultra.com [688x480]
+http://163.172.99.28:25461/live/dealsat/deal/109.ts
+#EXTINF:-1, Sky Sport 1 IPTVultra.com [1920x1088]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32546.ts
+#EXTINF:-1, HISTORY HD IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/67.ts
+#EXTINF:-1,Bein 1 IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/59.ts
+#EXTINF:-1, EDEN IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/1542.ts
+#EXTINF:-1, PICK TV IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/1069.ts
+#EXTINF:-1, Sky Sport News HD IPTVultra.com [1280x720]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32423.ts
+#EXTINF:-1, BT Sport Extra 3 IPTVultra.com [720x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32405.ts
+#EXTINF:-1, SUPER SPORT 2 IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/95.ts
+#EXTINF:-1, BEIN MOVIES 1 HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/68.ts
+#EXTINF:-1, Nick JR IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/117.ts
+#EXTINF:-1, SYFY IPTVultra.com [1024x576]
+http://163.172.99.28:25461/live/dealsat/deal/112.ts
+#EXTINF:-1, Comedy Central IPTVultra.com [704x576]
+http://163.172.99.28:25461/live/dealsat/deal/49.ts
+#EXTINF:-1, SIC NOTICIAS IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/12.ts
+#EXTINF:-1, NBC HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/13.ts
+#EXTINF:-1, RAI SPORT 1 IPTVultra.com [1040x592]
+http://163.172.99.28:25461/live/dealsat/deal/54.ts
+#EXTINF:-1, CUFO IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/48.ts
+#EXTINF:-1, NICK JR TOO IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/119.ts
+#EXTINF:-1, Canal Porto IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/64.ts
+#EXTINF:-1, TRUE MOVIES 2 IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/11.ts
+#EXTINF:-1, SPORT KLUB 1 HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/99.ts
+#EXTINF:-1, SKY CINEMA IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/57.ts
+#EXTINF:-1, RAI 1 HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/62.ts
+#EXTINF:-1, PPV A LA CARTE 10 IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/47.ts
+#EXTINF:-1, MTV Base IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/1544.ts
+#EXTINF:-1, SKY SPORT 24 HD IPTVultra.com [1920x1088]
+http://163.172.99.28:25461/live/dealsat/deal/70.ts
+#EXTINF:-1, Home IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/3244.ts
+#EXTINF:-1, SKY MOVIES COMEDY IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/100.ts
+#EXTINF:-1, EDEN IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/42.ts
+#EXTINF:-1, SKY PRIMAFILA 4 HD IPTVultra.com [1920x1040]
+http://163.172.99.28:25461/live/dealsat/deal/97.ts
+#EXTINF:-1, Cartoon Network IPTVultra.com [1024x576]
+http://163.172.99.28:25461/live/dealsat/deal/56.ts
+#EXTINF:-1, omni 1 IPTVultra.com [640x480]
+http://163.172.99.28:25461/live/dealsat/deal/101.ts
+#EXTINF:-1, RTE JUNIOR IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/45.ts
+#EXTINF:-1, SKY CINEMA 24 IPTVultra.com [1920x1088]
+http://163.172.99.28:25461/live/dealsat/deal/55.ts
+#EXTINF:-1, CHALLENGE IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/46.ts
+#EXTINF:-1, TRUE MOVIES 2 IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/111.ts
+#EXTINF:-1, TRUE MOVIES 1 IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/110.ts
+#EXTINF:-1, ORF 2 HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/118.ts
+#EXTINF:-1,YUI Pink Hits2 IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/83.ts
+#EXTINF:-1, SKY SPORTS NEWS IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/24.ts
+#EXTINF:-1, SFR SPORT 1 HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/72.ts
+#EXTINF:-1, SKY ART 1 IPTVultra.com [1024x576]
+http://163.172.99.28:25461/live/dealsat/deal/113.ts
+#EXTINF:-1, BOOMERANG IPTVultra.com [1024x576]
+http://163.172.99.28:25461/live/dealsat/deal/104.ts
+#EXTINF:-1, CNBC EUROPE Full HD IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/3250.ts
+#EXTINF:-1, RTL2 HD IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/50.ts
+#EXTINF:-1, ctv toronto IPTVultra.com [640x480]
+http://163.172.99.28:25461/live/dealsat/deal/102.ts
+#EXTINF:-1, MTV ROCK UK IPTVultra.com [704x576]
+http://163.172.99.28:25461/live/dealsat/deal/107.ts
+#EXTINF:-1, LiverpooL FC IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/89.ts
+#EXTINF:-1, CHELSEA TV IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/51.ts
+#EXTINF:-1,SPA: MOVISTAR DEPORTE IPTVultra.com [1920x1088]
+http://163.172.99.28:25461/live/dealsat/deal/92.ts
+#EXTINF:-1, RACING UK IPTVultra.com [704x576]
+http://163.172.99.28:25461/live/dealsat/deal/114.ts
+#EXTINF:-1, MTV HITS IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/108.ts
+#EXTINF:-1, BBC News IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/2154.ts
+#EXTINF:-1,YU: FILMBOX PLUS IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/21.ts
+#EXTINF:-1,YU: FILMBOX PLUS IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/121.ts
+#EXTINF:-1, RUSSIA TODAY Full HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/3252.ts
+#EXTINF:-1, SUPER SPORT COSOVA 2 IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/23.ts
+#EXTINF:-1, FINE LIVING NETWORK Full HD IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/3243.ts
+#EXTINF:-1, Nick JR IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/7.ts
+#EXTINF:-1,YU: RTL KOCKICA IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/103.ts
+#EXTINF:-1, Comedy Central IPTVultra.com [704x576]
+http://163.172.99.28:25461/live/dealsat/deal/9.ts
+#EXTINF:-1, AL JAZEERA NEWS ENGLISH Full HD IPTVultra.com [960x544]
+http://163.172.99.28:25461/live/dealsat/deal/3249.ts
+#EXTINF:-1, NHK News HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/3251.ts
+#EXTINF:-1, SETANTA SPORTS IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/1547.ts
+#EXTINF:-1, ProCinema IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/98.ts
+#EXTINF:-1, PREMIERE SPORT IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/115.ts
+#EXTINF:-1, Boomerang IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/94.ts
+#EXTINF:-1, MBC BOLLYWOOD IPTVultra.com [624x384]
+http://163.172.99.28:25461/live/dealsat/deal/85.ts
+#EXTINF:-1, NICK JR TOO IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/19.ts
+#EXTINF:-1, LONDON LIVE Full HD IPTVultra.com [960x544]
+http://163.172.99.28:25461/live/dealsat/deal/3246.ts
+#EXTINF:-1, HORROR CHANNEL IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/3245.ts
+#EXTINF:-1, 2BE IPTVultra.com [1920x1088]
+http://163.172.99.28:25461/live/dealsat/deal/86.ts
+#EXTINF:-1,YU: GRAND TV IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/91.ts
+#EXTINF:-1, SUPER SPORT 1 IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/96.ts
+#EXTINF:-1, NAT GEO WILD HD IPTVultra.com [1920x1088]
+http://163.172.99.28:25461/live/dealsat/deal/87.ts
+#EXTINF:-1, Fox News Live IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/22.ts
+#EXTINF:-1, TRING HISTORY IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/18.ts
+#EXTINF:-1, BEIN MOVIES 4 HD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/71.ts
+#EXTINF:-1,YU: NICKELODEON IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/88.ts
+#EXTINF:-1, NATIONAL GEOGRAPHIC WILD IPTVultra.com [1280x720]
+http://163.172.99.28:25461/live/dealsat/deal/120.ts
+#EXTINF:-1, AT THE RACES IPTVultra.com [704x576]
+http://163.172.99.28:25461/live/dealsat/deal/106.ts
+#EXTINF:-1,YU: Pink M IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/63.ts
+#EXTINF:-1, GOLD IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/5.ts
+#EXTINF:-1, MORE 4 IPTVultra.com [704x576]
+http://163.172.99.28:25461/live/dealsat/deal/6.ts
+#EXTINF:-1, TRUE MOVIES 2 IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/1.ts
+#EXTINF:-1, MTV Base IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/4.ts
+#EXTINF:-1, BBC News IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/154.ts
+#EXTINF:-1, CHALLENGE IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/546.ts
+#EXTINF:-1, Home IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/244.ts
+#EXTINF:-1, RTE JUNIOR IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/545.ts
+#EXTINF:-1, LONDON LIVE Full HD IPTVultra.com [960x544]
+http://163.172.99.28:25461/live/dealsat/deal/246.ts
+#EXTINF:-1, MTV Base IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/544.ts
+#EXTINF:-1, HORROR CHANNEL IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/245.ts
+#EXTINF:-1, FINE LIVING NETWORK Full HD IPTVultra.com [720x576]
+http://163.172.99.28:25461/live/dealsat/deal/243.ts
+#EXTINF:-1, EDEN IPTVultra.com [544x576]
+http://163.172.99.28:25461/live/dealsat/deal/542.ts
+#EXTINF:-1, ITV 3 IPTVultra.com [720x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32517.ts
+#EXTINF:-1, Channel 4 IPTVultra.com [768x432]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32461.ts
+#EXTINF:-1, True Movies 1 IPTVultra.com [544x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32465.ts
+#EXTINF:-1, RTE 3 J.R IPTVultra.com [1024x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32523.ts
+#EXTINF:-1, Sony Sab IPTVultra.com [768x432]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32455.ts
+#EXTINF:-1, Discovery History  1 IPTVultra.com [1280x720]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32429.ts
+#EXTINF:-1, BoomeRang IPTVultra.com [1024x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32473.ts
+#EXTINF:-1,UKR Sport 1 IPTVultra.com [720x576]
+http://51.255.77.23:7777/live/0628724613baneddeja/r3X6efrxjJ/7968.ts
+#EXTINF:-1,UKR TRK Ukrania HD IPTVultra.com [1280x720]
+http://51.255.77.23:7777/live/0628724613baneddeja/r3X6efrxjJ/7966.ts
+#EXTINF:-1,UKR Sport 1 IPTVultra.com [720x576]
+http://51.255.77.23:7777/live/972548/113543/7968.ts
+#EXTINF:-1,UKR TRK Ukrania HD IPTVultra.com [1280x720]
+http://51.255.77.23:7777/live/972548/113543/7966.ts
+#EXTINF:-1, CHANNEL 4 FHD IPTVultra.com [768x432]
+http://94.23.9.157:8000/live/jimjohnson2/dreams/17622.ts
+#EXTINF:-1, ITV 1 FHD IPTVultra.com [1280x720]
+http://94.23.9.157:8000/live/jimjohnson2/dreams/17619.ts
+#EXTINF:-1, ITV 3 FHD IPTVultra.com [720x576]
+http://94.23.9.157:8000/live/jimjohnson2/dreams/17617.ts
+#EXTINF:-1, Sky Movies Crime &Thriller HD IPTVultra.com [1280x720]
+http://94.23.9.157:8000/live/jimjohnson2/dreams/20135.ts
+#EXTINF:-1, CHANNEL 4 FHD IPTVultra.com [768x432]
+http://94.23.9.157:8000/live/wVbQEq5ub2/kAASZxq65v/17622.ts
+#EXTINF:-1, ITV 1 FHD IPTVultra.com [1280x720]
+http://94.23.9.157:8000/live/wVbQEq5ub2/kAASZxq65v/17619.ts
+#EXTINF:-1, ITV 3 FHD IPTVultra.com [720x576]
+http://94.23.9.157:8000/live/wVbQEq5ub2/kAASZxq65v/17617.ts
+#EXTINF:-1, Sky Movies Crime &Thriller HD IPTVultra.com [1280x720]
+http://94.23.9.157:8000/live/wVbQEq5ub2/kAASZxq65v/20135.ts
+#EXTINF:-1, Sky Sports News HQ. IPTVultra.com [1280x720]
+http://94.23.9.157:8000/live/wVbQEq5ub2/kAASZxq65v/20161.ts
+#EXTINF:-1, STARPLUS 2 AF IPTVultra.com [1280x720]
+http://94.23.9.157:8000/live/wVbQEq5ub2/kAASZxq65v/27482.ts
+#EXTINF:-1, CBS Reality IPTVultra.com [720x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32466.ts
+#EXTINF:-1, Sky Movies Comedy HD IPTVultra.com [720x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32494.ts
+#EXTINF:-1, NIck JR IPTVultra.com [1024x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32478.ts
+#EXTINF:-1, BT Sports 3 HD IPTVultra.com [720x576]
+http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32549.ts
