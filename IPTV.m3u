@@ -7,7 +7,7 @@ http://
 #EXTINF:-1, [COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]
 #EXTINF:-1, [COLOR red][I][B]    ---- Work In Progress ----    [/I][/B][/COLOR]
 http://
-#EXTINF:-1, BBC ONE [COLOR green][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, BBC ONE 
 http://
 
 #EXTINF:-1, BBC TWO
@@ -75,7 +75,7 @@ http://
 #EXTINF:-1, COMEDY CENTRAL EXTRA
 http://
 
-#EXTINF:-1, ITV +1
+#EXTINF:-1, ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
 #EXTINF:-1, ALIBI
@@ -144,7 +144,7 @@ http://
 #EXTINF:-1, ITV BE
 http://
 
-#EXTINF:-1, ITV 2 +1
+#EXTINF:-1, ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
 #EXTINF:-1, TRUE ENTERTAINMENT
@@ -156,13 +156,13 @@ http://
 #EXTINF:-1, AMC UK
 http://
 
-#EXTINF:-1, ITV 3 +1
+#EXTINF:-1, ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
 #EXTINF:-1, HOME
 http://
 
-#EXTINF:-1, ITV 4 +1
+#EXTINF:-1, ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
 #EXTINF:-1, DAVE JA VU
@@ -177,10 +177,10 @@ http://
 #EXTINF:-1, TRAVEL CHANNEL
 http://
 
-#EXTINF:-1, FOOD NETWORK +1
+#EXTINF:-1, FOOD NETWORK [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, TRAVEL CHANNEL +1
+#EXTINF:-1, TRAVEL CHANNEL [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
 #EXTINF:-1, SKY CINEMA PREMIER
