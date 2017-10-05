@@ -4,15 +4,20 @@ http://
 #EXTINF:-1, [COLOR green][I][B]HD[/B][/I][/COLOR]  
 #EXTINF:-1,[COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]
 http://
-#EXTINF:-1, BBC ONE
+#EXTINF:-1, BBC ONE [COLOR green][I][B]HD[/B][/I][/COLOR]
 http://ip.openfor.tv:8000/live/maundyboy/KYORFfHrD1/2039.m3u8
+
 #EXTINF:-1, BBC TWO
+http://
 
 #EXTINF:-1, ITV
 http://ip.openfor.tv:8000/live/maundyboy/KYORFfHrD1/2304.m3u8
+
 #EXTINF:-1, CHANNEL 4
+http://
 
 #EXTINF:-1, CHANNEL 5
+http://
 
 #EXTINF:-1, SKY 1
 
