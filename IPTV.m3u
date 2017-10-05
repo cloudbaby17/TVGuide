@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]Updated TV List - 05.10.17[/B][/I][/COLOR]
 http://
-#EXTINF:-1, [COLOR green][I][B]HD[/B][/I][/COLOR]  
+#EXTINF:-1, [COLOR green][I][B]HD[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]
-http://
 #EXTINF:-1, [COLOR red][I][B]    ---- Work In Progress ----    [/I][/B][/COLOR]
 http://
 #EXTINF:-1, BBC ONE [COLOR green][I][B]HD[/B][/I][/COLOR]
@@ -297,4 +296,9 @@ http://
 http://
 
 #EXTINF:-1, CBBC
+http://
+
+#EXTINF:-1, [COLOR red][I][B]    ---- Coming Soon  ----    [/I][/B][/COLOR]
+http://
+#EXTINF:-1, [COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]
 http://
