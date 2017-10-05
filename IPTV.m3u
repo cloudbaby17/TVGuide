@@ -8,7 +8,7 @@ http://
 #EXTINF:-1, [COLOR red][I][B]    ---- Work In Progress ----    [/I][/B][/COLOR]
 http://
 #EXTINF:-1, BBC ONE 
-http://
+plugin://plugin.video.tvplayer/?url=89&mode=200
 
 #EXTINF:-1, BBC TWO
 http://
