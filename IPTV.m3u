@@ -241,7 +241,7 @@ http://
 http://
 
 #EXTINF:-1, DISCOVERY CHANNEL UK
-http://
+#EXTM3U2#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Updated 05.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 3http://4#EXTINF:-1, [COLOR green][I][B]HD[/B][/I][/COLOR]5#EXTINF:-1, [COLOR blue][I][B] Coming Soon [/I][/B][/COLOR] [COLOR yellow][I][B]UK Sport & US Channels [/I][/B][/COLOR]6http://7#EXTINF:-1, [COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]8#EXTINF:-1, [COLOR red][I][B]    ---- Work In Progress ----    [/I][/B][/COLOR]9http://10#EXTINF:-1, BBC ONE 11http://iptv.dguk.co.uk/live/Maryrose/Maryrose/1313.ts1213#EXTINF:-1, BBC TWO14http://1516#EXTINF:-1, ITV17http://1819#EXTINF:-1, CHANNEL 420http://94.21.216.169:9981/stream/channelid/8081481522122#EXTINF:-1, CHANNEL 523http://2425#EXTINF:-1, SKY 126http://2728#EXTINF:-1, SKY LIVING29http://3031#EXTINF:-1, SKY ATLANTIC32http://3334#EXTINF:-1, WATCH35http://3637#EXTINF:-1, GOLD38http://3940#EXTINF:-1, DAVE4142#EXTINF:-1, COMEDY CENTRAL
 
 #EXTINF:-1, ANIMAL PLANET
 http://
