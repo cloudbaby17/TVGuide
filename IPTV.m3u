@@ -241,7 +241,7 @@ http://
 http://
 
 #EXTINF:-1, DISCOVERY CHANNEL UK
-http://ns3054642.ip-213-32-6.eu:8000/live/fati/fati/7621.ts
+http://ns3054642.ip-213-32-6.eu:8000/live/fati/fati/7621/playlist.m3u8?
 
 #EXTINF:-1, ANIMAL PLANET
 http://
