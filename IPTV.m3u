@@ -7,23 +7,23 @@ http://
 #EXTINF:-1, [COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]
 #EXTINF:-1, [COLOR red][I][B]    ---- Work In Progress ----    [/I][/B][/COLOR]
 http://
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] BBC ONE 
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR]BBC ONE 
 http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] BBC TWO
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR]BBC TWO
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, ITV
-http://
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR]ITV
+http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20255.ts
 
-#EXTINF:-1, CHANNEL 4
-http://94.21.216.169:9981/stream/channelid/808148152
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR]CHANNEL 4
+http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20290.ts
 
-#EXTINF:-1, CHANNEL 5
-http://
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR]CHANNEL 5
+http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20289.ts
 
-#EXTINF:-1, SKY 1
-http://
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR]SKY 1
+http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20193.ts
 
 #EXTINF:-1, SKY LIVING
 http://
