@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Updated 05.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Updated 07.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 #EXTINF:-1, [COLOR green][I][B]HD[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR blue][I][B] Coming Soon [/I][/B][/COLOR] [COLOR yellow][I][B]UK Sport & US Channels [/I][/B][/COLOR]
@@ -7,11 +7,11 @@ http://
 #EXTINF:-1, [COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]
 #EXTINF:-1, [COLOR red][I][B]    ---- Work In Progress ----    [/I][/B][/COLOR]
 http://
-#EXTINF:-1, BBC ONE 
-http://iptv.dguk.co.uk/live/Maryrose/Maryrose/1313.ts
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] BBC ONE 
+http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, BBC TWO
-http://
+#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] BBC TWO
+http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
 #EXTINF:-1, ITV
 http://
