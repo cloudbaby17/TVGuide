@@ -20,8 +20,8 @@ https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 #EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] CHANNEL 4
 http://185.62.86.6:8081/hls/channel4.m3u8
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CHANNEL 5
-http://
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] CHANNEL 5
+http://185.62.86.6:8081/hls/channel5.m3u8
 
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY 1
 http://
