@@ -8,11 +8,9 @@ http://
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Sport & US TV [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR grey][I][B] Still In Progress [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR grey][I][B] Still In Progress [/I][/B][/COLOR] [COLOR red] --- [/COLOR] 
+            [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
-
---------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] BBC ONE 
 http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d827008.m3u8
