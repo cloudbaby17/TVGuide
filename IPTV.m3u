@@ -7,296 +7,296 @@ http://
 #EXTINF:-1, [COLOR yellow][I][B]    ---- UK Channels ----    [/I][/B][/COLOR]
 #EXTINF:-1, [COLOR red][I][B]    ---- Work In Progress ----    [/I][/B][/COLOR]
 http://
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] BBC ONE 
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] BBC ONE 
 http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] BBC TWO
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] BBC TWO
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] ITV
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20255.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV
+http://
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] CHANNEL 4
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20290.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CHANNEL 4
+http://
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] CHANNEL 5
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20289.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CHANNEL 5
+http://
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] SKY 1
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20193.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY 1
+http://
 
-#EXTINF:-1, SKY LIVING
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY LIVING
 http://
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] SKY ATLANTIC
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20211.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY ATLANTIC
+http://
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] WATCH
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20145.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] WATCH
+http://
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] GOLD
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20262.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] GOLD
+http://
 
-#EXTINF:-1, [COLOR green][I][B]*[/B][/I][/COLOR] DAVE
-http://iptv.iptvthebest.net:15000/live/fdf92430a30f09c/61f65b9e689165f/20282.ts
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DAVE
+http://
 
-#EXTINF:-1, COMEDY CENTRAL
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] COMEDY CENTRAL
 http://
 
-#EXTINF:-1, UNIVERSAL
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] UNIVERSAL
 http://
 
-#EXTINF:-1, SYFY UK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SYFY UK
 http://
 
-#EXTINF:-1, ITV 2
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 2
 http://
 
-#EXTINF:-1, ITV 3
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 3
 http://
 
-#EXTINF:-1, ITV 4
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 4
 http://
 
-#EXTINF:-1, SKY ARTS 1
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY ARTS 1
 http://
 
-#EXTINF:-1, ITV ENCORE
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV ENCORE
 http://
 
-#EXTINF:-1,  FOX UK
+#EXTINF:-1,  [COLOR red][I][B]#[/B][/I][/COLOR] FOX UK
 http://
 
-#EXTINF:-1, TLC
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TLC
 http://
 
-#EXTINF:-1, MTV
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] MTV
 http://
 
-#EXTINF:-1, COMEDY CENTRAL EXTRA
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] COMEDY CENTRAL EXTRA
 http://
 
-#EXTINF:-1, ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, ALIBI
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ALIBI
 http://
 
-#EXTINF:-1, GOOD FOOD
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] GOOD FOOD
 http://
 
-#EXTINF:-1, E4
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] E4
 http://
 
-#EXTINF:-1, MORE 4
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] MORE 4
 http://
 
-#EXTINF:-1, FOUR 7
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] FOUR 7
 http://
 
-#EXTINF:-1, BBC FOUR
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] BBC FOUR
 http://
 
-#EXTINF:-1, QUEST
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] QUEST
 http://
 
-#EXTINF:-1, CBS REALITY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CBS REALITY
 http://
 
-#EXTINF:-1, CBS ACTION
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CBS ACTION
 http://
 
-#EXTINF:-1, CBS DRAMA
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CBS DRAMA
 http://
 
-#EXTINF:-1, E! ENTERTAINMENT
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] E! ENTERTAINMENT 
 http://
 
-#EXTINF:-1, PICK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] PICK
 http://
 
-#EXTINF:-1, REALLY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] REALLY
 http://
 
-#EXTINF:-1, DRAMA
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DRAMA
 http://
 
-#EXTINF:-1, SPIKE UK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SPIKE UK
 http://
 
-#EXTINF:-1, DISCOVERY SHED
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISCOVERY SHED
 http://
 
-#EXTINF:-1, SKY 2
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY 2
 http://
 
-#EXTINF:-1, DISCOVERY HOME & HEALTH
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISCOVERY HOME & HEALTH
 http://
 
-#EXTINF:-1, MY5
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] MY5
 http://
 
-#EXTINF:-1, 5 USA
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] 5 USA
 http://
 
-#EXTINF:-1, 5 STAR
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] 5 STAR
 http://
 
-#EXTINF:-1, ITV BE
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV BE
 http://
 
-#EXTINF:-1, ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, TRUE ENTERTAINMENT
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TRUE ENTERTAINMENT
 http://
 
-#EXTINF:-1, TRUE CRIME
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TRUE CRIME
 http://
 
-#EXTINF:-1, AMC UK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] AMC UK
 http://
 
-#EXTINF:-1, ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, HOME
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] HOME
 http://
 
-#EXTINF:-1, ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, DAVE JA VU
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DAVE JA VU 
 http://
 
-#EXTINF:-1, DMAX
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DMAX
 http://
 
-#EXTINF:-1, FOOD NETWORK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] FOOD NETWORK
 http://
 
-#EXTINF:-1, TRAVEL CHANNEL
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TRAVEL CHANNEL 
 http://
 
-#EXTINF:-1, FOOD NETWORK [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] FOOD NETWORK [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, TRAVEL CHANNEL [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TRAVEL CHANNEL [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, SKY CINEMA PREMIER
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA PREMIER
 http://
 
-#EXTINF:-1, FILM 4
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR]FILM 4 
 http://
 
-#EXTINF:-1, TCM
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TCM
 http://
 
-#EXTINF:-1, HORROR CHANNEL
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] HORROR CHANNEL
 http://
 
-#EXTINF:-1, TRUEMOVIES
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TRUEMOVIES
 http://
 
-#EXTINF:-1, TRUE MOVIES 2
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] TRUE MOVIES 2
 http://
 
-#EXTINF:-1, SONY MOVIE CHANNEL
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SONY MOVIE CHANNEL
 http://
 
-#EXTINF:-1, MOVIES4MEN
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] MOVIES4MEN
 http://
 
-#EXTINF:-1, MOVIES 24
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] MOVIES 24
 http://
 
-#EXTINF:-1, SKY CINEMA SHOWCASE
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA SHOWCASE
 http://
 
-#EXTINF:-1, SKY CINEMA GREATS
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA GREATS
 http://
 
-#EXTINF:-1, SKY CINEMA DISNEY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA DISNEY
 http://
 
-#EXTINF:-1, SKY CINEMA FAMILY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA FAMILY
 http://
 
-#EXTINF:-1, SKY CINEMA ACTION
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA ACTION
 http://
 
-#EXTINF:-1, SKY CINEMA COMEDY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA COMEDY
 http://
 
-#EXTINF:-1, SKY CINEMA THRILLER
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA THRILLER
 http://
 
-#EXTINF:-1, SKY CINEMA DRAMA
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA DRAMA
 http://
 
-#EXTINF:-1, SKY CINEMA SCI-FI HORROR
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY CINEMA SCI-FI HORROR
 http://
 
-#EXTINF:-1, SKY MOVIES SELECT
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY MOVIES SELECT
 http://
 
-#EXTINF:-1, DISCOVERY CHANNEL UK
+#EXTINF:-1, [COLOR orange][I][B]#[/B][/I][/COLOR] DISCOVERY CHANNEL UK
 http://ns3054642.ip-213-32-6.eu:8000/live/fati/fati/7621/playlist.m3u8?
 
-#EXTINF:-1, ANIMAL PLANET
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ANIMAL PLANET
 http://
 
-#EXTINF:-1, DISCOVERY TURBO
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISCOVERY TURBO
 http://
 
-#EXTINF:-1, DISCOVERY SCIENCE
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISCOVERY SCIENCE
 http://
 
-#EXTINF:-1, NATIONAL GEOGRAPHIC CHANNEL UK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] NATIONAL GEOGRAPHIC CHANNEL UK
 http://
 
-#EXTINF:-1, NAT GEO WILK UK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] NAT GEO WILK UK
 http://
 
-#EXTINF:-1, HISTORY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] HISTORY
 http://
 
-#EXTINF:-1, H2
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] H2
 http://
 
-#EXTINF:-1, EDEN
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] EDEN
 http://
 
-#EXTINF:-1, DISCOVERY HISTORY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISCOVERY HISTORY
 http://
 
-#EXTINF:-1, YESTERDAY
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] YESTERDAY
 http://
 
-#EXTINF:-1, CARTOON NETWORK
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CARTOON NETWORK
 http://
 
-#EXTINF:-1, NICKELODEON
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] NICKELODEON
 http://
 
-#EXTINF:-1, NICKTOONS
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] NICKTOONS
 http://
 
-#EXTINF:-1, DISNEY CHANNEL
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISNEY CHANNEL
 http://
 
-#EXTINF:-1, DISNEY JUNIOR
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISNEY JUNIOR
 http://
 
-#EXTINF:-1, NICK JR
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] NICK JR
 http://
 
-#EXTINF:-1, DISNEY XD
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DISNEY XD
 http://
 
-#EXTINF:-1, CBEEBIES
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CBEEBIES 
 http://
 
-#EXTINF:-1, CBBC
+#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CBBC
 http://
