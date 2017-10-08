@@ -14,8 +14,8 @@ http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_
 #EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] BBC TWO
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV
-http://
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV
+https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CHANNEL 4
 http://
@@ -50,8 +50,8 @@ http://
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SYFY UK
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 2
-http://
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV 2
+https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 3
 http://
