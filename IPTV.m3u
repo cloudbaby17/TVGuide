@@ -17,8 +17,8 @@ http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_
 #EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV
 https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CHANNEL 4
-http://
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] CHANNEL 4
+http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CHANNEL 5
 http://
@@ -299,5 +299,5 @@ http://
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CBEEBIES 
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CBBC
-http://
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] CBBC
+http://uk.stream.yo.tv/livehttporigin/smil:Cbeebies.smil/playlist.m3u8
