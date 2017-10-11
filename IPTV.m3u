@@ -53,11 +53,11 @@ http://
 #EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 3
-http://
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV 3
+http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] ITV 4
-http://
+#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV 4
+http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY ARTS 1
 http://
