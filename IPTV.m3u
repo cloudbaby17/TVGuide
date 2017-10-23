@@ -8,40 +8,40 @@ http://
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR] BBC ONE 
+#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC ONE 
 http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] BBC TWO
+#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC TWO
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV
+#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV
 https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] CHANNEL 4
+#EXTINF:-1, [COLOR lime]•[/COLOR]     CHANNEL 4
 http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] CHANNEL 5
+#EXTINF:-1, [COLOR red]•[/COLOR]     CHANNEL 5
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     SKY 1
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY LIVING
+#EXTINF:-1, [COLOR red]•[/COLOR]     SKY LIVING
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY ATLANTIC
+#EXTINF:-1, [COLOR red]•[/COLOR]     SKY ATLANTIC
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] WATCH
+#EXTINF:-1, [COLOR red]•[/COLOR]     WATCH
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] GOLD
+#EXTINF:-1, [COLOR red]•[/COLOR]     GOLD
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] DAVE
+#EXTINF:-1, [COLOR red]•[/COLOR]     DAVE
 http://
 
-#EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] COMEDY CENTRAL
+#EXTINF:-1, [COLOR red]•[/COLOR]     COMEDY CENTRAL
 http://
 
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] UNIVERSAL
@@ -50,13 +50,13 @@ http://
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SYFY UK
 http://
 
-#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV 2
+#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV 3
+#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR green][I][B]#[/B][/I][/COLOR] ITV 4
+#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
 #EXTINF:-1, [COLOR red][I][B]#[/B][/I][/COLOR] SKY ARTS 1
