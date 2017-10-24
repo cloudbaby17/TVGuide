@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 23.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 24.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Sports [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR blue][I][B] Coming Soon [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
@@ -48,7 +48,7 @@ http://superstreams.tv/live/123123/123123/5453.m3u8
 http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     SYFY UK
-http://
+http://superstreams.tv/live/123123/123123/20661.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
@@ -194,14 +194,14 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     TRAVEL CHANNEL [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA PREMIER
-http://
+#EXTINF:-1, [COLOR limr]•[/COLOR]     SKY CINEMA PREMIER
+http://superstreams.tv/live/123123/123123/10990.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     FILM 4 
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     TCM
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     TCM
+http://superstreams.tv/live/123123/123123/13369.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     HORROR CHANNEL
 http://
@@ -221,35 +221,38 @@ http://superstreams.tv/live/123123/123123/651.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     MOVIES 24
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA SHOWCASE
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA SHOWCASE
+http://superstreams.tv/live/123123/123123/10988.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA GREATS
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA GREATS
+http://superstreams.tv/live/123123/123123/599.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA DISNEY
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA DISNEY
+http://superstreams.tv/live/123123/123123/10985.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA FAMILY
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA FAMILY
+http://superstreams.tv/live/123123/123123/10986.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA ACTION
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA ACTION
+http://superstreams.tv/live/123123/123123/612.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA COMEDY
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA COMEDY
+http://superstreams.tv/live/123123/123123/10987.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA THRILLER
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA THRILLER
+http://superstreams.tv/live/123123/123123/10989.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA DRAMA
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA DRAMA
+http://superstreams.tv/live/123123/123123/43540.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA SCI-FI HORROR
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA SCI-FI HORROR
+http://superstreams.tv/live/123123/123123/10991.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY MOVIES SELECT
 http://superstreams.tv/live/123123/123123/9949.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA SUPERHEROES
+http://superstreams.tv/live/123123/123123/10992.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY CHANNEL UK
 http://
@@ -284,29 +287,45 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     YESTERDAY
 http://superstreams.tv/live/123123/123123/5563.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     CARTOON NETWORK
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     CARTOON NETWORK
+http://superstreams.tv/live/123123/123123/593.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     NICKELODEON
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     NICKELODEON
+http://superstreams.tv/live/123123/123123/592.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     NICKTOONS
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     NICKTOONS
+http://superstreams.tv/live/123123/123123/11514.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISNEY CHANNEL
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DISNEY CHANNEL
+http://superstreams.tv/live/123123/123123/590.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     DISNEY JUNIOR
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     NICK JR
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     NICK JR
+http://superstreams.tv/live/123123/123123/594.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISNEY XD
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     NICK JR TOO
+http://superstreams.tv/live/123123/123123/8684.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DISNEY XD
+http://superstreams.tv/live/123123/123123/596.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     CBEEBIES 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     CBBC
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 3D
+http://superstreams.tv/live/123123/123123/25536.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 1
+http://superstreams.tv/live/123123/123123/25535.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 2
+http://superstreams.tv/live/123123/123123/25534.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 3
+http://superstreams.tv/live/123123/123123/25533.m3u8
+
