@@ -38,11 +38,11 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     GOLD
 http://superstreams.tv/live/123123/123123/662.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DAVE
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DAVE
+http://superstreams.tv/live/123123/123123/11000.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     COMEDY CENTRAL
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     COMEDY CENTRAL
+http://superstreams.tv/live/123123/123123/5453.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     UNIVERSAL
 http://
@@ -59,8 +59,8 @@ http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY ARTS 1
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY ARTS 1
+http://superstreams.tv/live/123123/123123/631.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV ENCORE
 http://
@@ -68,14 +68,14 @@ http://
 #EXTINF:-1,  [COLOR red]•[/COLOR]     FOX
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     TLC
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     TLC
+http://superstreams.tv/live/123123/123123/644.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     MTV
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     COMEDY CENTRAL EXTRA
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     COMEDY CENTRAL EXTRA
+http://superstreams.tv/live/123123/123123/5452.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
@@ -101,17 +101,23 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     QUEST
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     CBS REALITY
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     QUEST [COLOR green][I][B]+1[/B][/I][/COLOR]
+http://superstreams.tv/live/123123/123123/641.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     CBS ACTION
-http://
+#EXTINF:-1, [COLOR LIME]•[/COLOR]     CHALLENGE
+http://superstreams.tv/live/123123/123123/5460.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     CBS DRAMA
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS REALITY
+http://superstreams.tv/live/123123/123123/626.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     E! ENTERTAINMENT 
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS ACTION
+http://superstreams.tv/live/123123/123123/628.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS DRAMA
+http://superstreams.tv/live/123123/123123/627.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     E! ENTERTAINMENT 
+http://superstreams.tv/live/123123/123123/7996.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     PICK
 http://superstreams.tv/live/123123/123123/4960.m3u8
@@ -119,8 +125,8 @@ http://superstreams.tv/live/123123/123123/4960.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     REALLY
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DRAMA
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DRAMA
+http://superstreams.tv/live/123123/123123/629.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     SPIKE TV
 http://
@@ -131,8 +137,8 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY 2
 http://superstreams.tv/live/123123/123123/666.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY HOME & HEALTH
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DISCOVERY HOME & HEALTH
+http://superstreams.tv/live/123123/123123/13338.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     MY5
 http://superstreams.tv/live/123123/123123/20652.m3u8
@@ -170,8 +176,8 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     DAVE JA VU 
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DMAX
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DMAX
+http://superstreams.tv/live/123123/123123/366.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     FOOD NETWORK
 http://
@@ -242,8 +248,8 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     SKY MOVIES SELECT
 http://
 
-#EXTINF:-1, [COLOR orange]•[/COLOR]     DISCOVERY CHANNEL UK
-http://ns3054642.ip-213-32-6.eu:8000/live/fati/fati/7621/playlist.m3u8?
+#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY CHANNEL UK
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ANIMAL PLANET
 http://
@@ -266,14 +272,14 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     H2
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     EDEN
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     EDEN
+http://superstreams.tv/live/123123/123123/13098.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY HISTORY
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     YESTERDAY
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     YESTERDAY
+http://superstreams.tv/live/123123/123123/5563.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     CARTOON NETWORK
 http://
