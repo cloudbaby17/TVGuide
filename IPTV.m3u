@@ -32,8 +32,8 @@ http://superstreams.tv/live/123123/123123/13329.m3u8
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY ATLANTIC
 http://superstreams.tv/live/123123/123123/665.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     WATCH
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     WATCH
+http://superstreams.tv/live/123123/123123/7994.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     GOLD
 http://superstreams.tv/live/123123/123123/662.m3u8
@@ -128,17 +128,20 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     DRAMA
 http://superstreams.tv/live/123123/123123/629.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SPIKE TV
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SPIKE TV
+http://superstreams.tv/live/123123/123123/14237.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY SHED
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DISCOVERY SHED
+http://superstreams.tv/live/123123/123123/5470.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY 2
 http://superstreams.tv/live/123123/123123/666.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     DISCOVERY HOME & HEALTH
 http://superstreams.tv/live/123123/123123/13338.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     REAL LIVES
+http://superstreams.tv/live/123123/123123/5560.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     MY5
 http://superstreams.tv/live/123123/123123/20652.m3u8
@@ -245,8 +248,8 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     SKY CINEMA SCI-FI HORROR
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SKY MOVIES SELECT
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY MOVIES SELECT
+http://superstreams.tv/live/123123/123123/9949.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY CHANNEL UK
 http://
@@ -254,8 +257,8 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     ANIMAL PLANET
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY TURBO
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DISCOVERY TURBO
+http://superstreams.tv/live/123123/123123/5471.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY SCIENCE
 http://
@@ -266,8 +269,8 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     NAT GEO WILK
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     HISTORY
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     HISTORY
+http://superstreams.tv/live/123123/123123/649.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     H2
 http://
