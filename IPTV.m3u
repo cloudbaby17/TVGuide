@@ -2,14 +2,13 @@
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 24.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Online
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
-#EXTINF:-1, [COLOR orange]•[/COLOR]   Poor Connection
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Online
 http://
-#EXTINF:-1, [COLOR red]•[/COLOR]      Off Line
+#EXTINF:-1, [COLOR orange]•[/COLOR]     Poor Connection
 http://
-
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Sports [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR blue][I][B] Coming Soon [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red]•[/COLOR]     Off Line
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
@@ -165,12 +164,6 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     TRUE ENTERTAINMENT
-http://
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     TRUE CRIME
-http://
-
 #EXTINF:-1, [COLOR red]•[/COLOR]     AMC
 http://
 
@@ -201,10 +194,49 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     TRAVEL CHANNEL [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, [COLOR limr]•[/COLOR]     SKY CINEMA PREMIER
-http://superstreams.tv/live/123123/123123/10990.m3u8
+#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY CHANNEL UK
+http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     FILM 4 
+#EXTINF:-1, [COLOR red]•[/COLOR]     ANIMAL PLANET
+http://
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     DISCOVERY TURBO
+http://superstreams.tv/live/123123/123123/5471.m3u8
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY SCIENCE
+http://
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     NATIONAL GEOGRAPHIC CHANNEL
+http://
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     NAT GEO WILK
+http://
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     HISTORY
+http://superstreams.tv/live/123123/123123/649.m3u8
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     H2
+http://
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     EDEN
+http://superstreams.tv/live/123123/123123/13098.m3u8
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY HISTORY
+http://
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     YESTERDAY
+http://superstreams.tv/live/123123/123123/5563.m3u8
+
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Movies & Entertainment  [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+http://
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     TRUE ENTERTAINMENT
+http://
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     TRUE CRIME
+http://
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     FILM 4
 http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     TCM
@@ -227,6 +259,9 @@ http://superstreams.tv/live/123123/123123/651.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     MOVIES 24
 http://
+
+#EXTINF:-1, [COLOR limr]•[/COLOR]     SKY CINEMA PREMIER
+http://superstreams.tv/live/123123/123123/10990.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA SHOWCASE
 http://superstreams.tv/live/123123/123123/10988.m3u8
@@ -261,38 +296,11 @@ http://superstreams.tv/live/123123/123123/9949.m3u8
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA SUPERHEROES
 http://superstreams.tv/live/123123/123123/10992.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY CHANNEL UK
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Sports [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR blue][I][B] Coming Soon [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ANIMAL PLANET
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Kids Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     DISCOVERY TURBO
-http://superstreams.tv/live/123123/123123/5471.m3u8
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY SCIENCE
-http://
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     NATIONAL GEOGRAPHIC CHANNEL
-http://
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     NAT GEO WILK
-http://
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     HISTORY
-http://superstreams.tv/live/123123/123123/649.m3u8
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     H2
-http://
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     EDEN
-http://superstreams.tv/live/123123/123123/13098.m3u8
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     DISCOVERY HISTORY
-http://
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     YESTERDAY
-http://superstreams.tv/live/123123/123123/5563.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     CARTOON NETWORK
 http://superstreams.tv/live/123123/123123/593.m3u8
