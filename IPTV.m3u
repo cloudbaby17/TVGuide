@@ -2,13 +2,7 @@
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 25.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Online
-http://
-#EXTINF:-1, [COLOR orange]•[/COLOR]     Poor Connection
-http://
-#EXTINF:-1, [COLOR red]•[/COLOR]     Off Line
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime]•[/COLOR]     Online
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
@@ -227,7 +221,7 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Yesterday
 http://superstreams.tv/live/123123/123123/5563.m3u8
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Movies & Entertainment  [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Entertainment
@@ -308,7 +302,7 @@ http://superstreams.tv/live/123123/123123/25534.m3u8
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Box Office 3
 http://superstreams.tv/live/123123/123123/25533.m3u8
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Sports [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR blue][I][B] Coming Soon [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix HD
@@ -319,9 +313,6 @@ http://superstreams.tv/live/123123/123123/586.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports Main Events HD
 http://superstreams.tv/live/123123/123123/585.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Main Events SD
-http://superstreams.tv/live/123123/123123/579.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Cricket HD
 http://
