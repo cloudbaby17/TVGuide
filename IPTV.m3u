@@ -110,7 +110,7 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     QUEST [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://superstreams.tv/live/123123/123123/641.m3u8
 
-#EXTINF:-1, [COLOR LIME]•[/COLOR]     CHALLENGE
+#EXTINF:-1, [COLOR lime]•[/COLOR]     CHALLENGE
 http://superstreams.tv/live/123123/123123/5460.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     CBS REALITY
@@ -260,7 +260,7 @@ http://superstreams.tv/live/123123/123123/651.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     MOVIES 24
 http://
 
-#EXTINF:-1, [COLOR limr]•[/COLOR]     SKY CINEMA PREMIER
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA PREMIER
 http://superstreams.tv/live/123123/123123/10990.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA SHOWCASE
@@ -295,6 +295,18 @@ http://superstreams.tv/live/123123/123123/9949.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA SUPERHEROES
 http://superstreams.tv/live/123123/123123/10992.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 3D
+http://superstreams.tv/live/123123/123123/25536.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 1
+http://superstreams.tv/live/123123/123123/25535.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 2
+http://superstreams.tv/live/123123/123123/25534.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 3
+http://superstreams.tv/live/123123/123123/25533.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Sports [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR blue][I][B] Coming Soon [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
@@ -331,16 +343,3 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     CBBC
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 3D
-http://superstreams.tv/live/123123/123123/25536.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 1
-http://superstreams.tv/live/123123/123123/25535.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 2
-http://superstreams.tv/live/123123/123123/25534.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     SKY CINEMA BOX OFFICE 3
-http://superstreams.tv/live/123123/123123/25533.m3u8
-
