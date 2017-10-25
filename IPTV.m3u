@@ -9,7 +9,7 @@ http://
 http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC One 
-http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d827008.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
@@ -47,7 +47,7 @@ http://superstreams.tv/live/123123/123123/5453.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     Universal
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     SyFy
+#EXTINF:-1, [COLOR lime]•[/COLOR]     SyFy
 http://superstreams.tv/live/123123/123123/20661.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
@@ -71,8 +71,8 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     TLC
 http://superstreams.tv/live/123123/123123/644.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Mtv
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     MTv
+http://superstreams.tv/live/123123/123123/11004.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Comedy Central Extra
 http://superstreams.tv/live/123123/123123/5452.m3u8
@@ -80,8 +80,8 @@ http://superstreams.tv/live/123123/123123/5452.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Alibi
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Alibi
+http://superstreams.tv/live/123123/123123/632.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Good Food
 http://superstreams.tv/live/123123/123123/369.m3u8
@@ -92,16 +92,16 @@ http://superstreams.tv/live/123123/123123/653.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     More4
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Four Seven
+#EXTINF:-1, [COLOR lime]•[/COLOR]     4Seven
 http://superstreams.tv/live/123123/123123/5564.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BBC Four
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Quest
-http://
+http://superstreams.tv/live/123123/123123/641.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Quest [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR orange]•[/COLOR]     Quest [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://superstreams.tv/live/123123/123123/641.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Challenge
@@ -176,8 +176,8 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     DMAX
 http://superstreams.tv/live/123123/123123/366.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Food Network
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Food Network
+http://superstreams.tv/live/123123/123123/650.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
 http://
@@ -197,8 +197,8 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Discovery Turbo
 http://superstreams.tv/live/123123/123123/5471.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Science
-http://
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Discovery Science
+http://superstreams.tv/live/123123/123123/9949.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     National Geographic Channel
 http://
