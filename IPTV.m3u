@@ -2,7 +2,7 @@
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 28.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR red][B]Off Line[/COLOR][/B]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Oline[/COLOR][/B]
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
@@ -218,7 +218,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     Yesterday
 
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR][COLOR purple][I][B] Coming Soon [/B][/I][/COLOR]
 http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Entertainment
@@ -287,7 +287,7 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
 
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR][COLOR purple][I][B] Coming Soon [/B][/I][/COLOR]
 http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
