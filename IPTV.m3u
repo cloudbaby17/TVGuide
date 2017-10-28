@@ -1,65 +1,65 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 25.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 28.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR red][B]Off line[/COLOR][/B]
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC One 
+#EXTINF:-1, [COLOR red]•[/COLOR]     BBC One 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
+#EXTINF:-1, [COLOR red]•[/COLOR]     BBC Two
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV
+#EXTINF:-1, [COLOR red]•[/COLOR]     ITV
 https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 4
+#EXTINF:-1, [COLOR red]•[/COLOR]     Channel 4
 http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Channel 5
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky 1
 http://superstreams.tv/live/123123/123123/667.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Living
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living
 http://superstreams.tv/live/123123/123123/13329.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Atlantic
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Atlantic
 http://superstreams.tv/live/123123/123123/665.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     W
+#EXTINF:-1, [COLOR red]•[/COLOR]     W
 http://superstreams.tv/live/123123/123123/7994.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Gold
+#EXTINF:-1, [COLOR red]•[/COLOR]     Gold
 http://superstreams.tv/live/123123/123123/662.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Dave
+#EXTINF:-1, [COLOR red]•[/COLOR]     Dave
 http://superstreams.tv/live/123123/123123/11000.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Comedy Central
+#EXTINF:-1, [COLOR red]•[/COLOR]     Comedy Central
 http://superstreams.tv/live/123123/123123/5453.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Universal
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     SyFy
+#EXTINF:-1, [COLOR red]•[/COLOR]     SyFy
 http://superstreams.tv/live/123123/123123/20661.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 3
+#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
+#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Arts 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Arts 1
 http://superstreams.tv/live/123123/123123/631.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV Encore
@@ -68,91 +68,91 @@ http://
 #EXTINF:-1,  [COLOR red]•[/COLOR]     Fox
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     TLC
+#EXTINF:-1, [COLOR red]•[/COLOR]     TLC
 http://superstreams.tv/live/123123/123123/644.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     MTv
+#EXTINF:-1, [COLOR red]•[/COLOR]     MTv
 http://superstreams.tv/live/123123/123123/11004.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Comedy Central Extra
+#EXTINF:-1, [COLOR red]•[/COLOR]     Comedy Central Extra
 http://superstreams.tv/live/123123/123123/5452.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Alibi
+#EXTINF:-1, [COLOR red]•[/COLOR]     Alibi
 http://superstreams.tv/live/123123/123123/632.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Good Food
+#EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
 http://superstreams.tv/live/123123/123123/369.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     E4
+#EXTINF:-1, [COLOR red]•[/COLOR]     E4
 http://superstreams.tv/live/123123/123123/653.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     More4
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     4Seven
+#EXTINF:-1, [COLOR red]•[/COLOR]     4Seven
 http://superstreams.tv/live/123123/123123/5564.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four
+#EXTINF:-1, [COLOR red]•[/COLOR]     BBC Four
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Quest
 http://superstreams.tv/live/123123/123123/641.m3u8
 
-#EXTINF:-1, [COLOR orange]•[/COLOR]     Quest [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR red]•[/COLOR]     Quest [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://superstreams.tv/live/123123/123123/641.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Challenge
+#EXTINF:-1, [COLOR red]•[/COLOR]     Challenge
 http://superstreams.tv/live/123123/123123/5460.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS Reality
+#EXTINF:-1, [COLOR red]•[/COLOR]     CBS Reality
 http://superstreams.tv/live/123123/123123/626.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS Action
+#EXTINF:-1, [COLOR red]•[/COLOR]     CBS Action
 http://superstreams.tv/live/123123/123123/628.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS Drama
+#EXTINF:-1, [COLOR red]•[/COLOR]     CBS Drama
 http://superstreams.tv/live/123123/123123/627.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     E! Entertainment
+#EXTINF:-1, [COLOR red]•[/COLOR]     E! Entertainment
 http://superstreams.tv/live/123123/123123/7996.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Pick Tv
+#EXTINF:-1, [COLOR red]•[/COLOR]     Pick Tv
 http://superstreams.tv/live/123123/123123/4960.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Really
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Drama
+#EXTINF:-1, [COLOR red]•[/COLOR]     Drama
 http://superstreams.tv/live/123123/123123/629.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Spike Tv
+#EXTINF:-1, [COLOR red]•[/COLOR]     Spike Tv
 http://superstreams.tv/live/123123/123123/14237.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Discovery Shed
+#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Shed
 http://superstreams.tv/live/123123/123123/5470.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky 2
 http://superstreams.tv/live/123123/123123/666.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Discovery Home & Health
+#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Home & Health
 http://superstreams.tv/live/123123/123123/13338.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Real Lives
+#EXTINF:-1, [COLOR red]•[/COLOR]     Real Lives
 http://superstreams.tv/live/123123/123123/5560.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     My5
+#EXTINF:-1, [COLOR red]•[/COLOR]     My5
 http://superstreams.tv/live/123123/123123/20652.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     5 UUA
+#EXTINF:-1, [COLOR red]•[/COLOR]     5 UUA
 http://superstreams.tv/live/123123/123123/655.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     5 STAR
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITVBe
+#EXTINF:-1, [COLOR red]•[/COLOR]     ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
@@ -173,10 +173,10 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Dave Ja Vu 
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     DMAX
+#EXTINF:-1, [COLOR red]•[/COLOR]     DMAX
 http://superstreams.tv/live/123123/123123/366.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Food Network
+#EXTINF:-1, [COLOR red]•[/COLOR]     Food Network
 http://superstreams.tv/live/123123/123123/650.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
@@ -194,10 +194,10 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Animal Planet
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Discovery Turbo
+#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Turbo
 http://superstreams.tv/live/123123/123123/5471.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Discovery Science
+#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Science
 http://superstreams.tv/live/123123/123123/9949.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     National Geographic Channel
@@ -206,19 +206,19 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     History
+#EXTINF:-1, [COLOR red]•[/COLOR]     History
 http://superstreams.tv/live/123123/123123/649.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     H2
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Eden
+#EXTINF:-1, [COLOR red]•[/COLOR]     Eden
 http://superstreams.tv/live/123123/123123/13098.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery History
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Yesterday
+#EXTINF:-1, [COLOR red]•[/COLOR]     Yesterday
 http://superstreams.tv/live/123123/123123/5563.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
@@ -233,7 +233,7 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Film 4
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     TCM
+#EXTINF:-1, [COLOR red]•[/COLOR]     TCM
 http://superstreams.tv/live/123123/123123/13369.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Horror Channel
@@ -248,58 +248,58 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sony Movie Channel
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Movies4Men
+#EXTINF:-1, [COLOR red]•[/COLOR]     Movies4Men
 http://superstreams.tv/live/123123/123123/651.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Movies 24
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Premier
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Premier
 http://superstreams.tv/live/123123/123123/10990.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Showcase
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
 http://superstreams.tv/live/123123/123123/10988.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Greats
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Greats
 http://superstreams.tv/live/123123/123123/599.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Disney
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Disney
 http://superstreams.tv/live/123123/123123/10985.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Family
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Family
 http://superstreams.tv/live/123123/123123/10986.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Action
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Action
 http://superstreams.tv/live/123123/123123/612.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Comedy
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Comedy
 http://superstreams.tv/live/123123/123123/10987.m3u8
 #
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Thriller
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Thriller
 http://superstreams.tv/live/123123/123123/10989.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Drama
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Drama
 http://superstreams.tv/live/123123/123123/43540.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Sci-Fi Horror
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Sci-Fi Horror
 http://superstreams.tv/live/123123/123123/10991.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Movies Select
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Movies Select
 http://superstreams.tv/live/123123/123123/9949.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Superheroes
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
 http://superstreams.tv/live/123123/123123/10992.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Box Office 3D
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Box Office 3D
 http://superstreams.tv/live/123123/123123/25536.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Box Office 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Box Office 1
 http://superstreams.tv/live/123123/123123/25535.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Box Office 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Box Office 2
 http://superstreams.tv/live/123123/123123/25534.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Cinema Box Office 3
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Box Office 3
 http://superstreams.tv/live/123123/123123/25533.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
@@ -308,10 +308,10 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix HD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports News HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports News HD
 http://superstreams.tv/live/123123/123123/586.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports Main Events HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Main Events HD
 http://superstreams.tv/live/123123/123123/585.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Cricket HD
@@ -326,58 +326,58 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Action SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports Golf HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf HD
 http://superstreams.tv/live/123123/123123/582.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports Premier League HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Premier League HD
 http://superstreams.tv/live/123123/123123/581.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Premier League SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports Arena HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena HD
 http://superstreams.tv/live/123123/123123/584.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports Football HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Football HD
 http://superstreams.tv/live/123123/123123/32743.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports Football HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Football HD
 http://superstreams.tv/live/123123/123123/32742.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Football SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Sky Sports F1 HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports F1 HD
 http://superstreams.tv/live/123123/123123/580.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports F1 SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BT Sports 1 HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 1 HD
 http://superstreams.tv/live/123123/123123/12126.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 1 SD
 http://superstreams.tv/live/123123/123123/11787.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BT Sports 2 HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 2 HD
 http://superstreams.tv/live/123123/123123/572.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 2 SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BT Sports 3 HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 3 HD
 http://superstreams.tv/live/123123/123123/4931.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 3 SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BT Sports ESPN HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports ESPN HD
 http://superstreams.tv/live/123123/123123/12123.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports ESPN SD
@@ -389,7 +389,7 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BT Sport Extra 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 2
 http://superstreams.tv/live/123123/123123/12415.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 3
@@ -413,71 +413,71 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport 2 HD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     EIR Sports 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     EIR Sports 1
 http://superstreams.tv/live/123123/123123/11535.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     EIR Sports 2 HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     EIR Sports 2 HD
 http://superstreams.tv/live/123123/123123/11536.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Premier Sports HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Premier Sports HD
 http://superstreams.tv/live/123123/123123/568.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Boxnation SD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Motorsport TV
+#EXTINF:-1, [COLOR red]•[/COLOR]     Motorsport TV
 http://superstreams.tv/live/123123/123123/12170.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     William Hill TV
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     At The Races
+#EXTINF:-1, [COLOR red]•[/COLOR]     At The Races
 http://superstreams.tv/live/123123/123123/150.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Racing UK HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Racing UK HD
 http://superstreams.tv/live/123123/123123/12392.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Redbull TV HD
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     MUTV HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     MUTV HD
 http://superstreams.tv/live/123123/123123/12398.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Liverpool FC TV HD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Liverpool FC TV HD
 http://superstreams.tv/live/123123/123123/12120.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Chelsea TV
+#EXTINF:-1, [COLOR red]•[/COLOR]     Chelsea TV
 http://superstreams.tv/live/123123/123123/8528.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Kids Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Cartoon Network
+#EXTINF:-1, [COLOR red]•[/COLOR]     Cartoon Network
 http://superstreams.tv/live/123123/123123/593.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Nickelodeon
+#EXTINF:-1, [COLOR red]•[/COLOR]     Nickelodeon
 http://superstreams.tv/live/123123/123123/592.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Nicktoons
+#EXTINF:-1, [COLOR red]•[/COLOR]     Nicktoons
 http://superstreams.tv/live/123123/123123/11514.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Disney Channel
+#EXTINF:-1, [COLOR red]•[/COLOR]     Disney Channel
 http://superstreams.tv/live/123123/123123/590.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Disney Junior
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Nick jr
+#EXTINF:-1, [COLOR red]•[/COLOR]     Nick jr
 http://superstreams.tv/live/123123/123123/594.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Nick jr Too
+#EXTINF:-1, [COLOR red]•[/COLOR]     Nick jr Too
 http://superstreams.tv/live/123123/123123/8684.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Disney XD
+#EXTINF:-1, [COLOR red]•[/COLOR]     Disney XD
 http://superstreams.tv/live/123123/123123/596.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbeebies 
+#EXTINF:-1, [COLOR red]•[/COLOR]     Cbeebies 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc
+#EXTINF:-1, [COLOR red]•[/COLOR]     Cbbc
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
