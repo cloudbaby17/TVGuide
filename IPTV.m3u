@@ -427,3 +427,5 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIabc.png" group-title="DC Dis Columbia",WJLA 7 News - 7 DT - Washington - DC Dis Columbia
