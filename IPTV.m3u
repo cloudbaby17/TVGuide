@@ -20,7 +20,7 @@ https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 4
 http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 5
+#EXTINF:-1, [COLOR white]•[/COLOR]     Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky 1
@@ -86,7 +86,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 #EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     E4
+#EXTINF:-1, [COLOR white]•[/COLOR]     E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     More4
