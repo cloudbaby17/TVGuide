@@ -23,8 +23,8 @@ http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky 1
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
+http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1919.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living
 
@@ -35,8 +35,8 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     W
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Gold
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Gold
+http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1915.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Dave
 
@@ -119,8 +119,8 @@ http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1934.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     Pick Tv
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Really
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Really
+http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1940.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Drama
 
@@ -173,8 +173,8 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     DMAX
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Food Network
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Food Network
+http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1942.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
 
@@ -200,8 +200,8 @@ http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1875.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     National Geographic Channel
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Nat Geo Wild
+http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1889.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     History
 
