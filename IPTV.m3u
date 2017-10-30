@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 28.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 30.10.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
@@ -20,11 +20,11 @@ https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 4
 http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Channel 5
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1919.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living
 
@@ -36,13 +36,13 @@ http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1919.m3u8
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Gold
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1915.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Dave
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1896.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Universal
 
@@ -86,7 +86,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 #EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     E4
+#EXTINF:-1, [COLOR lime]•[/COLOR]     E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     More4
@@ -105,22 +105,22 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     CBS Reality
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1910.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     CBS Action
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1909.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     CBS Drama
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1908.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     E! Entertainment
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1934.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Pick Tv
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Really
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1940.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Drama
 
@@ -174,7 +174,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Food Network
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1942.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
 
@@ -186,22 +186,22 @@ http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1942.m3u8
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Channel
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1886.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Animal Planet
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1879.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Turbo
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1875.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     National Geographic Channel
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Nat Geo Wild
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1889.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     History
 
@@ -213,7 +213,7 @@ http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1889.m3u8
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery History
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1873.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Yesterday
 
@@ -228,7 +228,7 @@ http://
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Film 4
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1830.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     TCM
 
@@ -321,10 +321,10 @@ http://
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 1
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/369.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 2
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/367.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 3
 
@@ -408,7 +408,7 @@ http://
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Disney Channel
-http://sekoiptv.ddns.net:8080/live/HgEsHKR5yE/gvij2f57ER/1844.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Disney Junior
 
