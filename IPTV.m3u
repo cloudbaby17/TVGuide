@@ -89,8 +89,8 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 #EXTINF:-1, [COLOR lime]•[/COLOR]     E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     More4
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     More4
+http://185.19.188.37:8090/MORE4/index.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     4Seven
 
