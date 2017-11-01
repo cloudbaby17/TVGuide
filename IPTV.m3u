@@ -197,8 +197,8 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     National Geographic Channel
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     National Geographic Channel
+http://185.19.188.12:8090/NATGEO/index.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Nat Geo Wild
 
