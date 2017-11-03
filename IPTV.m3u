@@ -227,7 +227,7 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Crime
 
 
-#EXTINF:-1, channel-id="Film4.uk" tvg-name="Film4" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/Film4.png"group-title=".",Film 4
+#EXTINF:-1, channel-id="Film4.uk" tvg-name="Film4" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/Film4.png"group-title=".",Film4
 http://185.19.188.12:8090/FILM4/index.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     TCM
