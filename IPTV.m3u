@@ -14,7 +14,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 #EXTINF:-1, channel-id="BBC Two.uk" tvg-name="BBC Two" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/BBC Two.png"group-title=".",BBC Two
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, channel-id="ITV1.uk" tvg-name="ITV1" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/ITV1.png"group-title=".",ITV
+#EXTINF:-1, channel-id="ITV1.uk" tvg-name="ITV1" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/ITV1.png"group-title=".",ITV1
 https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 
 #EXTINF:-1, channel-id="Channel 4.uk" tvg-name="Channel 4" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/Channel 4.png"group-title=".",Channel 4
@@ -50,13 +50,13 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     SyFy
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
+#EXTINF:-1, channel-id="ITV2.uk" tvg-name="ITV2" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/ITV2.png"group-title=".",ITV2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 3
+#EXTINF:-1, channel-id="ITV3.uk" tvg-name="ITV3" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/ITV3.png"group-title=".",ITV3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
+#EXTINF:-1, channel-id="ITV4.uk" tvg-name="ITV4" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/ITV2.png"group-title=".",ITV4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Arts 1
@@ -86,7 +86,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 #EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     E4
+#EXTINF:-1, channel-id="E4.uk" tvg-name="E4" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/E4.png"group-title=".",E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     More4
@@ -95,7 +95,7 @@ http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     4Seven
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four
+#EXTINF:-1, channel-id="BBC Four.uk" tvg-name="BBC Four" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/BBC Four.png"group-title=".",BBC Four
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Quest
