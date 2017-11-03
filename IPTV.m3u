@@ -9,10 +9,10 @@ http://
 http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC One
+<channel update="i" site="tv.sky.com" site_id="2002" xmltv_id="BBC One Lon">BBC One Lon</channel>
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
-<channel update="i" site="tv.sky.com" site_id="2002" xmltv_id="BBC One Lon">BBC One Lon</channel>
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV
