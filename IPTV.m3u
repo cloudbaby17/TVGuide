@@ -9,6 +9,7 @@ http://
 http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC One
+#EXTINF:-1 tvg-logo="special://home/media\Logos\yourlogoname.png", BBC One
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
