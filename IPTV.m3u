@@ -11,16 +11,16 @@ http://
 #EXTINF:-1, [COLOR lime]•[/COLOR]     tvg-logo="special://home/media\Logos\yourlogoname.png", BBC One
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
+#EXTINF:-1, [COLOR lime]•[/COLOR]     tvg-logo="special://home/media\Logos\yourlogoname.png", BBC Two
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV
+#EXTINF:-1, [COLOR lime]•[/COLOR]     tvg-logo="special://home/media\Logos\yourlogoname.png", ITV
 https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 4
+#EXTINF:-1, [COLOR lime]•[/COLOR]     tvg-logo="special://home/media\Logos\yourlogoname.png", Channel 4
 http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 5
+#EXTINF:-1, [COLOR lime]•[/COLOR]     tvg-logo="special://home/media\Logos\yourlogoname.png", Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
