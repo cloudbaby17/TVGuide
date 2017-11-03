@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 01.11.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 03.11.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
@@ -90,7 +90,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     More4
-http://185.19.188.37:8090/MORE4/index.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     4Seven
 
