@@ -197,7 +197,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
 
 
-#EXTINF:-1, channel-id="National Geographic Channel.uk" tvg-name="National Geographic Channel" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/ITV2.png"group-title=".",National Geographic Channel
+#EXTINF:-1, channel-id="National Geographic.uk" tvg-name="National Geographic" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/National Geographic.png"group-title=".",National Geographic
 http://185.19.188.12:8090/NATGEO/index.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Nat Geo Wild
