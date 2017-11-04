@@ -86,7 +86,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 #EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
 
 
-#EXTINF:-1, channel-id="E4.uk" tvg-name="E4" tvg-logo="tvg-logo="https://github.com/cloudbaby17/CloudBaby/tree/master/logos/E4.png"group-title=".",E4
+#EXTINF:-1, [COLOR lime]•[/COLOR]     E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     More4
