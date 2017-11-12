@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] List Updated 03.11.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 12.11.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
@@ -36,7 +36,7 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Gold
-
+http://79.137.106.229/hls/ed9aeed9b886e909d0bc65f904923f1a/1510511301/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133372f7032702f32633038393838323261623362616637663933626561383636343861646232362e6d3375383f73743d6d6c766542697a45436c324c4e5a394d4a794f347a5126653d31353130353235373031.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Dave
 
@@ -186,7 +186,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Channel
-
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/503.m3u8?
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Animal Planet
 
@@ -201,7 +201,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Nat Geo Wild
-
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/225.m3u8?
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     History
 
@@ -246,43 +246,43 @@ http://
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Movies4Men
-http://46.105.82.149///hls/3697cee82f50e8d9941d1d0ac82d4964/1510103375/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e3130322e3231392e3133382f7032702f35663664323961323737613930393739376537656233363066336363366531622e6d3375383f73743d4f6954474a74464563465339687a44424f735576627726653d31353130313137373735.m3u8?
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Movies 24
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Premier
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Premier
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/355.m3u8?
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Greats
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Greats
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/357.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Disney
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/360.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Disney
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Family
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/358.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Action
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/356.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Family
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Comedy
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/361.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Thriller
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/425.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Action
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Drama
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/359.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Sci-Fi Horror
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/427.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Comedy
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Thriller
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Drama
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Sci-Fi Horror
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Movies Select
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Movies Select
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/426.m3u8?
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
 
@@ -293,44 +293,44 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports News
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports News
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/146.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Main Events
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/141.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Main Events
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Cricket
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/142.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Action
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/143.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Cricket
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Golf 
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/144.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Premier League 
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/145.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Action
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Arena
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/469.m3u8?
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Football
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/468.m3u8?
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf 
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Premier League 
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Football
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports F1
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports F1
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/147.m3u8?
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 1
-
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/148.m3u8?
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 2
-
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/149.m3u8?
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 3
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/368.m3u8?
 
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports ESPN
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports ESPN
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/151.m3u8?
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1
 
@@ -386,11 +386,11 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Redbull TV
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     MUTV
+#EXTINF:-1, [COLOR white]•[/COLOR]     MUTV
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/30.m3u8?
 
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Liverpool FC TV
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Liverpool FC TV
+http://194.88.104.11:8000/live/JYiopS12plm0ip/JYiopS12plm0ipJY/429.m3u8?
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Chelsea TV
 
