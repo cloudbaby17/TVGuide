@@ -5,9 +5,6 @@ http://
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
 http://
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] UK Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
-
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC One
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
@@ -23,25 +20,28 @@ http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
-
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky 1
+http://163.172.19.242:80/live/555555555/555555555/667.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Atlantic
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living +1
+http://163.172.19.242:80/live/555555555/555555555/13329.m3u8
 
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Atlantic HD
+http://163.172.19.242:80/live/555555555/555555555/665.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     W
+#EXTINF:-1, [COLOR red]•[/COLOR]     W HD
+http://163.172.19.242:80/live/555555555/555555555/7994.m3u8
 
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Gold
-
+#EXTINF:-1, [COLOR red]•[/COLOR]     Gold
+http://163.172.19.242:80/live/555555555/555555555/662.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Dave
+http://163.172.19.242:80/live/555555555/555555555/11000.m3u8
 
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central
+#EXTINF:-1, [COLOR red]•[/COLOR]     Comedy Central
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Universal
@@ -89,7 +89,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 #EXTINF:-1, [COLOR lime]•[/COLOR]     E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     More4
+#EXTINF:-1, [COLOR red]•[/COLOR]     More4
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     4Seven
@@ -104,22 +104,22 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 #EXTINF:-1, [COLOR red]•[/COLOR]     Challenge
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Reality
+#EXTINF:-1, [COLOR red]•[/COLOR]     CBS Reality
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Action
+#EXTINF:-1, [COLOR red]•[/COLOR]     CBS Action
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Drama
+#EXTINF:-1, [COLOR red]•[/COLOR]     CBS Drama
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     E! Entertainment
+#EXTINF:-1, [COLOR red]•[/COLOR]     E! Entertainment
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Pick Tv
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Really
+#EXTINF:-1, [COLOR red]•[/COLOR]     Really
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Drama
@@ -173,7 +173,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     DMAX
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Food Network
+#EXTINF:-1, [COLOR red]•[/COLOR]     Food Network
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
@@ -185,22 +185,22 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Channel
+#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Channel
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Animal Planet
+#EXTINF:-1, [COLOR red]•[/COLOR]     Animal Planet
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Turbo
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
+#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Science
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     National Geographic
+#EXTINF:-1, [COLOR red]•[/COLOR]     National Geographic
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Nat Geo Wild
+#EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     History
@@ -212,7 +212,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     Eden
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery History
+#EXTINF:-1, [COLOR red]•[/COLOR]     Discovery History
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Yesterday
@@ -227,7 +227,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Crime
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Film4
+#EXTINF:-1, [COLOR red]•[/COLOR]     Film4
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     TCM
@@ -245,43 +245,43 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sony Movie Channel
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Movies4Men
+#EXTINF:-1, [COLOR red]•[/COLOR]     Movies4Men
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Movies 24
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Premier
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Premier
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Greats
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Greats
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Disney
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Disney
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Family
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Family
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Action
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Action
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Comedy
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Comedy
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Thriller
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Thriller
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Drama
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Drama
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Sci-Fi Horror
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Sci-Fi Horror
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Movies Select
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Movies Select
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
@@ -293,43 +293,43 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports News
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports News
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Main Events
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Main Events
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Cricket
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Cricket
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Action
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Action
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Golf 
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf 
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Premier League 
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Premier League 
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Arena
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Football
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Football
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports F1
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports F1
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 1
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 2
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 3
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports ESPN
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports ESPN
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1
@@ -386,10 +386,10 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     Redbull TV
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     MUTV
+#EXTINF:-1, [COLOR red]•[/COLOR]     MUTV
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Liverpool FC TV
+#EXTINF:-1, [COLOR red]•[/COLOR]     Liverpool FC TV
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Chelsea TV
@@ -407,7 +407,7 @@ http://
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nicktoons
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Disney Channel
+#EXTINF:-1, [COLOR red]•[/COLOR]     Disney Channel
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Disney Junior
@@ -427,4 +427,3 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-
