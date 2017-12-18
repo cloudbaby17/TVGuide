@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 17.12.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 18.12.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
@@ -20,35 +20,35 @@ http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky 1
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
 http://163.172.19.242:80/live/555555555/555555555/667.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
+http://
 
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Living +1
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR] [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://163.172.19.242:80/live/555555555/555555555/13329.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Atlantic HD
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Atlantic [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://163.172.19.242:80/live/555555555/555555555/665.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     W HD
+#EXTINF:-1, [COLOR white]•[/COLOR]     W [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://163.172.19.242:80/live/555555555/555555555/7994.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Gold
+#EXTINF:-1, [COLOR white]•[/COLOR]     Gold
 http://163.172.19.242:80/live/555555555/555555555/662.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Dave
+#EXTINF:-1, [COLOR white]•[/COLOR]     Dave
 http://163.172.19.242:80/live/555555555/555555555/11000.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Comedy Central
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/5453.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Universal
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     SyFy
-
+http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
@@ -59,368 +59,365 @@ http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Arts 1
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Arts [COLOR blue][I][B]HD[/B][/I][/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/631.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV Encore
-
+http://
 
 #EXTINF:-1,  [COLOR red]•[/COLOR]     Fox
+http://
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     TLC
+http://163.172.19.242:80/live/555555555/555555555/644.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     TLC
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     MTv
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Comedy Central Extra
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central Extra
+http://163.172.19.242:80/live/555555555/555555555/5452.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
+http://
 
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Alibi
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Alibi
+http://163.172.19.242:80/live/555555555/555555555/632.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
-
+http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     More4
+#EXTINF:-1, [COLOR white]•[/COLOR      More4
+http://163.172.19.242:80/live/555555555/555555555/651.m3u8
 
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     4Seven
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     4Seven
+http://163.172.19.242:80/live/555555555/555555555/5564.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Quest
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Challenge
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     CBS Reality
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     CBS Action
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     CBS Drama
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     E! Entertainment
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Pick Tv
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Really
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Drama
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Spike Tv
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Shed
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky 2
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Home & Health
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Real Lives
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     My5
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     5 UUA
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     5 STAR
-
+http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     AMC
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Home
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Dave Ja Vu 
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     DMAX
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Food Network
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel [COLOR green][I][B]+1[/B][/I][/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Channel
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Animal Planet
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Turbo
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery Science
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     National Geographic
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     History
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     H2
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Eden
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Discovery History
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Yesterday
-
+http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Entertainment
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Crime
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Film4
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     TCM
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Horror Channel
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Movies
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     True Movies 2
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sony Movie Channel
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Movies4Men
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Movies 24
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Premier
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Greats
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Disney
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Family
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Action
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Comedy
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Thriller
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Drama
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Sci-Fi Horror
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Movies Select
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
-
+http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports News
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Main Events
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Cricket
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Action
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf 
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Premier League 
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Football
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports F1
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 1
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 2
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 3
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports ESPN
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 2
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 3
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 4
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 5
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 6
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports Mosaic
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport 2
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     EIR Sports 1
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     EIR Sports 2
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Premier Sports
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Boxnation
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Motorsport TV
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     William Hill TV
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     At The Races
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Racing UK
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Redbull TV
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     MUTV
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Liverpool FC TV
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Chelsea TV
-
+http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Kids Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Cartoon Network
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nickelodeon
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nicktoons
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Disney Channel
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Disney Junior
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nick jr
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nick jr Too
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Disney XD
-
+http://
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Cbeebies 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
