@@ -44,8 +44,8 @@ http://163.172.19.242:80/live/555555555/555555555/11000.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://163.172.19.242:80/live/555555555/555555555/5453.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Universal
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Universal
+http://163.172.19.242:80/live/555555555/555555555/20662.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     SyFy
 
@@ -59,14 +59,14 @@ http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Arts [COLOR blue][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Arts
 http://163.172.19.242:80/live/555555555/555555555/631.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV Encore
+#EXTINF:-1, [COLOR white]•[/COLOR]     ITV Encore
+http://163.172.19.242:80/live/555555555/555555555/12399.m3u8
 
-
-#EXTINF:-1,  [COLOR red]•[/COLOR]     Fox
-
+#EXTINF:-1,  [COLOR white]•[/COLOR]     Fox
+http://163.172.19.242:80/live/555555555/555555555/4959.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     TLC
 http://163.172.19.242:80/live/555555555/555555555/644.m3u8
@@ -113,7 +113,7 @@ http://163.172.19.242:80/live/555555555/555555555/627.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     E! Entertainment
 http://163.172.19.242:80/live/555555555/555555555/7996.m3u8
 
-#EXTINF:-1, [COLOR orange]•[/COLOR]     Pick
+#EXTINF:-1, [COLOR white]•[/COLOR]     Pick
 http://163.172.19.242:80/live/555555555/555555555/4960.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Really
@@ -134,8 +134,8 @@ http://163.172.19.242:80/live/555555555/555555555/666.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Home & Health
 http://163.172.19.242:80/live/555555555/555555555/13338.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Real Lives
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Real Lives
+http://163.172.19.242:80/live/555555555/555555555/9492.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     My5
 http://163.172.19.242:80/live/555555555/555555555/20652.m3u8
@@ -145,6 +145,9 @@ http://163.172.19.242:80/live/555555555/555555555/20652.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR
 http://163.172.19.242:80/live/555555555/555555555/5461.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/44092.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
@@ -254,8 +257,8 @@ http://163.172.19.242:80/live/555555555/555555555/597.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     Movies 24
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Premier
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Premier
+http://163.172.19.242:80/live/555555555/555555555/13374.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
 
@@ -263,17 +266,17 @@ http://163.172.19.242:80/live/555555555/555555555/597.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Greats
 http://163.172.19.242:80/live/555555555/555555555/599.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Disney
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Disney
+http://163.172.19.242:80/live/555555555/555555555/10985.m3u8
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Family
+http://163.172.19.242:80/live/555555555/555555555/13372.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Family
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Action & Adventure
+http://163.172.19.242:80/live/555555555/555555555/612.m3u8
 
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Action
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Comedy
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Comedy
+http://163.172.19.242:80/live/555555555/555555555/607.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Crime & Thriller
 http://163.172.19.242:80/live/555555555/555555555/13368.m3u8
@@ -299,67 +302,70 @@ http://163.172.19.242:80/live/555555555/555555555/4955.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports News
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Main Events
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Main Event [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/579.m3u8
 
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Cricket [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/578.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Cricket
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Action
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Action [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/583.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf 
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Premier League 
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Premier League [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/581.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Football
+#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Darts [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/32738.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Football [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/32743.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports F1 [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/580.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 1 [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/11375.m3u8
+
+#EXTINF:-1, [COLOR orange]•[/COLOR]     BT Sports 2 [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/11374.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 3 [COLOR blue]HD[/COLOR]
+http://163.172.19.242:80/live/555555555/555555555/11373.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports ESPN 
+http://163.172.19.242:80/live/555555555/555555555/11784.m3u8
+
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1 [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports F1
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 2 [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 3 [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 4 [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports 3
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 5 [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports ESPN
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 6 [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1
+#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports Mosaic [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 3
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 4
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 5
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 6
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports Mosaic
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport 2
+#EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport 2 [COLOR blue]HD[/COLOR]
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     EIR Sports 1
@@ -399,7 +405,7 @@ http://163.172.19.242:80/live/555555555/555555555/4955.m3u8
 
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Kids Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Cartoon Network
 http://163.172.19.242:80/live/555555555/555555555/593.m3u8
