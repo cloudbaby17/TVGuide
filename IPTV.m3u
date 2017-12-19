@@ -72,7 +72,7 @@ http://163.172.19.242:80/live/555555555/555555555/4959.m3u8
 http://163.172.19.242:80/live/555555555/555555555/644.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central Extra
-http://163.172.19.242:80/live/555555555/555555555/5452.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 
@@ -281,7 +281,7 @@ http://163.172.19.242:80/live/555555555/555555555/607.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Crime & Thriller
 http://163.172.19.242:80/live/555555555/555555555/13368.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Drama Romance
+#EXTINF:-1, [COLOR orange]•[/COLOR]     Sky Cinema Drama Romance
 http://163.172.19.242:80/live/555555555/555555555/9463.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Sci-Fi Horror
@@ -294,7 +294,7 @@ http://163.172.19.242:80/live/555555555/555555555/4955.m3u8
 
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-
+http://
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
 
