@@ -224,6 +224,9 @@ http://163.172.19.242:80/live/555555555/555555555/8452.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     Investigation Discovery
 http://163.172.19.242:80/live/555555555/555555555/13327.m3u8
 
+#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four [COLOR blue]HD[/COLOR]
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
@@ -407,7 +410,7 @@ http://163.172.19.242:80/live/555555555/555555555/11784.m3u8
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Kids Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR LIME]•[/COLOR]     Cartoon Network
+#EXTINF:-1, [COLOR Lime]•[/COLOR]     Cartoon Network
 http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nickelodeon
@@ -434,26 +437,26 @@ http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="Apple
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Disney XD 
 http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbeebies 
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbeebies [COLOR blue]HD[/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc [COLOR blue]HD[/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] TESTING [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, UK ITV Live Events Channel
+#EXTINF:-1, [COLOR lime]•[/COLOR]     UK ITV Live Events Channel
 https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
 
-#EXTINF:-1, UK Sky News HD
+#EXTINF:-1, [COLOR lime]•[/COLOR]     UK Sky News HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 
-#EXTINF:-1, CBS News
+#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS News
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 
-#EXTINF:-1, EU History
+#EXTINF:-1, [COLOR lime]•[/COLOR]     EU History
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1, UK London Live
+#EXTINF:-1, [COLOR lime]•[/COLOR]     UK London Live 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
