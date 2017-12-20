@@ -440,24 +440,8 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 
-
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] TESTING [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
-
-#EXTINF:-1, UK ITV 
-itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
-
-#EXTINF:-1, UK ITV 2
-itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
-
-#EXTINF:-1, UK ITV 3
-itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
-
-#EXTINF:-1, UK ITV 4
-itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
-
-#EXTINF:-1, UK ITVBe
-itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8
 
 #EXTINF:-1, UK ITV Live Events Channel
 https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
@@ -470,9 +454,6 @@ http://www.cbsnews.com/common/video/dai_prod.m3u8
 
 #EXTINF:-1, EU History
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:-1, UK BabyTV
-cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1, UK London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
