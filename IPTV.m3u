@@ -458,9 +458,9 @@ http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="Ap
 #EXTINF:-1, [COLOR lime]•[/COLOR]     UK London Live 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
-#EXTINF:-1 [COLOR lime]•[/COLOR]     UK BBC News [COLOR blue]HD[/COLOR]
+#EXTINF:-1, [COLOR lime]•[/COLOR]     UK BBC News [COLOR blue]HD[/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
 
-#EXTINF:-1 [COLOR lime]•[/COLOR]     UK BBC Parliament
+#EXTINF:-1, [COLOR lime]•[/COLOR]     UK BBC Parliament
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
 
