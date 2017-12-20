@@ -407,8 +407,8 @@ http://163.172.19.242:80/live/555555555/555555555/11784.m3u8
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Kids Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Cartoon Network
-http://163.172.19.242:80/live/555555555/555555555/593.m3u8
+#EXTINF:-1, [COLOR LIME]•[/COLOR]     Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nickelodeon
 
@@ -428,8 +428,11 @@ http://163.172.19.242:80/live/555555555/555555555/593.m3u8
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nick jr Too
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Disney XD [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/596.m3u8
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Boomerang
+http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Disney XD 
+http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Cbeebies 
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
@@ -442,19 +445,19 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://
 
 #EXTINF:-1, UK ITV 
-http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
+itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
 
 #EXTINF:-1, UK ITV 2
-https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
+itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
 #EXTINF:-1, UK ITV 3
-http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
 #EXTINF:-1, UK ITV 4
-http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
 #EXTINF:-1, UK ITVBe
-http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8
+itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8
 
 #EXTINF:-1, UK ITV Live Events Channel
 https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
@@ -465,20 +468,11 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 #EXTINF:-1, CBS News
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 
-#EXTINF:-1, UK History
+#EXTINF:-1, EU History
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1, UK Disney XD
-http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:-1, UK Boomerang
-http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
-
-#EXTINF:-1, UK Cartoon Network HD
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
-
 #EXTINF:-1, UK BabyTV
-http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1, UK London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
