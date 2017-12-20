@@ -438,7 +438,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] PROJECT CYPHER - TESTING [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] TESTING [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
 #EXTINF:-1, UK ITV 
@@ -462,50 +462,8 @@ https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/mast
 #EXTINF:-1, UK Sky News HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 
-#EXTINF:-1, USA MLB Network HD
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1, USA NBC Golf Full HD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, USA NFL Now HD
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
-
-#EXTINF:-1, USA NFL Stadium HD
-https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1, USA NBC Sports Northwest Full HD
-http://tvecsnnorthwest-i.akamaihd.net/hls/live/219796/CSNnorthwestx/4296k/prog.m3u8|X-Forwarded-For=162.244.81.241
-
-#EXTINF:-1, USA NBC Sports Golf Full HD
-http://play-prod1.nbc.anvato.net/server/play/golfxctgstg/4326000/prog.m3u8|X-Forwarded-For=162.244.81.241
-
-#EXTINF:-1, uSA NBC Sports New England Full HD
-http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8|X-Forwarded-For=162.244.81.241
-
-#EXTINF:-1, USA NBC Sports Bay Area Full HD
-http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8|X-Forwarded-For=162.244.81.241
-
-#EXTINF:-1, USA NBC Sports California Full HD
-http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8|X-Forwarded-For=162.244.81.241
-
-#EXTINF:-1, USA NBC Sports Chicago Full HD
-http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/4296k/prog.m3u8|X-Forwarded-For=162.244.81.241
-
-#EXTINF:-1, USA NBC Sports Philly Full HD
-http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8|X-Forwarded-For=162.244.81.241
-
 #EXTINF:-1, CBS News
 http://www.cbsnews.com/common/video/dai_prod.m3u8
-
-#EXTINF:-1, 105.7 The Fan
-http://cbslocalhls-i.akamaihd.net/hls/live/219778/WJZFM-IOS/wjzfmlive.m3u8
-
-#EXTINF:-1, 106.7 The Fan
-http://cbslocalhls-i.akamaihd.net/hls/live/204776/WJFK-FM-IOS/wjfklive.m3u8
-
-#EXTINF:-1, UK Ginx
-http://cdn.iptv.amis.net/LIVE/CROGINX/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1, UK History
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
@@ -524,15 +482,3 @@ http://cdn.iptv.amis.net/LIVE/BabyTV/stream_wifi_1200k.m3u8|User-Agent="AppleCor
 
 #EXTINF:-1, UK London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
-#EXTINF:-1, IRE Parlement Ireland
-https://media.heanet.ie/oirlive/dail/ngrp%3adail.stream_all/playlist.m3u8
-
-#EXTINF:-1, IRE RTE News Now
-http://wmsv1.rte.ie/live/smil%3aiphone.smil/playlist.m3u8
-
-#EXTINF:-1, USA Wilderness Channel
-http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
-
-#EXTINF:-1, USA INFO WARS
-http://infowarslive-lh.akamaihd.net:80/i/infowarslivestream_1@353459/master.m3u8
