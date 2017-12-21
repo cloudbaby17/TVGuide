@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 18.12.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 20.12.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
@@ -439,6 +439,9 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc [COLOR blue]HD[/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     Citv
+http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] TESTING [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
