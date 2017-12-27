@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 20.12.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 27.12.17 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
 http://
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
@@ -21,34 +21,34 @@ http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
-http://163.172.19.242:80/live/555555555/555555555/667.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://ip.fannan.se:8000/live/766/766/10669.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR] [COLOR green][I][B]+1[/B][/I][/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/13329.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Atlantic [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/665.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     W [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/7994.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Gold
-http://163.172.19.242:80/live/555555555/555555555/662.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Dave
-http://163.172.19.242:80/live/555555555/555555555/11000.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/5453.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Universal
-http://163.172.19.242:80/live/555555555/555555555/20662.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     SyFy
-http://ip.fannan.se:8000/live/766/766/10648.m3u8
+
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
@@ -60,16 +60,16 @@ http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Arts
-http://163.172.19.242:80/live/555555555/555555555/631.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     ITV Encore
-http://163.172.19.242:80/live/555555555/555555555/12399.m3u8
+
 
 #EXTINF:-1,  [COLOR white]•[/COLOR]     Fox
-http://163.172.19.242:80/live/555555555/555555555/4959.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     TLC
-http://163.172.19.242:80/live/555555555/555555555/644.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central Extra
 
@@ -78,7 +78,7 @@ http://163.172.19.242:80/live/555555555/555555555/644.m3u8
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Alibi
-http://163.172.19.242:80/live/555555555/555555555/632.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
 
@@ -87,67 +87,67 @@ http://163.172.19.242:80/live/555555555/555555555/632.m3u8
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     More4
-http://163.172.19.242:80/live/555555555/555555555/651.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     4Seven
-http://163.172.19.242:80/live/555555555/555555555/5564.m3u8
+
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Quest
-http://163.172.19.242:80/live/555555555/555555555/641.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Challenge
-http://163.172.19.242:80/live/555555555/555555555/5460.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     CBS Reality
-http://163.172.19.242:80/live/555555555/555555555/626.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     CBS Action
-http://163.172.19.242:80/live/555555555/555555555/628.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     CBS Drama
-http://163.172.19.242:80/live/555555555/555555555/627.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     E! Entertainment
-http://163.172.19.242:80/live/555555555/555555555/7996.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Pick
-http://163.172.19.242:80/live/555555555/555555555/4960.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Really
-http://163.172.19.242:80/live/555555555/555555555/5560.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Drama
-http://163.172.19.242:80/live/555555555/555555555/629.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Spike Tv
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Shed
-http://163.172.19.242:80/live/555555555/555555555/5470.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky 2
-http://163.172.19.242:80/live/555555555/555555555/666.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Home & Health
-http://163.172.19.242:80/live/555555555/555555555/13338.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Real Lives
-http://163.172.19.242:80/live/555555555/555555555/9492.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     My5
-http://163.172.19.242:80/live/555555555/555555555/20652.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     5 USA
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR
-http://163.172.19.242:80/live/555555555/555555555/5461.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/44092.m3u8
+
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
@@ -171,10 +171,10 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     DMAX
-http://163.172.19.242:80/live/555555555/555555555/366.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Food Network
-http://163.172.19.242:80/live/555555555/555555555/650.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
 
@@ -186,43 +186,43 @@ http://163.172.19.242:80/live/555555555/555555555/650.m3u8
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://ip.fannan.se:8000/live/766/766/8147.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Animal Planet
-http://163.172.19.242:80/live/555555555/555555555/9950.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Turbo
-http://163.172.19.242:80/live/555555555/555555555/5471.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
-http://163.172.19.242:80/live/555555555/555555555/9949.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     National Geographic [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/8248.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     History
-http://163.172.19.242:80/live/555555555/555555555/649.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     H2
-http://163.172.19.242:80/live/555555555/555555555/20819.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Eden
-http://163.172.19.242:80/live/555555555/555555555/13098.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery History [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/649.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Yesterday
-http://163.172.19.242:80/live/555555555/555555555/5563.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Crime & Investigation [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/8452.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Investigation Discovery
-http://163.172.19.242:80/live/555555555/555555555/13327.m3u8
+
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
@@ -252,43 +252,43 @@ http://
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Movies4Men
-http://163.172.19.242:80/live/555555555/555555555/597.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Movies 24
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Premier
-http://163.172.19.242:80/live/555555555/555555555/13374.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Greats
-http://163.172.19.242:80/live/555555555/555555555/599.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Disney
-http://163.172.19.242:80/live/555555555/555555555/10985.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Family
-http://163.172.19.242:80/live/555555555/555555555/13372.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Action & Adventure
-http://163.172.19.242:80/live/555555555/555555555/612.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Comedy
-http://163.172.19.242:80/live/555555555/555555555/607.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Crime & Thriller
-http://163.172.19.242:80/live/555555555/555555555/13368.m3u8
+
 
 #EXTINF:-1, [COLOR orange]•[/COLOR]     Sky Cinema Drama Romance
-http://163.172.19.242:80/live/555555555/555555555/9463.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Sci-Fi Horror
-http://163.172.19.242:80/live/555555555/555555555/4954.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Movies Select
-http://163.172.19.242:80/live/555555555/555555555/4955.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
 
@@ -303,43 +303,43 @@ http://
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Main Event [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/579.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Cricket [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/578.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Action [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/583.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf 
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Premier League [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/581.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Darts [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/32738.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Football [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/32743.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports F1 [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/580.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 1 [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/11375.m3u8
+
 
 #EXTINF:-1, [COLOR orange]•[/COLOR]     BT Sports 2 [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/11374.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 3 [COLOR blue]HD[/COLOR]
-http://163.172.19.242:80/live/555555555/555555555/11373.m3u8
+
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports ESPN 
-http://163.172.19.242:80/live/555555555/555555555/11784.m3u8
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1 [COLOR blue]HD[/COLOR]
 
