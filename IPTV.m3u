@@ -203,8 +203,8 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     History
-
+#EXTINF:-1, [COLOR lime]•[/COLOR]     History
+http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     H2
 
@@ -470,6 +470,15 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 #EXTINF:-1, [COLOR lime]•[/COLOR]     Citv
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] NASA TV [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+http://
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA TV
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+
+#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA TV MEDIA CHANNEL
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] TESTING [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
@@ -481,9 +490,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     CBS News
 http://www.cbsnews.com/common/video/dai_prod.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     EU History
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     UK London Live 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
