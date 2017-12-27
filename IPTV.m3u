@@ -296,6 +296,33 @@ http://
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
+#EXTINF:-1, These Sports Channels Are Subject To Change
+https://
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 1 
+https://ios.qpr.co.uk/video/qprtv1/qprtv1.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 2
+https://ios.qpr.co.uk/video/qprtv2/qprtv2.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 3
+https://ios.qpr.co.uk/video/qprtv3/qprtv3.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 4
+https://ios.qpr.co.uk/video/qprtv4/qprtv4.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 5 
+https://ios.qpr.co.uk/video/qprtv5/qprtv5.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 6
+https://ios.qpr.co.uk/video/qprtv6/qprtv6.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 7
+https://ios.qpr.co.uk/video/qprtv7/qprtv7.m3u8
+
+#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 8
+https://ios.qpr.co.uk/video/qprtv8/qprtv8.m3u8
+
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
 
 
