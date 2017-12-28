@@ -38,8 +38,8 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 #EXTINF:-1, [COLOR white]•[/COLOR]     Gold
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Dave
-
+#EXTINF:-1, [COLOR orange]•[/COLOR]     Dave
+http://iptv.velocity-iptv.com:25461/live/pcoxon83@icloud.com/uTUSuGq6pk/3326.ts
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
