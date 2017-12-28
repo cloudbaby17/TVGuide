@@ -21,7 +21,7 @@ http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
-
+http://iptv.velocity-iptv.com:25461/live/pcoxon83@icloud.com/uTUSuGq6pk/3330.ts
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
@@ -42,7 +42,7 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 http://iptv.velocity-iptv.com:25461/live/pcoxon83@icloud.com/uTUSuGq6pk/3326.ts
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
-
+http://iptv.velocity-iptv.com:25461/live/pcoxon83@icloud.com/uTUSuGq6pk/3327.ts
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Universal
 
@@ -155,8 +155,8 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     AMC
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     AMC
+http://iptv.velocity-iptv.com:25461/live/pcoxon83@icloud.com/uTUSuGq6pk/3336.ts
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
@@ -254,8 +254,8 @@ http://
 #EXTINF:-1, [COLOR white]•[/COLOR]     Movies4Men
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Movies 24
-
+#EXTINF:-1, [COLOR white]•[/COLOR]     Movies 24
+http://iptv.velocity-iptv.com:25461/live/pcoxon83@icloud.com/uTUSuGq6pk/2761.ts
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Premier
 
