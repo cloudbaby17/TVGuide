@@ -1,27 +1,62 @@
-<poster>Cloud Baby Say's No Copying!</poster><fanart></fanart>
+<poster></poster>
+
+<fanart></fanart>
 
 <dir>
-     <name>[COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 09.01.18 [/B][/I][/COLOR] [COLOR red] --- [/COLOR]</name>
-</dir>    
-
-<dir>
-     <name>[COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]</name>
-</dir>     
-     
-<dir>
-     <name>IPTV UK Channels</name>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/uk.xml</link>
-     <animated_thumbnail></animated_thumbnail>
-     <thumbnail>http://www.england.net/files/England_vs_the_United_Kingdom.jpg</thumbnail>
-     <animated_fanart></animated_fanart>
-     <fanart></fanart>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] Movies[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
+     <thumbnail>http://cypher-media.com/cypher/images/movie.png</thumbnail>
+     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+     <link>http://cypher-media.com/aa/movie.xml</link>
 </dir>
 
-<dir>     
-     <name>IPTV UK Kids Channels</name>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/kids.xml</link>
-     <animated_thumbnail></animated_thumbnail>
-     <thumbnail>http://www.england.net/files/England_vs_the_United_Kingdom.jpg</thumbnail>
-     <animated_fanart></animated_fanart>
-     <fanart></fanart>
+<dir>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <thumbnail>http://cypher-media.com/cypher/images/tvshows.png</thumbnail>
+     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+     <link>http://cypher-media.com/aa/tvshows.xml</link>
+</dir>
+
+<plugin>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Search [/COLOR][COLOR white]Movies and [/COLOR][COLOR blue]TV Shows[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <link>plugin://plugin.video.rebirth/?action=searchNavigator</link>
+     <thumbnail>http://cypher-media.com/cypher/images/movtvsearch.png</thumbnail>
+     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+</plugin>
+
+<dir>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Kids [/COLOR][COLOR white]Center [/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <thumbnail>http://cypher-media.com/cypher/images/kidszone.png</thumbnail>
+     <link>http://cypher-media.com/aa/kids.xml</link>
+</dir>
+
+<dir>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+     <thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
+     <link>http://cypher-media.com/aa/liveaa.xml</link>
+</dir>
+
+<dir>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Live Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name><fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+     <thumbnail>http://cypher-media.com/cypher/images/bbc.png</thumbnail>
+     <link>http://cypher-media.com/aa/bbclive.m3u</link>
+</dir>
+
+<dir>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] Live World[/COLOR][COLOR blue] CCTV[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+     <thumbnail>http://cypher-media.com/cypher/images/cct.png</thumbnail>
+     <link>http://cypher-media.com/cypher/cctv.xml</link>
+</dir>
+
+<dir>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] Live Streams [COLOR blue]Directory[/COLOR][/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
+     <link>http://cypher-media.com/cypher/cyphernasa.xml</link>
+     <thumbnail>http://cypher-media.com/cypher/images/nasatv.png</thumbnail>
+</dir>
+
+<dir>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]TEST[/COLOR] [COLOR white]Directory[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <link>http://cypher-media.com/cypher/cyphertesting.xml</link>
+     <thumbnail>http://cypher-media.com/cypher/images/testarea.jpg</thumbnail>
 </dir>
