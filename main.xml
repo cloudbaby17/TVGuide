@@ -3,60 +3,53 @@
 <fanart></fanart>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] Movies[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
-     <thumbnail>http://cypher-media.com/cypher/images/movie.png</thumbnail>
-     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
-     <link>http://cypher-media.com/aa/movie.xml</link>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] Movies[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
+     <thumbnail></thumbnail>
+     <fanart></fanart>
+     <link></link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-     <thumbnail>http://cypher-media.com/cypher/images/tvshows.png</thumbnail>
-     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
-     <link>http://cypher-media.com/aa/tvshows.xml</link>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <thumbnail></thumbnail>
+     <fanart></fanart>
+     <link></link>
 </dir>
-
-<plugin>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Search [/COLOR][COLOR white]Movies and [/COLOR][COLOR blue]TV Shows[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-     <link>plugin://plugin.video.rebirth/?action=searchNavigator</link>
-     <thumbnail>http://cypher-media.com/cypher/images/movtvsearch.png</thumbnail>
-     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
-</plugin>
 
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Kids [/COLOR][COLOR white]Center [/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-     <thumbnail>http://cypher-media.com/cypher/images/kidszone.png</thumbnail>
-     <link>http://cypher-media.com/aa/kids.xml</link>
+     <thumbnail></thumbnail>
+     <link></link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
-     <thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
-     <link>http://cypher-media.com/aa/liveaa.xml</link>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <fanart></fanart>
+     <thumbnail></thumbnail>
+     <link></link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Live Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name><fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Live Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name><fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
      <thumbnail>http://cypher-media.com/cypher/images/bbc.png</thumbnail>
-     <link>http://cypher-media.com/aa/bbclive.m3u</link>
+     <link></link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cypher[/COLOR][COLOR white] Live World[/COLOR][COLOR blue] CCTV[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-     <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
-     <thumbnail>http://cypher-media.com/cypher/images/cct.png</thumbnail>
-     <link>http://cypher-media.com/cypher/cctv.xml</link>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Live World[/COLOR][COLOR blue] CCTV[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <fanart></fanart>
+     <thumbnail></thumbnail>
+     <link></link>
 </dir>
 
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] Live Streams [COLOR blue]Directory[/COLOR][/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
-     <link>http://cypher-media.com/cypher/cyphernasa.xml</link>
-     <thumbnail>http://cypher-media.com/cypher/images/nasatv.png</thumbnail>
+     <link></link>
+     <thumbnail></thumbnail>
 </dir>
 
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]TEST[/COLOR] [COLOR white]Directory[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-     <link>http://cypher-media.com/cypher/cyphertesting.xml</link>
-     <thumbnail>http://cypher-media.com/cypher/images/testarea.jpg</thumbnail>
+     <link></link>
+     <thumbnail></thumbnail>
 </dir>
