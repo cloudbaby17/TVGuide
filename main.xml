@@ -2,27 +2,28 @@
 
 <dir>
 <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white]IPTV[/COLOR][COLOR blue] Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name><link>http://fakestream.com</link>
+<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/uk.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
-</name>
+</dir>
 
 <dir>
 <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white]Kids[/COLOR][COLOR blue] Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/kids</link>
+<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/kids.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
-</name>
+</dir>
 
 <dir>
 <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white]Sports[/COLOR][COLOR blue]Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
-<link>http://fakestream.com</link>
+<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sports.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
-</name>
+</dir>
 
 <dir>
 <name>[B][COLOR yellow]---[/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] Live Streams [COLOR blue]Directory[/COLOR][/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
-<link>http://ignorame</link>
+<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/nasa.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
-</name>
+</dir>
