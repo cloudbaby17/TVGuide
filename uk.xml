@@ -10,15 +10,12 @@
                 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8</sublink>
         </link>
         <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiNjMiU-svYAhXKPFAKHYWgBMUQjRwIBw&url=http%3A%2F%2Flogos.wikia.com%2Fwiki%2FFile%3ABBC_One_East_Midlands_2002.svg&psig=AOvVaw1MoRM9cDdzouhBTciHmBRi&ust=1515624124230291</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </item>
 
 
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC One
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
