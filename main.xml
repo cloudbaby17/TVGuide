@@ -2,11 +2,24 @@
 
 <dir>
      <name>[COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 09.01.18 [/B][/I][/COLOR] [COLOR red] --- [/COLOR]</name>
-</dir>          
+</dir>    
+
+<dir>
+     <name>[COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]</name>
+</dir>     
      
 <dir>
      <name>IPTV UK Channels</name>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/uk.xml</link>
+     <animated_thumbnail></animated_thumbnail>
+     <thumbnail>http://www.england.net/files/England_vs_the_United_Kingdom.jpg</thumbnail>
+     <animated_fanart></animated_fanart>
+     <fanart></fanart>
+</dir>
+
+<dir>     
+     <name>IPTV UK Kids Channels</name>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/kids.xml</link>
      <animated_thumbnail></animated_thumbnail>
      <thumbnail>http://www.england.net/files/England_vs_the_United_Kingdom.jpg</thumbnail>
      <animated_fanart></animated_fanart>
