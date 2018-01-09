@@ -17,7 +17,7 @@
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Kids [/COLOR][COLOR white]Center [/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Kids[/COLOR][COLOR blue] Center[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
      <thumbnail></thumbnail>
      <link></link>
 </dir>
@@ -26,12 +26,12 @@
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
      <fanart></fanart>
      <thumbnail></thumbnail>
-     <link></link>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/uk.xml</link>
 </dir>
 
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Live Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name><fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
-     <thumbnail>http://cypher-media.com/cypher/images/bbc.png</thumbnail>
+     <thumbnail></thumbnail>
      <link></link>
 </dir>
 
@@ -49,7 +49,7 @@
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]TEST[/COLOR] [COLOR white]Directory[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Test[/COLOR][COLOR blue] Directory[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
      <link></link>
      <thumbnail></thumbnail>
 </dir>
