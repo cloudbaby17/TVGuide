@@ -19,7 +19,7 @@
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Kids[/COLOR][COLOR blue] Center[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
      <thumbnail></thumbnail>
-     <link></link>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/kidscenter.xml</link>
 </dir>
 
 <dir>
@@ -32,19 +32,19 @@
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Live Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name><fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
      <thumbnail></thumbnail>
-     <link></link>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/bbclive.xml</link>
 </dir>
 
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Live World[/COLOR][COLOR blue] CCTV[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
      <fanart></fanart>
      <thumbnail></thumbnail>
-     <link></link>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/cctv.xml</link>
 </dir>
 
 <dir>
      <name>[B][COLOR yellow]---[/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] Live Streams [COLOR blue]Directory[/COLOR][/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
-     <link></link>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/nasa.xml</link>
      <thumbnail></thumbnail>
 </dir>
 
