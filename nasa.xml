@@ -1,12 +1,12 @@
 
 <item>
-  <name>[COLOR yellow]LIVE [/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] TV Public [COLOR cyan]HD[/COLOR][/COLOR] [COLOR yellow][/COLOR]</name>
+  <name>[COLOR yellow]LIVE [/COLOR] [COLOR red][B]NASA[/B][/COLOR] [COLOR white][B] TV Public [/B][COLOR cyan]HD[/COLOR][/COLOR] [COLOR yellow][/COLOR]</name>
   <link>http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_700.m3u8</link>
   <thumbnail>http://3.bp.blogspot.com/_ORCy8b5buoU/TFMXFwKOPJI/AAAAAAAAAMk/uwVKKB-01yY/s1600/nasa%2Btv.png</thumbnail>
 </item>
 
 <item>
-  <name>[COLOR yellow]LIVE [/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] TV Media [COLOR cyan]HD[/COLOR][/COLOR] [COLOR yellow][/COLOR]</name>
+  <name>[COLOR yellow]LIVE [/COLOR] [COLOR red][B]NASA[/B][/COLOR] [COLOR white][B] TV Media [/B][COLOR cyan]HD[/COLOR][/COLOR] [COLOR yellow][/COLOR]</name>
   <link>https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_2000.m3u8</link>
   <thumbnail>http://3.bp.blogspot.com/_ORCy8b5buoU/TFMXFwKOPJI/AAAAAAAAAMk/uwVKKB-01yY/s1600/nasa%2Btv.png</thumbnail>
 </item>
