@@ -1,0 +1,170 @@
+<poster>Cypher Say's No Copying!</poster>
+
+ 
+
+<item>
+<title>[B][COLOR blue]Cypher IPTV UPDATED 02/12/2017[/COLOR][/B]</title>
+<link>http://IGNORAME.COM</link>
+<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
+<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<externallink>http://cypher-media.com/cypher/</externallink>
+</item> 
+
+<dir>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher UK/USA[/B] [/COLOR][COLOR red][I]Server[/I][/COLOR]</name>
+<link>http://cypher-media.com/cypher/temp123.m3u</link>
+<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
+<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+</dir>
+
+<dir>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher Local[/B] [/COLOR][COLOR red][I]USA[/I][/COLOR]</name>
+<link>http://www.radiosargentina.com.ar/TVUS.m3u</link>
+<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
+ <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+</dir>
+
+<dir>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher Auto[/B] [/COLOR][COLOR red][I]IPTV[/I][/COLOR]</name>
+<link>http://autoiptv.net/playlist.php</link>
+<thumbnail>https://pbs.twimg.com/profile_images/792350523311652864/hWQlxThI_400x400.jpg</thumbnail>
+<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+</dir>
+
+<plugin>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher [/B] [/COLOR][COLOR red][I]Mobdro[/I][/COLOR]</name>
+<link>plugin://script.cypherstream/?mode=40&url=none</link>
+<thumbnail>http://2.bp.blogspot.com/-Yi2M46VYbn0/VbySeiQ-IQI/AAAAAAAAEvE/oD4tcc6Kfm0/s1600/mobdro.jpg</thumbnail>
+<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+</plugin>
+
+<dir>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher [/B] [/COLOR][COLOR red][I]EDoctor[/I][/COLOR]</name>
+<link>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20category.m3u</link>
+<thumbnail>https://image.winudf.com/v2/image/Y29tLmVkb2N0b3JpcHR2Ml9pY29uXzE1MDQ5OTQ4MjZfMDk5/icon.png?w=170&fakeurl=1&type=.png</thumbnail>
+<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+</dir>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher m3uListe[/B] [/COLOR][COLOR red][I] Scraper[/I][/COLOR]</title>
+<thumbnail>http://www.m3uliste.pw/files/.logo-lw-scaled.jpg.png</thumbnail>
+<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param2]</title>
+        <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('http://www.m3uliste.pw/')
+    express = re.findall('>(http://.+?(.+?)&.+?)<', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+        <title>[makelist2.param1]</title>
+        <link>[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import cache,client,workers
+    import re,urllib,xbmc,xbmcgui
+    page = client.request('[makelist.param1]')
+    express = re.findall('#EXTINF:.+?,([^\n]*)\n([^\n]*)', page)
+    return express
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher TV Online[/B] [/COLOR][COLOR red][I] Streams[/I][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2] [makelist.param3]</title>
+<link>$doregex[Cypher]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('https://www.tvonlinestreams.com/')
+    u += client.request('https://www.tvonlinestreams.com/page/2/')
+    u += client.request('https://www.tvonlinestreams.com/page/3/')
+    e = re.findall('(?s)entry-title"><a\shref="([^"]*).+?">([^<]*).+?(.+?)pubdate">([^<]*)', u)
+    e = [(i[0],i[1],i[2],i[3]) for i in e if 'EXTINF' in i[2]]
+    e = [(i[0],i[1],i[3]) for i in e]
+    return e
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>Cypher</name>
+<listrepeat><![CDATA[
+<title>[Cypher.param1]</title>
+<link>[Cypher.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = ''):
+    from resources.lib.modules import client
+    import re, urllib, base64, xbmcgui, json
+    u = client.request('[makelist.param1]')
+    e = re.findall('#EXTINF:.+?,([^<]*).+?\n([^<]*)', u)
+    return e
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher SatLinks[/B] [/COLOR][COLOR red][I]Scrapers[/I][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lightgreen] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
+ <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR cyan]Cypher[/COLOR] [makelist.param1]  </link>
+ <thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
+ <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
+ <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+</item>
+
+
+
+
+....................................................
+
+
+
+
+
+
+
