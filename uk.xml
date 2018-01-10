@@ -43,8 +43,8 @@
         <fanart></fanart>
 </item>
 
-<item @---
-        <title>[COLOR red]Sky 1[/COLOR]</title>
+<item>
+        <title@>[COLOR red]Sky 1[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
@@ -52,8 +52,8 @@
         <fanart></fanart>
 </item>
 
-<item @---
-        <title>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+<item>
+        <title@>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
@@ -61,8 +61,8 @@
         <fanart></fanart>
 </item>
 
-<item @---
-        <title>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+<item>
+        <title@>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
@@ -70,8 +70,8 @@
         <fanart></fanart>
 </item>
 
-<item @---
-        <title>[COLOR red]Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
+<item>
+        <title@>[COLOR red]Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
