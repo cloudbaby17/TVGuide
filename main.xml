@@ -10,33 +10,34 @@
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR][COLOR yellow]---[Off Line][/COLOR][/B]</name>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR] [COLOR yellow]---[Off Line][/COLOR][/B]</name>
      <thumbnail></thumbnail>
      <fanart></fanart>
      <link></link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Kids[/COLOR][COLOR blue] Center[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Kids[/COLOR][COLOR blue] Center[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
      <thumbnail></thumbnail>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/kidscenter.xml</link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
      <fanart></fanart>
      <thumbnail></thumbnail>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/liveaa.xml</link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Live Channels[/COLOR][COLOR yellow]---[/COLOR][/B]</name><fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Live Channels[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
+     <fanart></fanart>
      <thumbnail></thumbnail>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/bbclive.xml</link>
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Live World[/COLOR][COLOR blue] CCTV[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Live World[/COLOR][COLOR blue] CCTV[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
      <fanart></fanart>
      <thumbnail></thumbnail>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/cctv.xml</link>
@@ -49,7 +50,7 @@
 </dir>
 
 <dir>
-     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Test[/COLOR][COLOR blue] Directory[/COLOR][COLOR yellow]---[/COLOR][/B]</name>
+     <name>[B][COLOR yellow]---[/COLOR] [COLOR red]Cloud Baby[/COLOR][COLOR white] Test[/COLOR][COLOR blue] Directory[/COLOR] [COLOR yellow]---[/COLOR][/B]</name>
      <link></link>
      <thumbnail></thumbnail>
 </dir>
