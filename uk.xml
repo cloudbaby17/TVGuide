@@ -34,18 +34,81 @@
         <fanart></fanart>
 </item>
 
+<item>        
+        <title>Channel 5</title>
+        <link>
+        <sublink>http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8</sublink>        
+        </link>        
+        <thumblink></thumblink>        
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR red]Sky 1[/COLOR]</title>
+        <link>
+        <sublink></sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink></sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink></sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR red]Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink></sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title></title>
+        <link>
+        <sublink></sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title></title>
+        <link>
+                <sublink></sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title></title>
+        <link>
+                <sublink></sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
 
 
-Channel 5
-http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
-Sky 1
 
-Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
-
-Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
-
-Sky Atlantic [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
 W [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
