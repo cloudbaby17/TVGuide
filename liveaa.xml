@@ -1,54 +1,54 @@
-<poster>Cypher Say's No Copying!</poster>
+<poster></poster>
 
  
 
 <item>
-<title>[B][COLOR blue]Cypher IPTV UPDATED 02/12/2017[/COLOR][/B]</title>
+<title>[COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 10.01.18 [/B][/I][/COLOR] [COLOR red] --- [/COLOR]</title>
 <link>http://IGNORAME.COM</link>
-<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
-<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
-<externallink>http://cypher-media.com/cypher/</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
 </item> 
 
 <dir>
-<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher UK/USA[/B] [/COLOR][COLOR red][I]Server[/I][/COLOR]</name>
-<link>http://cypher-media.com/cypher/temp123.m3u</link>
-<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
-<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby UK/USA[/B] [/COLOR][COLOR red][I]Server[/I][/COLOR]</name>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>
 
 <dir>
-<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher Local[/B] [/COLOR][COLOR red][I]USA[/I][/COLOR]</name>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby Local[/B] [/COLOR][COLOR red][I]USA[/I][/COLOR]</name>
 <link>http://www.radiosargentina.com.ar/TVUS.m3u</link>
-<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
- <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<thumbnail></thumbnail>
+ <fanart></fanart>
 </dir>
 
 <dir>
-<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher Auto[/B] [/COLOR][COLOR red][I]IPTV[/I][/COLOR]</name>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby Auto[/B] [/COLOR][COLOR red][I]IPTV[/I][/COLOR]</name>
 <link>http://autoiptv.net/playlist.php</link>
 <thumbnail>https://pbs.twimg.com/profile_images/792350523311652864/hWQlxThI_400x400.jpg</thumbnail>
-<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<fanart></fanart>
 </dir>
 
 <plugin>
-<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher [/B] [/COLOR][COLOR red][I]Mobdro[/I][/COLOR]</name>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby [/B] [/COLOR][COLOR red][I]Mobdro[/I][/COLOR]</name>
 <link>plugin://script.cypherstream/?mode=40&url=none</link>
 <thumbnail>http://2.bp.blogspot.com/-Yi2M46VYbn0/VbySeiQ-IQI/AAAAAAAAEvE/oD4tcc6Kfm0/s1600/mobdro.jpg</thumbnail>
-<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<fanart></fanart>
 </plugin>
 
 <dir>
-<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher [/B] [/COLOR][COLOR red][I]EDoctor[/I][/COLOR]</name>
+<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby [/B] [/COLOR][COLOR red][I]EDoctor[/I][/COLOR]</name>
 <link>https://raw.githubusercontent.com/hadjistyllis/myapp/master/TV%20category.m3u</link>
 <thumbnail>https://image.winudf.com/v2/image/Y29tLmVkb2N0b3JpcHR2Ml9pY29uXzE1MDQ5OTQ4MjZfMDk5/icon.png?w=170&fakeurl=1&type=.png</thumbnail>
-<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<fanart></fanart>
 </dir>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher m3uListe[/B] [/COLOR][COLOR red][I] Scraper[/I][/COLOR]</title>
-<thumbnail>http://www.m3uliste.pw/files/.logo-lw-scaled.jpg.png</thumbnail>
-<fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby m3uListe[/B] [/COLOR][COLOR red][I] Scraper[/I][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -85,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher TV Online[/B] [/COLOR][COLOR red][I] Streams[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby TV Online[/B] [/COLOR][COLOR red][I] Streams[/I][/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>$doregex[makelist]</link>
@@ -128,15 +128,15 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 </item>
 
 <item>
-<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cypher SatLinks[/B] [/COLOR][COLOR red][I]Scrapers[/I][/COLOR]</title>
+<title> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby SatLinks[/B] [/COLOR][COLOR red][I]Scrapers[/I][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
  <title>[COLOR lightgreen] [makelist2.param2][/COLOR]</title>
  <link>$doregex[makelist]</link>
- <thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
- <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
  ]]></listrepeat>
 <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
 <page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
@@ -146,15 +146,15 @@ def GetLSProData(page_data,Cookie_Jar,m,url = ''):
 <listrepeat><![CDATA[
  <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
  <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLOR cyan]Cypher[/COLOR] [makelist.param1]  </link>
- <thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
- <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
  ]]></listrepeat>
 <expres><![CDATA[EXTINF[\w\W\s]{0,5},(.*?)<[\w\W\s]{0,5}>(http.*?ts)<]]></expres>
 <page>[makelist2.param1]</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
-<thumbnail>http://cypher-media.com/cypher/images/cypheriptv.png</thumbnail>
- <fanart>http://cypher-media.com/cypher/images/fanarteye.jpg</fanart>
+<thumbnail></thumbnail>
+ <fanart></fanart>
 </item>
 
 
