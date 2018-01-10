@@ -24,7 +24,7 @@ http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/667.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
@@ -42,7 +42,7 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 
 #EXTINF:-1, [COLOR orange]•[/COLOR]     Dave
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/663.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
@@ -69,7 +69,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 
 
 #EXTINF:-1,  [COLOR white]•[/COLOR]     Fox
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/4959.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     TLC
 
@@ -90,16 +90,16 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     More4
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/651.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     4Seven
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5564.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Quest
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/641.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Challenge
 
@@ -117,7 +117,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Pick
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/4960.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Really
 
@@ -144,13 +144,13 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     5 USA
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/655.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5461.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/44092.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
@@ -174,13 +174,13 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     DMAX
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/366.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Food Network
 
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/49985.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
 
@@ -189,25 +189,25 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/19401.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Animal Planet
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/9950.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Turbo
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5471.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
 
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     National Geographic [COLOR blue]HD[/COLOR]
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/20634.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
-
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/617.m3u8
 
 #EXTINF:-1, [COLOR lime]•[/COLOR]     History
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/649.m3u8
 
 #EXTINF:-1, [COLOR white]•[/COLOR]     H2
 
