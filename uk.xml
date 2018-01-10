@@ -53,9 +53,9 @@
 </item>
 
 <item>
-        <title>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+        <title@>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
         <link>
-        <sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ndasat.pro:8000/live/dshdgf67767/1593574628/10909.ts</sublink>
+        <sublink></sublink>
         </link>
         <thumblink></thumblink>
         <fanart></fanart>
