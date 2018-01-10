@@ -1,0 +1,38 @@
+<poster>Cypher Say's No Copying!</poster>
+<fanart></fanart>
+
+<item>
+<title>[COLOR yellow][B]LIVE[/B][COLOR white][B] CSN PHILADELPHIA [COLOR cyan]HD[/B][/COLOR]</title>
+<link>http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8|X-Forwarded-For=35.162.230.128</link>
+<thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]LIVE[/B][COLOR white][B] CSN NORTH WEST [COLOR cyan]HD[/B][/COLOR]</title>
+<link>http://tvecsnnorthwest-i.akamaihd.net/hls/live/219796/CSNnorthwestx/4296k/prog.m3u8|X-Forwarded-For=35.162.230.128</link>
+<thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]LIVE[/B][COLOR white][B] CSN NEW ENGLAND [COLOR cyan]HD[/B][/COLOR]</title>
+<link>http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8|X-Forwarded-For=35.162.230.128</link>
+<thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]LIVE[/B][COLOR white][B] CSN CHICAGO [COLOR cyan]HD[/B][/COLOR]</title>
+<link>http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/4296k/prog.m3u8|X-Forwarded-For=35.162.230.128</link>
+<thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]LIVE[/B][COLOR white][B] CSN CALIFORNIA [COLOR cyan]HD[/B][/COLOR]</title>
+<link>http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8|X-Forwarded-For=35.162.230.128</link>
+<thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow][B]LIVE[/B][COLOR white][B] CSN BAY AREA [COLOR cyan]HD[/B][/COLOR]</title>
+<link>http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8|X-Forwarded-For=35.162.230.128</link>
+<thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
+</item>

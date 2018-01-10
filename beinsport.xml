@@ -1,0 +1,194 @@
+<poster>Cypher Say's No Copying!</poster>
+<fanart></fanart>
+
+<item>
+<title>BEIN SPORTS 1</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 3</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 4</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports4.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 5</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports5.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 6</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports6.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 7</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports7.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 8</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports8.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 9</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports9.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 10</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports10.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 11 English</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports11.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 12 English</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports12.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS News</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsportsnews.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS France 1</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports1france.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS France 2</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports2france.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS France 3</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/beinsports3france.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+</item>

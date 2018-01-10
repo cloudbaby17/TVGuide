@@ -1,0 +1,50 @@
+<poster>Cypher Say's No Copying!</poster>
+<fanart></fanart>
+
+<item>
+<title>BT SPORT 1</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsport2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT EUROPE</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsporteurope.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT ESPN</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/btsportespn.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+</item>

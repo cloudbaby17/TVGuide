@@ -1,0 +1,100 @@
+<poster>Cypher Say's No Copying!</poster>
+<fanart></fanart>
+
+<item>
+<title>Sky Sport Bundesliga 1</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportbundesliga1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/u3ecdo1486570408.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport Bundesliga 2</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportbundesliga2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://glo-star.com/Global/images//74050_217.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 1 Italia</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport1italia.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.pubblicomnow-online.it/wp-content/uploads/2015/07/sky-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2 Italia</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport2italia.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.pubblicomnow-online.it/wp-content/uploads/2015/07/sky-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 3 Italia</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport3italia.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.pubblicomnow-online.it/wp-content/uploads/2015/07/sky-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 24 Italia</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysport24italia.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.pubblicomnow-online.it/wp-content/uploads/2015/07/sky-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport MotoGP Italia</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skysportmotogp.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.pubblicomnow-online.it/wp-content/uploads/2015/07/sky-1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Calcio Italia</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/skycalcio.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://image.jimcdn.com/app/cms/image/transf/none/path/s8eaeebbab5d7fb95/image/i806e962a370c6b41/version/1328269374/image.png</thumbnail>
+</item>
+
+

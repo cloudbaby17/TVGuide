@@ -1,0 +1,129 @@
+<poster>Cypher Say's No Copying!</poster>
+<fanart></fanart>
+
+<item>
+<title>Fox Sports 1 USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports1.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://themmareport.com/wp-content/uploads/2016/04/FS1-HR1-700x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 2 USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/foxsports2.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Golf Channel USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/golfchannel.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://cdn.blackenterprise.com/wp-content/blogs.dir/1/files/2013/12/new_golf_channel_logo_304.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBCSN USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbcsn.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/837340035091353600/28SdmRTr.jpg</thumbnail>
+</item>
+
+<item>
+<title>NFL Network USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nflnetwork.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://www.sportsvideo.org/new/wp-content/uploads/2016/07/bYvDJAUO.jpg</thumbnail>
+</item>
+
+<item>
+<title>NFL NOW</title>
+<link>https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-fCr2mhnFycg/ULNf-_Z7JdI/AAAAAAAAA98/IiN9pZb-CZc/s1600/NFL+wallpaper+01.jpg</thumbnail>
+</item>
+
+<item>
+<title>MLB Channel</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/_hafnvl2TIJA/SL7Kb7x-y1I/AAAAAAAAFzA/oZC6Yg7Nn1w/s320/mlbtv-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBA TV USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/nbatv.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1000px-NBA_TV.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Stadium Channel USA</title>
+<link>https://04476b7c682c4da8b8b4bfe23ef879c1.midas.us-east-1.amazonaws.com/v1/master/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/hls/live/522512/mux_4/master.m3u8</link>
+<thumbnail>http://assets.tvnewscheck.com/asset/image/file/Stadium_logo.jpg/env/preview/aspect/original/align/full</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet World USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetworld.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/58/Sportsnet_World_HD_logo.PNG</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet ONE USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetone.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>https://i.pinimg.com/236x/10/df/7f/10df7fb357c9949d2bb619bfd8babf7b--transmission-world-cup-.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet Ontario USA</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/sportsnetontario.php?width=650&amp;height=480</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail>http://admin.live2watch.tv/uploads/52fa2d1d720ab1bff4d4e12209660c73</thumbnail>
+</item>
+
