@@ -348,30 +348,35 @@ Sky Cinema Superheroes
 
 
 <item>
-       <title>Cartoon Network</title@>
-        <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-        <regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-        <page>http://www.liveonlinetv247.info/embed/cartoonnetwork.php?width=650&amp;height=480</page>
-        <referer>http://www.liveonlinetv247.info/</referer></regex>
-        <thumbnail>http://www.cartoonbrew.com/wp-content/uploads/Cartoon_Network_2010_Logo.png</thumbnail>
+        <title>Nickelodeon</title@>
+        <link></link>
+        <thumbnail>https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/company/584?region=US&size=600x400</thumbnail>
 </item>
 
-<item><title>Nickelodeon</title@><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/nick.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/company/584?region=US&size=600x400</thumbnail></item>
-
-<item><title>Disney Channel (down on site)</title@><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/disneychannel.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://pmcdeadline2.files.wordpress.com/2010/11/disneychannel.jpg?w=605</thumbnail></item>
-
-<item><title>Disney XD</title@><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/disneyxd.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://i0.wp.com/www.tvequals.com/wp-content/uploads/2013/03/Disney-XD-logo.jpg?resize=543%2C336</thumbnail></item>
-
-<item><title>Disney Jnr</title@><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/disneyjunior.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>http://laoblogger.com/images/disney-junior-logo-clipart-4.jpg</thumbnail></item>
-
-<item><title>Pogo (down on site)</title@><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/pogo.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://absolutethai.files.wordpress.com/2015/03/pogo_header.jpg</thumbnail></item>
+<item>
+        <title>Disney Channel (down on site)</title@>
+        <link></link>
+        <thumbnail>https://pmcdeadline2.files.wordpress.com/2010/11/disneychannel.jpg?w=605</thumbnail>
+</item>
 
 <item>
-        <title>Cartoon Network [COLOR blue]HD[/COLOR]</title>
+        <title>Disney Jnr</title@>
+        <link></link>
+        <thumbnail>http://laoblogger.com/images/disney-junior-logo-clipart-4.jpg</thumbnail>
+</item>
+
+<item>
+        <title>Pogo (down on site)</title@>
+        <link>
+        <thumbnail>https://absolutethai.files.wordpress.com/2015/03/pogo_header.jpg</thumbnail>
+</item>
+
+<item>
+        <title>Cartoon Network [COLOR cyan]HD[/COLOR]</title>
         <link>
         <sublink>http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>http://www.cartoonbrew.com/wp-content/uploads/Cartoon_Network_2010_Logo.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -394,7 +399,7 @@ Sky Cinema Superheroes
 </item>
 
 <item>
-        <title>Cbbc [COLOR blue]HD[/COLOR]</title>
+        <title>Cbbc [COLOR cyan]HD[/COLOR]</title>
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8</sublink>
         </link>
@@ -403,7 +408,7 @@ Sky Cinema Superheroes
 </item>
 
 <item>
-        <title>Cbeebies [COLOR blue]HD[/COLOR]</title>
+        <title>Cbeebies [COLOR cyan]HD[/COLOR]</title>
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8</sublink>
         </link>
@@ -416,7 +421,7 @@ Sky Cinema Superheroes
         <link>
         <sublink>http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
         </link> 
-        <thumblink></thumblink>
+        <thumblink><thumbnail>https://i0.wp.com/www.tvequals.com/wp-content/uploads/2013/03/Disney-XD-logo.jpg?resize=543%2C336</thumbnail></thumblink>
         <fanart></fanart>
 </item>
 
