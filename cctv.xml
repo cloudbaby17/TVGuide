@@ -1,14 +1,19 @@
-#EXTM3U
+<item>            <title></title>    <link>    <sublink></sublink>    </link>    <thumbnail></thumbnail>    <fanart></fanart></item>
+<item>            <title></title>    <link>    <sublink></sublink>    </link>    <thumbnail></thumbnail>    <fanart></fanart></item>
+<item>            <title></title>    <link>    <sublink></sublink>    </link>    <thumbnail></thumbnail>    <fanart></fanart></item>
+<item>            <title></title>    <link>    <sublink></sublink>    </link>    <thumbnail></thumbnail>    <fanart></fanart></item>
+<item>            <title></title>    <link>    <sublink></sublink>    </link>    <thumbnail></thumbnail>    <fanart></fanart></item>
+
+<item>
+  <title>Int'l Space Station 1</title>  
+  <link>  
+  <sublink>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8</sublink>  
+  </link>  
+  <thumbnail></thumbnail>  
+  <fanart></fanart>
+</item>
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cypher-media.com/cypher/images/cct.png" group-title="MISC.",Christmas Fireplace
-http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cypher-media.com/cypher/images/cct.png" group-title="MISC.",Fish Tank
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cypher-media.com/cypher/images/cct.png" group-title="MISC.",Int'l Space Station 1
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cypher-media.com/cypher/images/cct.png" group-title="MISC.",Int'l Space Station 2
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
