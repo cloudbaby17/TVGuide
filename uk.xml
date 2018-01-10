@@ -1,302 +1,232 @@
 <item>
-        <title>[COLOR lime]•[/COLOR]     BBC One</title>
-        <meta>
-                <content>tv</content>
-                <imdb></imdb>
-                <title></title>
-                <year></year>
-        </meta>
+        <title>BBC One</title>
         <link>
-                <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8</sublink>
+        <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8</sublink>
         </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiNjMiU-svYAhXKPFAKHYWgBMUQjRwIBw&url=http%3A%2F%2Flogos.wikia.com%2Fwiki%2FFile%3ABBC_One_East_Midlands_2002.svg&psig=AOvVaw1MoRM9cDdzouhBTciHmBRi&ust=1515624124230291</thumbnail>
-        <animated_fanart></animated_fanart>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>BBC Two</title>
+        <link>
+        <sublink>http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8</sublink>        
+        </link>        
+        <thumbnail></thumbnail>        
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>ITV 1</title>
+        <link>
+        <sublink>https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8</sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>Channel 4</title>
+        <link>
+        <sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</sublink>
+        </link>
+        <thumblink></thumblink>
         <fanart></fanart>
 </item>
 
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
-http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 1
-https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 4
-http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 5
+Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
+Sky 1
 
+Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
+Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
+Sky Atlantic [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR] [COLOR green][I][B]+1[/B][/I][/COLOR]
+W [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
+Gold
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Atlantic [COLOR blue][I][B]HD[/B][/I][/COLOR]
+Dave
 
+Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     W [COLOR blue][I][B]HD[/B][/I][/COLOR]
+Universal
 
+SyFy
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Gold
-
-
-#EXTINF:-1, [COLOR orange]•[/COLOR]     Dave
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Universal
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     SyFy
-
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
+ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 3
+ITV 3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
+ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Arts
+Sky Arts
 
+ITV Encore
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     ITV Encore
+Fox
 
+TLC
 
-#EXTINF:-1,  [COLOR white]•[/COLOR]     Fox
+Comedy Central Extra
 
+ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     TLC
+Alibi
 
+Good Food
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central Extra
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Alibi
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
-
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     E4
+E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     More4
+More4
 
+4Seven
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     4Seven
-
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
+BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Quest
+Quest
 
+Challenge
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Challenge
+CBS Reality
 
+CBS Action
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Reality
+CBS Drama
 
+E! Entertainment
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Action
+Pick
 
+Really
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Drama
+Drama
 
+Spike Tv
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     E! Entertainment
+Discovery Shed
 
+Sky 2
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Pick
+Discovery Home & Health
 
+Real Lives
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Really
+My5
 
+5 USA
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Drama
+5 STAR
 
+5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Spike Tv
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Shed
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky 2
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Home & Health
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Real Lives
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     My5
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     5 USA
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
-
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITVBe
+ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
+ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+AMC
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     AMC
+ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+Home
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
+ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+Dave Ja Vu 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Home
+DMAX
 
+Food Network
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
+Travel Channel 
 
+Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Dave Ja Vu 
+Travel Channel [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     DMAX
+Animal Planet
 
+Discovery Turbo
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Food Network
+Discovery Science
 
+National Geographic [COLOR blue]HD[/COLOR]
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
+Nat Geo Wild
 
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel [COLOR green][I][B]+1[/B][/I][/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Animal Planet
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Turbo
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     National Geographic [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
-
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     History
+History
 http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     H2
+H2
+
+Eden
+
+Discovery History [COLOR blue]HD[/COLOR]
+
+Yesterday
+
+Crime & Investigation [COLOR blue]HD[/COLOR]
+
+Investigation Discovery
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Eden
+[COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
+
+True Entertainment
+
+True Crime
+
+Film4
+
+TCM
+
+Horror Channel
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery History [COLOR blue]HD[/COLOR]
+True Movies
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Yesterday
+True Movies 2
 
+Sony Movie Channe
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Crime & Investigation [COLOR blue]HD[/COLOR]
+Movies4Men
 
+Movies 24
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Investigation Discovery
+Sky Cinema Premier
 
+Sky Cinema Showcase
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
+Sky Cinema Greats
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Entertainment
+Sky Cinema Disney
 
+Sky Cinema Family
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Crime
+Sky Cinema Action & Adventure
 
+Sky Cinema Comedy
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Film4
+Sky Cinema Crime & Thriller
 
+Sky Cinema Drama Romance
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     TCM
+Sky Cinema Sci-Fi Horror
 
+Sky Movies Select
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Horror Channel
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Movies
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Movies 2
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sony Movie Channel
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Movies4Men
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Movies 24
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Premier
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Greats
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Disney
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Family
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Action & Adventure
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Comedy
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Crime & Thriller
-
-
-#EXTINF:-1, [COLOR orange]•[/COLOR]     Sky Cinema Drama Romance
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Sci-Fi Horror
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Movies Select
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
+Sky Cinema Superheroes
