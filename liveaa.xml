@@ -11,32 +11,59 @@
 </item> 
 
 <dir>
-<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B]Cloud Baby UK/USA Channels[/B] [/COLOR][COLOR cyan][/COLOR]</name>
+<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] UK/USA Channels[/B] [/COLOR][COLOR cyan][/COLOR]</name>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
-<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B]Cloud Baby UK Sky Sports Channels[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
+<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] UK Sky Sports Channels[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
 <link></link>
 <thumbnail></thumbnail>
  <fanart></fanart>
 </dir>
 
 <dir>
-<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby Auto[/B] [/COLOR][COLOR red][I]IPTV[/I][/COLOR]</name>
-<link>http://autoiptv.net/playlist.php</link>
-<thumbnail>https://pbs.twimg.com/profile_images/792350523311652864/hWQlxThI_400x400.jpg</thumbnail>
+<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] BT Sports Channels[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </dir>
 
-<plugin>
-<name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby [/B] [/COLOR][COLOR red][I]Mobdro[/I][/COLOR]</name>
-<link>plugin://script.cypherstream/?mode=40&url=none</link>
-<thumbnail>http://2.bp.blogspot.com/-Yi2M46VYbn0/VbySeiQ-IQI/AAAAAAAAEvE/oD4tcc6Kfm0/s1600/mobdro.jpg</thumbnail>
+<dir>
+<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] BeIN Sports Channels[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
+<link></link>
+<thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</dir>
+
+<dir><name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] World Sky Sports Channels[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] USA Sports Channels[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Comcast Sports Networks[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Olympics Channels[/B] [/COLOR][COLOR cyan]HD[/COLOR]</name>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
 <dir>
 <name> [COLOR lime]•[/COLOR]    [COLOR cyan][B]Cloud Baby [/B] [/COLOR][COLOR red][I]EDoctor[/I][/COLOR]</name>
