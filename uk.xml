@@ -3,7 +3,7 @@
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8</sublink>
         </link>
-        <thumbnail></thumbnail>
+        <thumbnail>https://vignette1.wikia.nocookie.net/logos2/images/c/c1/Bbc_one_east_midlands.png/revision/latest?cb=20150210213906</thumbnail>
         <fanart></fanart>
 </item>
 
@@ -12,7 +12,7 @@
         <link>
         <sublink>http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8</sublink>        
         </link>        
-        <thumbnail></thumbnail>        
+        <thumbnail>https://vignette.wikia.nocookie.net/mocktheweek/images/a/a9/BBC_Two_logo.png/revision/latest?cb=20100811194139</thumbnail>        
         <fanart></fanart>
 </item>
 
@@ -21,7 +21,7 @@
         <link>
         <sublink>https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8</sublink>
         </link>
-        <thumbnail></thumbnail>
+        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/800px-ITV_logo_2013.svg.png</thumbnail>
         <fanart></fanart>
 </item>
 
@@ -30,7 +30,7 @@
         <link>
         <sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Channel_4_1999.svg/revision/latest/scale-to-width-down/200?cb=20170927100110</thumblink>
         <fanart></fanart>
 </item>
 
@@ -39,7 +39,7 @@
         <link>
         <sublink>http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8</sublink>        
         </link>        
-        <thumblink></thumblink>        
+        <thumblink>https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png</thumblink>        
         <fanart></fanart>
 </item>
 
@@ -127,7 +127,7 @@ SyFy
         <link>
         <sublink>https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://www.actonthis.tv/wp-content/uploads/2013/08/More-comedy-for-ITV2.jpg</thumblink>
         <fanart></fanart>
 </item>
 
@@ -136,7 +136,7 @@ SyFy
         <link>
         <sublink>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://vignette.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumblink>
         <fanart></fanart>
 </item>
 
@@ -145,7 +145,7 @@ SyFy
         <link>
         <sublink>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://www.itv.com/presscentre/sites/default/files/ITV4%20logo_0.jpg</thumblink>
         <fanart></fanart>
 </item>
 
@@ -170,7 +170,7 @@ Good Food
         <link>
         <sublink>http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/805px-E4_%28channel%29_logo.svg.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -183,7 +183,7 @@ More4
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -228,7 +228,7 @@ My5
         <link>
         <sublink>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://vignette.wikia.nocookie.net/logopedia/images/7/74/ITVBe_logo_pink_with_the_white_background.png/revision/latest/scale-to-width-down/640?cb=20150814161212</thumblink>
         <fanart></fanart>
 </item>
 
@@ -271,7 +271,7 @@ Nat Geo Wild
         <link>
         <sublink>http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -341,7 +341,7 @@ Sky Cinema Superheroes
 <item>
         <title>[COLOR yellow] --- [/COLOR] [COLOR red][I][B] UK [/B][/I][/COLOR][COLOR white][I][B] Kids [/B][/I][/COLOR][COLOR cyan][I][B] Channels [/B][/I][/COLOR] [COLOR yellow] --- [/COLOR]</title>
         <link>http://IGNORAME.COM</link>
-        <thumbnail></thumbnail>
+        <thumbnail>'.'</thumbnail>
         <fanart></fanart>
         <externallink></externallink>
 </item> 
@@ -350,7 +350,7 @@ Sky Cinema Superheroes
 <item>
         <title>Nickelodeon</title@>
         <link></link>
-        <thumbnail>https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/company/584?region=US&size=600x400</thumbnail>
+        <thumbnail>https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/08/after.png</thumbnail>
 </item>
 
 <item>
@@ -376,7 +376,7 @@ Sky Cinema Superheroes
         <link>
         <sublink>http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8</sublink>
         </link>
-        <thumblink>http://www.cartoonbrew.com/wp-content/uploads/Cartoon_Network_2010_Logo.png</thumblink>
+        <thumblink>https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -385,7 +385,7 @@ Sky Cinema Superheroes
         <link>
         <sublink>http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -394,7 +394,7 @@ Sky Cinema Superheroes
         <link>
         <sublink>http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://vignette.wikia.nocookie.net/logosfake/images/f/f4/CITV.png/revision/latest?cb=20150111215608</thumblink>
         <fanart></fanart>
 </item>
 
@@ -403,7 +403,7 @@ Sky Cinema Superheroes
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://childrens-web.files.bbci.co.uk/cbeebies/www/assets/b733f3b/images/channel-banner/logo.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -412,7 +412,7 @@ Sky Cinema Superheroes
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8</sublink>
         </link>
-        <thumblink></thumblink>
+        <thumblink>https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png</thumblink>
         <fanart></fanart>
 </item>
 
