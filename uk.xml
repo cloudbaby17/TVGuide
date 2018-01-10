@@ -122,14 +122,32 @@ Universal
 
 SyFy
 
-ITV 2
-https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
+<item>
+        <title>ITV 2</title>
+        <link>
+        <sublink>https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8</sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
 
-ITV 3
-http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+<item>
+        <title>ITV 3</title>
+        <link>
+        <sublink>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
 
-ITV 4
-http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+<item>
+        <title>ITV 4</title>
+        <link>
+        <sublink>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
 
 Sky Arts
 
@@ -147,15 +165,27 @@ Alibi
 
 Good Food
 
-E4
-http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
+<item>
+        <title>E4</title>
+        <link>
+        <sublink>http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8</sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
 
 More4
 
 4Seven
 
-BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+<item>
+        <title>BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8</sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
 
 Quest
 
@@ -193,8 +223,14 @@ My5
 
 5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
 
-ITVBe
-http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
+<item>
+        <title>ITVBe</title>
+        <link>
+        <sublink>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8</sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
 
 ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
@@ -230,8 +266,15 @@ National Geographic [COLOR blue]HD[/COLOR]
 
 Nat Geo Wild
 
-History
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+<item>
+        <title>History</title>
+        <link>
+        <sublink>http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
+        </link>
+        <thumblink></thumblink>
+        <fanart></fanart>
+</item>
+
 
 H2
 
