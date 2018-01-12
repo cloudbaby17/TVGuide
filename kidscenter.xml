@@ -23,6 +23,6 @@
 <plugin>
 <name>[B][COLOR white]Search for[/COLOR] [COLOR blue]Cartoons[/COLOR][/B]</name>
 <link>plugin://plugin.video.ProjectCypher/?action=searchNavigator</link>
-<thumbnail>http://cypher-media.com/cypher/images/movtvsearch.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart>http://www.fotoview.nl/help/examples/text_cartoon.png?w=240</fanart>
 </plugin>
