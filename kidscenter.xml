@@ -23,6 +23,6 @@
 <plugin>
 <name>[B][COLOR white]Search for[/COLOR] [COLOR blue]Cartoons[/COLOR][/B]</name>
 <link>plugin://plugin.video.ProjectCypher/?action=searchNavigator</link>
-<thumbnail></thumbnail>
+<thumbnail>http://shakthydoss.com/wp-content/uploads/2013/08/cartoon_detective1.png</thumbnail>
 <fanart></fanart>
 </plugin>
