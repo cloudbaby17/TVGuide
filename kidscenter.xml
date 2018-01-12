@@ -9,19 +9,19 @@
 </dir>
 
 <dir>
-<name>[B][COLOR yellow]Huge Animated Collection[/COLOR][/B]</name>
+<name>[B][COLOR white]Huge Animated[/COLOr] [COLOR blue]Collection[/COLOR][/B]</name>
 <link>http://cypher-media.com/aa/biganimated.xml</link>
 <thumbnail>http://www.filmsite.org/images/animated-genre.jpg</thumbnail>
 </dir>
 
 <dir>
-<name>[B][COLOR yellow]YouTube Kids[/COLOR][/B]</name>
+<name>[B][COLOR white]YouTube[/COLOr] [COLOR blue]Kids[/COLOR][/B]</name>
 <link>http://cypher-media.com/aa/ytkids.xml</link>
 <thumbnail>http://www.licensing.biz/cimages/b4c4ccc2e275512b45eec0017f693193.png</thumbnail>
 </dir>
 
 <plugin>
-<name>[B][COLOR yellow]Search for Cartoons[/COLOR][/B]</name>
+<name>[B][COLOR white]Search for[/COLOr] [COLOR blue]Cartoons[/COLOR][/B]</name>
 <link>plugin://plugin.video.ProjectCypher/?action=searchNavigator</link>
 <thumbnail>http://cypher-media.com/cypher/images/movtvsearch.png</thumbnail>
 <fanart>http://www.fotoview.nl/help/examples/text_cartoon.png?w=240</fanart>
