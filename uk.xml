@@ -8,7 +8,7 @@
 </item>
 
 <item>
-        <title>BBC Two</title>
+        <title>[COLOR]LIVE [/COLOR]BBC Two</title>
         <link>
         <sublink>http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8</sublink>        
         </link>        
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-        <title>ITV 1</title>
+        <title>[COLOR]LIVE [/COLOR]ITV 1</title>
         <link>
         <sublink>https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8</sublink>
         </link>
@@ -26,7 +26,7 @@
 </item>
 
 <item>
-        <title>Channel 4</title>
+        <title>[COLOR]LIVE [/COLOR]Channel 4</title>
         <link>
         <sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</sublink>
         </link>
@@ -35,7 +35,7 @@
 </item>
 
 <item>        
-        <title>Channel 5</title>
+        <title>[COLOR]LIVE [/COLOR]Channel 5</title>
         <link>
         <sublink>http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8</sublink>        
         </link>        
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-        <title@>[COLOR red]Sky 1[/COLOR]</title>
+        <title@>[COLOR]LIVE [/COLOR]Sky 1[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
@@ -53,7 +53,7 @@
 </item>
 
 <item>
-        <title@>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+        <title@>[COLOR]LIVE [/COLOR]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
@@ -62,7 +62,7 @@
 </item>
 
 <item>
-        <title@>[COLOR red]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+        <title@>[COLOR]LIVE [/COLOR]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-        <title@>[COLOR red]Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
+        <title@>[COLOR]LIVE [/COLOR]Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
@@ -123,7 +123,7 @@ Universal
 SyFy
 
 <item>
-        <title>ITV 2</title>
+        <title>[COLOR]LIVE [/COLOR]ITV 2</title>
         <link>
         <sublink>https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8</sublink>
         </link>
@@ -132,7 +132,7 @@ SyFy
 </item>
 
 <item>
-        <title>ITV 3</title>
+        <title>[COLOR]LIVE [/COLOR]ITV 3</title>
         <link>
         <sublink>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</sublink>
         </link>
@@ -141,7 +141,7 @@ SyFy
 </item>
 
 <item>
-        <title>ITV 4</title>
+        <title>[COLOR]LIVE [/COLOR]ITV 4</title>
         <link>
         <sublink>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</sublink>
         </link>
@@ -166,7 +166,7 @@ Alibi
 Good Food
 
 <item>
-        <title>E4</title>
+        <title>[COLOR]LIVE [/COLOR]E4</title>
         <link>
         <sublink>http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8</sublink>
         </link>
@@ -179,7 +179,7 @@ More4
 4Seven
 
 <item>
-        <title>BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]</title>
+        <title>[COLOR]LIVE [/COLOR]BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8</sublink>
         </link>
@@ -224,7 +224,7 @@ My5
 5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 <item>
-        <title>ITVBe</title>
+        <title>[COLOR]LIVE [/COLOR]ITVBe</title>
         <link>
         <sublink>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8</sublink>
         </link>
@@ -249,7 +249,7 @@ DMAX
 Food Network
 
 <item>  
-        <title>Travel Channel</title>        
+        <title>[COLOR]LIVE [/COLOR]Travel Channel</title>        
         <link>        
         <sublink>http://185.231.160.35/170/1/index.m3u8</sublink>        
         </link>        
@@ -274,7 +274,7 @@ National Geographic [COLOR blue]HD[/COLOR]
 Nat Geo Wild
 
 <item>
-        <title>History</title>
+        <title>[COLOR]LIVE [/COLOR]History</title>
         <link>
         <sublink>http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
         </link>
@@ -355,19 +355,19 @@ Sky Cinema Superheroes
 
 
 <item>
-        <title>Nickelodeon</title@>
+        <title>[COLOR]LIVE [/COLOR]Nickelodeon</title@>
         <link></link>
         <thumbnail>https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/08/after.png</thumbnail>
 </item>
 
 <item>
-        <title>Disney Channel (down on site)</title@>
+        <title>[COLOR]LIVE [/COLOR]Disney Channel (down on site)</title@>
         <link></link>
         <thumbnail>https://pmcdeadline2.files.wordpress.com/2010/11/disneychannel.jpg?w=605</thumbnail>
 </item>
 
 <item>
-        <title>Disney Jnr</title@>
+        <title>[COLOR]LIVE [/COLOR]Disney Jnr</title@>
         <link></link>
         <thumbnail>http://laoblogger.com/images/disney-junior-logo-clipart-4.jpg</thumbnail>
 </item>
@@ -388,7 +388,7 @@ Sky Cinema Superheroes
 </item>
 
 <item>        
-        <title>Boomerang</title>
+        <title>[COLOR]LIVE [/COLOR]Boomerang</title>
         <link>
         <sublink>http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
         </link>
@@ -397,7 +397,7 @@ Sky Cinema Superheroes
 </item>
 
 <item>
-        <title>Citv</title>
+        <title>[COLOR]LIVE [/COLOR]Citv</title>
         <link>
         <sublink>http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8</sublink>
         </link>
@@ -406,7 +406,7 @@ Sky Cinema Superheroes
 </item>
 
 <item>
-        <title>Cbbc [COLOR cyan]HD[/COLOR]</title>
+        <title>[COLOR]LIVE [/COLOR]Cbbc [COLOR cyan]HD[/COLOR]</title>
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8</sublink>
         </link>
@@ -415,7 +415,7 @@ Sky Cinema Superheroes
 </item>
 
 <item>
-        <title>Cbeebies [COLOR cyan]HD[/COLOR]</title>
+        <title>[COLOR]LIVE [/COLOR]Cbeebies [COLOR cyan]HD[/COLOR]</title>
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8</sublink>
         </link>
@@ -424,7 +424,7 @@ Sky Cinema Superheroes
 </item>
 
 <item>
-        <title>Disney XD </title>
+        <title>[COLOR]LIVE [/COLOR]Disney XD </title>
         <link>
         <sublink>http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
         </link> 
