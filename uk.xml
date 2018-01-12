@@ -179,7 +179,7 @@ More4
 4Seven
 
 <item>
-        <title>[COLOR yellow]LIVE [/COLOR yellow]BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]</title>
+        <title>[COLOR yellow]LIVE [/COLOR yellow][COLOR white]BBC Four[/COLOR white] [COLOR blue][I][B]HD[/B][/I][/COLOR]</title>
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8</sublink>
         </link>
