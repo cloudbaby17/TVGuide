@@ -29,21 +29,23 @@
 <fanart></fanart>
 </dir>
 
-<dir><name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] World Sky Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportworld.xml</link>
+<dir>
+<name> [COLOR red]•[/COLOR] [COLOR yellow]LIVE[/COLOR] [COLOR white][B] World Sky Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+<link>https://githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
+<!--link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportworld.xml</link--!>
 <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
-<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] USA Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+<name> [COLOR orange]•[/COLOR] [COLOR yellow]LIVE[/COLOR] [COLOR white][B] USA Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
 <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportusa.xml</link>
 <thumbnail>http://wsport.com.ua/uploads/posts/2012-05/1337779286_3tit.jpg</thumbnail>
 <fanart></fanart>
 </dir>
 
 <dir>
-<name> [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Comcast Sports Networks[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+<name> [COLOR lime]•[/COLOR] [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Comcast Sports Networks[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
 <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/comsn.xml</link>
 <thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
 <fanart></fanart>
