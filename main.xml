@@ -38,10 +38,11 @@
 </dir>
 
 <dir>
-     <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red][/COLOR][COLOR white] World[/COLOR][COLOR blue] CCTV[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+     <name>[B][COLOR red]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red][/COLOR][COLOR white] World[/COLOR][COLOR blue] CCTV[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://pensiuneadecebal.ro/images/cctv-icon.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/cctv.xml</link>
+     <!--link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/cctv.xml</link!-->
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
 </dir>
 
 <dir>
