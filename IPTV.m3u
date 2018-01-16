@@ -1,330 +1,294 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 01.01.18 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
-http://
-
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Happy 2018 [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
-
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
-http://
-
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC One
+#EXTINF:-1, BBC One
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Two
+#EXTINF:-1, BBC Two
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 1
+#EXTINF:-1, ITV 1
 https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 4
+#EXTINF:-1, Channel 4
 http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Channel 5
+#EXTINF:-1, Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky 1
+#EXTINF:-1, Sky 1
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/667.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR] [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR] [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Atlantic [COLOR blue][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, Sky Atlantic [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     W [COLOR blue][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, W [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Gold
+#EXTINF:-1, Gold
 
 
-#EXTINF:-1, [COLOR orange]•[/COLOR]     Dave
+#EXTINF:-1, Dave
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/663.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Universal
+#EXTINF:-1, Universal
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     SyFy
+#EXTINF:-1, SyFy
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 2
+#EXTINF:-1, ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 3
+#EXTINF:-1, ITV 3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITV 4
+#EXTINF:-1, ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Arts
+#EXTINF:-1, Sky Arts
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     ITV Encore
+#EXTINF:-1, ITV Encore
 
 
-#EXTINF:-1,  [COLOR white]•[/COLOR]     Fox
+#EXTINF:-1, Fox
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/4959.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     TLC
+#EXTINF:-1, TLC
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Comedy Central Extra
+#EXTINF:-1, Comedy Central Extra
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Alibi
+#EXTINF:-1, Alibi
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Good Food
+#EXTINF:-1, Good Food
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     E4
+#EXTINF:-1, E4
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     More4
+#EXTINF:-1, More4
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/651.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     4Seven
+#EXTINF:-1, 4Seven
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5564.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Quest
+#EXTINF:-1, Quest
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/641.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Challenge
+#EXTINF:-1, Challenge
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Reality
+#EXTINF:-1, CBS Reality
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Action
+#EXTINF:-1, CBS Action
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     CBS Drama
+#EXTINF:-1, CBS Drama
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     E! Entertainment
+#EXTINF:-1, E! Entertainment
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Pick
+#EXTINF:-1, Pick
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/4960.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Really
+#EXTINF:-1, Really
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Drama
+#EXTINF:-1, Drama
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Spike Tv
+#EXTINF:-1, Spike Tv
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Shed
+#EXTINF:-1, Discovery Shed
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky 2
+#EXTINF:-1, Sky 2
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Home & Health
+#EXTINF:-1, Discovery Home & Health
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Real Lives
+#EXTINF:-1, Real Lives
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     My5
+#EXTINF:-1, My5
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     5 USA
+#EXTINF:-1, 5 USA
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/655.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR
+#EXTINF:-1, 5 STAR
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5461.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, 5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/44092.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ITVBe
+#EXTINF:-1, ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     AMC
+#EXTINF:-1, AMC
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Home
+#EXTINF:-1, Home
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Dave Ja Vu 
+#EXTINF:-1, Dave Ja Vu 
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     DMAX
+#EXTINF:-1, DMAX
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/366.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Food Network
+#EXTINF:-1, Food Network
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel 
+#EXTINF:-1, Travel Channel 
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/49985.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Travel Channel [COLOR green][I][B]+1[/B][/I][/COLOR]
+#EXTINF:-1, Travel Channel [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
+#EXTINF:-1, Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/19401.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Animal Planet
+#EXTINF:-1, Animal Planet
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/9950.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Turbo
+#EXTINF:-1, Discovery Turbo
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/5471.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery Science
+#EXTINF:-1, Discovery Science
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     National Geographic [COLOR blue]HD[/COLOR]
+#EXTINF:-1, National Geographic [COLOR blue]HD[/COLOR]
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/20634.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Nat Geo Wild
+#EXTINF:-1, Nat Geo Wild
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/617.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     History
+#EXTINF:-1, History
 http://xc1.asmhosting.solutions:80/live/555555555/555555555/649.m3u8
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     H2
+#EXTINF:-1, H2
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Eden
+#EXTINF:-1, Eden
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Discovery History [COLOR blue]HD[/COLOR]
+#EXTINF:-1, Discovery History [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Yesterday
+#EXTINF:-1, Yesterday
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Crime & Investigation [COLOR blue]HD[/COLOR]
+#EXTINF:-1, Crime & Investigation [COLOR blue]HD[/COLOR]
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Investigation Discovery
+#EXTINF:-1, Investigation Discovery
 
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Entertainment
+#EXTINF:-1, True Entertainment
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Crime
+#EXTINF:-1, True Crime
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Film4
+#EXTINF:-1, Film4
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     TCM
+#EXTINF:-1, TCM
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Horror Channel
+#EXTINF:-1, Horror Channel
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Movies
+#EXTINF:-1, True Movies
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     True Movies 2
+#EXTINF:-1, True Movies 2
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sony Movie Channel
+#EXTINF:-1, Sony Movie Channel
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Movies4Men
+#EXTINF:-1, Movies4Men
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Movies 24
+#EXTINF:-1, Movies 24
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Premier
+#EXTINF:-1, Sky Cinema Premier
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Showcase
+#EXTINF:-1, Sky Cinema Showcase
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Greats
+#EXTINF:-1, Sky Cinema Greats
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Disney
+#EXTINF:-1, Sky Cinema Disney
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Family
+#EXTINF:-1, Sky Cinema Family
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Action & Adventure
+#EXTINF:-1, Sky Cinema Action & Adventure
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Comedy
+#EXTINF:-1, Sky Cinema Comedy
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Crime & Thriller
+#EXTINF:-1, Sky Cinema Crime & Thriller
 
 
-#EXTINF:-1, [COLOR orange]•[/COLOR]     Sky Cinema Drama Romance
+#EXTINF:-1, Sky Cinema Drama Romance
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Cinema Sci-Fi Horror
+#EXTINF:-1, Sky Cinema Sci-Fi Horror
 
 
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Movies Select
+#EXTINF:-1, Sky Movies Select
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Cinema Superheroes
+#EXTINF:-1, Sky Cinema Superheroes
 
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
-
-#EXTINF:-1, These Sports Channels Are Subject To Change
-https://
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 1 
-https://ios.qpr.co.uk/video/qprtv1/qprtv1.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 2
-https://ios.qpr.co.uk/video/qprtv2/qprtv2.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 3
-https://ios.qpr.co.uk/video/qprtv3/qprtv3.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 4
-https://ios.qpr.co.uk/video/qprtv4/qprtv4.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 5 
-https://ios.qpr.co.uk/video/qprtv5/qprtv5.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 6
-https://ios.qpr.co.uk/video/qprtv6/qprtv6.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 7
-https://ios.qpr.co.uk/video/qprtv7/qprtv7.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 8
-https://ios.qpr.co.uk/video/qprtv8/qprtv8.m3u8
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
 
@@ -437,87 +401,87 @@ https://ios.qpr.co.uk/video/qprtv8/qprtv8.m3u8
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Kids Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR Lime]•[/COLOR]     Cartoon Network [COLOR blue]HD[/COLOR]
+#EXTINF:-1, Cartoon Network [COLOR blue]HD[/COLOR]
 http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Nickelodeon
+#EXTINF:-1, Nickelodeon
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Nicktoons
+#EXTINF:-1, Nicktoons
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Disney Channel
+#EXTINF:-1, Disney Channel
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Disney Junior
+#EXTINF:-1, Disney Junior
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Nick jr
+#EXTINF:-1, Nick jr
 
 
-#EXTINF:-1, [COLOR red]•[/COLOR]     Nick jr Too
+#EXTINF:-1, Nick jr Too
 
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Boomerang
+#EXTINF:-1, Boomerang
 http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Disney XD 
+#EXTINF:-1, Disney XD 
 http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbeebies [COLOR blue]HD[/COLOR]
+#EXTINF:-1, Cbeebies [COLOR blue]HD[/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Cbbc [COLOR blue]HD[/COLOR]
+#EXTINF:-1, Cbbc [COLOR blue]HD[/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     Citv
+#EXTINF:-1, Citv
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] NASA [/I][/B][/COLOR] [COLOR red][I][B] Channels [/I][/B][/COLOR][/B] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA TV Public
+#EXTINF:-1, NASA TV Public
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_700.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA TV Media
+#EXTINF:-1, NASA TV Media
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_2000.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA TV
+#EXTINF:-1, NASA TV
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA TV MEDIA CHANNEL
+#EXTINF:-1, NASA TV MEDIA CHANNEL
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ISS Live
+#EXTINF:-1, ISS Live
 plugin://plugin.video.youtube/play/?video_id=RtU_mdL2vBM
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     ISS Live 2
+#EXTINF:-1, ISS Live 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA CSBF Operations
+#EXTINF:-1, NASA CSBF Operations
 http://iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     NASA LaRC
+#EXTINF:-1, NASA LaRC
 http://iphone-streaming.ustream.tv/uhls/7549153/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] NEWS CHANNELS [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     UK ITV Live Events Channel
+#EXTINF:-1, UK ITV Live Events Channel
 https://itvliveevents-i.akamaihd.net/hls/live/203496/itvliveevents/ITVEVTMN/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     UK Sky News [COLOR blue]HD[/COLOR]
+#EXTINF:-1, UK Sky News [COLOR blue]HD[/COLOR]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     CBS News
+#EXTINF:-1, CBS News
 http://www.cbsnews.com/common/video/dai_prod.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     UK London Live 
+#EXTINF:-1, UK London Live 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     UK BBC News [COLOR blue]HD[/COLOR]
+#EXTINF:-1, UK BBC News [COLOR blue]HD[/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
 
-#EXTINF:-1, [COLOR lime]•[/COLOR]     UK BBC Parliament
+#EXTINF:-1, UK BBC Parliament
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
 
