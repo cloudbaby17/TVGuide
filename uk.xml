@@ -34,21 +34,66 @@
         <link>
         <sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</sublink>
         </link>
-        <thumblink>https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Channel_4_1999.svg/revision/latest/scale-to-width-down/200?cb=20170927100110</thumblink>
+        <thumblink>http://emby.world/LOGOS/2/channel4hd.png</thumblink>
         <fanart></fanart>
 </item>
 
 <item>        
-        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Channel 5[/COLOR][COLOR blue] SD[/COLOR]/title>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Channel 5[/COLOR][COLOR blue] SD[/COLOR]</title>
         <link>
         <sublink>http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8</sublink>        
         </link>        
-        <thumblink>https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png</thumblink>        
+        <thumblink>http://emby.world/LOGOS/2/channel5hd.png</thumblink>        
         <fanart></fanart>
 </item>
 
 <item>
-        <title@>[COLOR yellow]LIVE [/COLOR yellow]</title>
+        <title>[COLOR yellow]LIVE [/COLOR yellow] Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/5561.m3u8</sublink>
+        </link>
+        <thumblink>http://emby.world/LOGOS/2/skylivinghd.png</thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR yellow]LIVE [/COLOR yellow] Sky Living +1[I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/13329.m3u8</sublink>
+        </link>
+        <thumblink>http://plextream.co.uk/PICONS/skylivingplus1.png</thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR yellow]LIVE [/COLOR yellow] Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/665.m3u8</sublink>
+        </link>
+        <thumblink>http://emby.world/LOGOS/2/skyatlantichd.png</thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR yellow]LIVE [/COLOR yellow] W [COLOR blue][I][B]HD[/B][/I][/COLOR]</title>
+        <link>
+        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/7994.m3u8</sublink>
+        </link>
+        <thumblink>http://emby.world/LOGOS/2/watch.png</thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>[COLOR yellow]LIVE [/COLOR yellow] Gold</title>
+        <link>
+        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/662.m3u8</sublink>
+        </link>
+        <thumblink>http://emby.world/LOGOS/2/gold.png</thumblink>
+        <fanart></fanart>
+</item>
+
+<item>
+        <title>Dave</title>
         <link>
         <sublink></sublink>
         </link>
@@ -56,75 +101,15 @@
         <fanart></fanart>
 </item>
 
-<item>
-        <title@>[COLOR yellow]LIVE [/COLOR yellow]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
-        <link>
-        <sublink></sublink>
-        </link>
-        <thumblink></thumblink>
-        <fanart></fanart>
-</item>
-
-<item>
-        <title@>[COLOR yellow]LIVE [/COLOR yellow]Sky Living [I][B]HD[/B][/I][/COLOR]</title>
-        <link>
-        <sublink></sublink>
-        </link>
-        <thumblink></thumblink>
-        <fanart></fanart>
-</item>
-
-<item>
-        <title@>[COLOR yellow]LIVE [/COLOR yellow]Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
-        <link>
-        <sublink></sublink>
-        </link>
-        <thumblink></thumblink>
-        <fanart></fanart>
-</item>
-
-<item>
-        <title></title>
-        <link>
-        <sublink></sublink>
-        </link>
-        <thumblink></thumblink>
-        <fanart></fanart>
-</item>
-
-<item>
-        <title></title>
-        <link>
-                <sublink></sublink>
-        </link>
-        <thumblink></thumblink>
-        <fanart></fanart>
-</item>
-
-<item>
-        <title></title>
-        <link>
-                <sublink></sublink>
-        </link>
-        <thumblink></thumblink>
-        <fanart></fanart>
-</item>
-
-
-
-
-
-W [COLOR blue][I][B]HD[/B][/I][/COLOR]
-
-Gold
-
-Dave
-
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Universal
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 SyFy
+
 
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] ITV 2[/COLOR][COLOR blue] SD[/COLOR]</title>
@@ -153,20 +138,28 @@ SyFy
         <fanart></fanart>
 </item>
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Arts
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 ITV Encore
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Fox
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 TLC
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Comedy Central Extra
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 ITV [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Alibi
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Good Food
 
 <item>
@@ -178,8 +171,10 @@ Good Food
         <fanart></fanart>
 </item>
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 More4
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 4Seven
 
 <item>
@@ -191,40 +186,58 @@ More4
         <fanart></fanart>
 </item>
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Quest
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Challenge
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 CBS Reality
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 CBS Action
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 CBS Drama
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 E! Entertainment
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Pick
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Really
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Drama
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Spike Tv
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Discovery Shed
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky 2
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Discovery Home & Health
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Real Lives
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 My5
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 5 USA
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 5 STAR
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
 
 <item>
@@ -236,20 +249,28 @@ My5
         <fanart></fanart>
 </item>
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 AMC
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 ITV 3 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Home
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 ITV 4 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Dave Ja Vu 
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 DMAX
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Food Network
 
 <item>  
@@ -261,20 +282,28 @@ Food Network
         <fanart></fanart>
 </item>
 
- Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
+Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Travel Channel [COLOR green][I][B]+1[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Animal Planet
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Discovery Turbo
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Discovery Science
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 National Geographic [COLOR blue]HD[/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Nat Geo Wild
 
 <item>
@@ -286,68 +315,90 @@ Nat Geo Wild
         <fanart></fanart>
 </item>
 
-
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 H2
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Eden
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Discovery History [COLOR blue]HD[/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Yesterday
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Crime & Investigation [COLOR blue]HD[/COLOR]
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Investigation Discovery
-
 
 <title>[COLOR yellow] --- [/COLOR] [COLOR red][I][B] UK [/B][/I][/COLOR][COLOR white][I][B] Movies & Entertainment [/B][/I][/COLOR][COLOR cyan][I][B] Channels [/B][/I][/COLOR] [COLOR yellow] --- [/COLOR]</title>
 <title> Coming Soon </title>
 True Entertainment
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 True Crime
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Film4
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 TCM
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Horror Channel
 
-
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 True Movies
 
-
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 True Movies 2
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sony Movie Channe
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Movies4Men
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Movies 24
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Premier
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Showcase
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Greats
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Disney
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Family
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Action & Adventure
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Comedy
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Crime & Thriller
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Drama Romance
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Sci-Fi Horror
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Movies Select
 
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Sky Cinema Superheroes
-
 
 <item>
         <title>[COLOR yellow] --- [/COLOR] [COLOR red][I][B] UK [/B][/I][/COLOR][COLOR white][I][B] Kids [/B][/I][/COLOR][COLOR cyan][I][B] Channels [/B][/I][/COLOR] [COLOR yellow] --- [/COLOR]</title>
@@ -356,7 +407,6 @@ Sky Cinema Superheroes
         <fanart></fanart>
         <externallink></externallink>
 </item> 
-
 
 <item>
         <title>[COLOR]LIVE [/COLOR]Nickelodeon</title@>
@@ -435,5 +485,4 @@ Sky Cinema Superheroes
         <thumblink><thumbnail>https://i0.wp.com/www.tvequals.com/wp-content/uploads/2013/03/Disney-XD-logo.jpg?resize=543%2C336</thumbnail></thumblink>
         <fanart></fanart>
 </item>
-
 
