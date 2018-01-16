@@ -219,7 +219,7 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/649.m3u8
 
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
+
 
 #EXTINF:-1, True Entertainment
 
@@ -288,7 +288,7 @@ http://
 
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
+
 
 #EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
 
@@ -437,7 +437,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 #EXTINF:-1, Citv
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] NASA [/I][/B][/COLOR] [COLOR red][I][B] Channels [/I][/B][/COLOR][/B] [COLOR red] --- [/COLOR]
+#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] NASA [/I][/B][/COLOR] [COLOR red][I][B] Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
 
 #EXTINF:-1, NASA TV Public
