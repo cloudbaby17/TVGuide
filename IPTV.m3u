@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,|UK| AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ipfox.me:2086/live/Etronics_iDOyEA/LLTqPnRm/4354.ts
+
 #EXTINF:-1, BBC One
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
 
