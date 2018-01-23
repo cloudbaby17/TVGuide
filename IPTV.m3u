@@ -12,10 +12,10 @@ https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
 http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 
 #EXTINF:-1, Channel 5
-http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
+
 
 #EXTINF:-1, Sky 1
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/667.m3u8
+
 
 #EXTINF:-1, Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
@@ -33,7 +33,7 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/667.m3u8
 
 
 #EXTINF:-1, Dave
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/663.m3u8
+
 
 #EXTINF:-1, Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
@@ -60,7 +60,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 
 
 #EXTINF:-1, Fox
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/4959.m3u8
+
 
 #EXTINF:-1, TLC
 
@@ -81,16 +81,16 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/4959.m3u8
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, More4
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/651.m3u8
+
 
 #EXTINF:-1, 4Seven
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5564.m3u8
+
 
 #EXTINF:-1, BBC Four [COLOR blue][I][B]HD[/B][/I][/COLOR]
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
 
 #EXTINF:-1, Quest
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/641.m3u8
+
 
 #EXTINF:-1, Challenge
 
@@ -108,7 +108,7 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/641.m3u8
 
 
 #EXTINF:-1, Pick
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/4960.m3u8
+
 
 #EXTINF:-1, Really
 
@@ -135,13 +135,13 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/4960.m3u8
 
 
 #EXTINF:-1, 5 USA
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/655.m3u8
+
 
 #EXTINF:-1, 5 STAR
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5461.m3u8
+
 
 #EXTINF:-1, 5 STAR [COLOR green][I][B]+1[/B][/I][/COLOR]
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/44092.m3u8
+
 
 #EXTINF:-1, ITVBe
 http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
@@ -165,13 +165,13 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, DMAX
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/366.m3u8
+
 
 #EXTINF:-1, Food Network
 
 
 #EXTINF:-1, Travel Channel 
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/49985.m3u8
+
 
 #EXTINF:-1, Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
 
@@ -180,25 +180,25 @@ http://xc1.asmhosting.solutions:80/live/555555555/555555555/49985.m3u8
 
 
 #EXTINF:-1, Discovery Channel [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/19401.m3u8
+
 
 #EXTINF:-1, Animal Planet
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/9950.m3u8
+
 
 #EXTINF:-1, Discovery Turbo
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/5471.m3u8
+
 
 #EXTINF:-1, Discovery Science
 
 
 #EXTINF:-1, National Geographic [COLOR blue]HD[/COLOR]
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/20634.m3u8
+
 
 #EXTINF:-1, Nat Geo Wild
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/617.m3u8
+
 
 #EXTINF:-1, History
-http://xc1.asmhosting.solutions:80/live/555555555/555555555/649.m3u8
+
 
 #EXTINF:-1, H2
 
@@ -447,13 +447,13 @@ http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_700.m3u8
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_2000.m3u8
 
 #EXTINF:-1, NASA TV
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, NASA TV MEDIA CHANNEL
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 
 #EXTINF:-1, ISS Live
-plugin://plugin.video.youtube/play/?video_id=RtU_mdL2vBM
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, ISS Live 2
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
