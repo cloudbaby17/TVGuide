@@ -15,10 +15,10 @@ http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 #EXTINF:-1, Sky 1
-http://gslh.co.uk:8080/live/kristen/kristen/73585.ts
+
 
 #EXTINF:-1, Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://gslh.co.uk:8080/live/kristen/kristen/73586.ts
+
 
 #EXTINF:-1, Sky Living [COLOR blue][I][B]HD[/B][/I][/COLOR] [COLOR green][I][B]+1[/B][/I][/COLOR]
 
@@ -27,13 +27,13 @@ http://gslh.co.uk:8080/live/kristen/kristen/73586.ts
 
 
 #EXTINF:-1, W [COLOR blue][I][B]HD[/B][/I][/COLOR]
-http://gslh.co.uk:8080/live/kristen/kristen/84902.ts
+
 
 #EXTINF:-1, Gold
 
 
 #EXTINF:-1, Dave
-http://gslh.co.uk:8080/live/kristen/kristen/73630.ts
+
 
 #EXTINF:-1, Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
 
@@ -42,7 +42,7 @@ http://gslh.co.uk:8080/live/kristen/kristen/73630.ts
 
 
 #EXTINF:-1, SyFy
-http://gslh.co.uk:8080/live/kristen/kristen/73576.ts
+
 
 #EXTINF:-1, ITV 2
 https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
@@ -81,7 +81,7 @@ http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800
 http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8
 
 #EXTINF:-1, More4
-http://gslh.co.uk:8080/live/kristen/kristen/73611.ts
+
 
 #EXTINF:-1, 4Seven
 
@@ -165,7 +165,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 
 #EXTINF:-1, DMAX
-http://gslh.co.uk:8080/live/kristen/kristen/73629.ts
+
 
 #EXTINF:-1, Food Network
 
@@ -198,7 +198,7 @@ http://gslh.co.uk:8080/live/kristen/kristen/73629.ts
 
 
 #EXTINF:-1, History
-http://gslh.co.uk:8080/live/kristen/kristen/73761.ts
+
 
 #EXTINF:-1, H2
 
@@ -219,7 +219,7 @@ http://gslh.co.uk:8080/live/kristen/kristen/73761.ts
 
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Movies & Entertainment [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
+
 
 #EXTINF:-1, True Entertainment
 
@@ -228,7 +228,7 @@ http://
 
 
 #EXTINF:-1, Film4
-http://gslh.co.uk:8080/live/kristen/kristen/73690.ts
+
 
 #EXTINF:-1, TCM
 
@@ -417,7 +417,7 @@ http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u
 
 
 #EXTINF:-1, Nick jr
-http://zerocube.co:8000/live/040506/040506/12836.ts
+
 
 #EXTINF:-1, Nick jr Too
 
