@@ -29,3 +29,51 @@
 	<thumbnail>https://image.tmdb.org/t/p/original/7U1cdNG5u9dvawxwQ2dL2eD0fvL.jpg</thumbnail>
 	<fanart>https://image.tmdb.org/t/p/original/xgIxmqYPWIQUFWPcpVsWbKDHzmQ.jpg</fanart>
 </item>
+
+<item>
+	<title>Paddington 2 (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt4468740</imdb>
+		<title>Paddington 2</title>
+		<year>2017</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w640/gnXaUxdKD2t1B74cutWA5rjBLgD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/6bM0f5tjclt7JjgwR7AWvCma8QZ.jpg</fanart>
+</item>
+
+<item>
+	<title></title>
+	<meta>
+		<content>movie</content>
+		<imdb></imdb>
+		<title></title>
+		<year></year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
+
+<item>
+	<title></title>
+	<meta>
+		<content>movie</content>
+		<imdb></imdb>
+		<title></title>
+		<year></year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
