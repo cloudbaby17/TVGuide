@@ -2,26 +2,26 @@
 
 <fanart>\plugin.video.cloudbaby</fanart>
 
-<dir>
+--!<dir>
      <name>[B][COLOR red]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] Movies[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB514892123_.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-</dir>
+--!</dir>
 
-<dir>
+--!<dir>
      <name>[B][COLOR red]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB514892123_.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-</dir>
+--!</dir>
 
-<dir>
+--!<dir>
      <name>[B][COLOR lime]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] Kids[/COLOR][COLOR blue] Center[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>https://stocklogos-pd.s3.amazonaws.com/styles/logo-medium-alt/logos/image/bda91acb1eac9a4bd5f83747450d5ee5.png?itok=Bvci5eiX</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/kidscenter.xml</link>
-</dir>
+--!</dir>
 
 <dir>
      <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red][/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
