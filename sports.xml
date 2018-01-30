@@ -1,147 +1,48 @@
-#EXTM3U
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR cyan][I][B] IPTV Updated 01.01.18 [/B][/I][/COLOR] [COLOR red] --- [/COLOR] 
-http://
-
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Happy 2018 [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
-
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Server Status [/I][/B][/COLOR] [COLOR red] --- [/COLOR] [COLOR lime][B]Online[/COLOR][/B]
-http://
-
-#EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] Sports Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
-
-#EXTINF:-1, These Sports Channels Are Subject To Change
-https://
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 1 
-https://ios.qpr.co.uk/video/qprtv1/qprtv1.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 2
-https://ios.qpr.co.uk/video/qprtv2/qprtv2.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 3
-https://ios.qpr.co.uk/video/qprtv3/qprtv3.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 4
-https://ios.qpr.co.uk/video/qprtv4/qprtv4.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 5 
-https://ios.qpr.co.uk/video/qprtv5/qprtv5.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 6
-https://ios.qpr.co.uk/video/qprtv6/qprtv6.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 7
-https://ios.qpr.co.uk/video/qprtv7/qprtv7.m3u8
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sports Channel 8
-https://ios.qpr.co.uk/video/qprtv8/qprtv8.m3u8
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Mix
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports News
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Main Event [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Cricket [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Action [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Golf 
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Premier League [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Arena
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Sky Sports Darts [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports Football [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     Sky Sports F1 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 1 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR orange]•[/COLOR]     BT Sports 2 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports 3 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR white]•[/COLOR]     BT Sports ESPN 
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 1 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 2 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 3 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 4 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 5 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sport Extra 6 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     BT Sports Mosaic [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     British Eurosport 2 [COLOR blue]HD[/COLOR]
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     EIR Sports 1
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     EIR Sports 2
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Premier Sports
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Boxnation
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Motorsport TV
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     William Hill TV
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     At The Races
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Racing UK
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Redbull TV
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     MUTV
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Liverpool FC TV
-
-
-#EXTINF:-1, [COLOR red]•[/COLOR]     Chelsea TV
-
+<dir>
+  <name> [B][COLOR red]â€¢[/COLOR][/B]Â Â Â Â  [COLOR yellow]LIVE[/COLOR] [COLOR white][B] UK Sky Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+  <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportuk.xml</link>
+  <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name> [B][COLOR red]â€¢[/COLOR][/B]Â Â Â Â  [COLOR yellow]LIVE[/COLOR] [COLOR white][B] BT Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+  <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/btsportuk.xml</link>
+  <thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name> [B][COLOR red]â€¢[/COLOR][/B]Â Â Â Â  [COLOR yellow]LIVE[/COLOR] [COLOR white][B] BeIN Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+  <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/beinsport.xml</link>
+  <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name> [B][COLOR red]â€¢[/COLOR][/B]Â Â Â Â  [COLOR yellow]LIVE[/COLOR] [COLOR white][B] World Sky Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+  <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportworld.xml</link>
+  <thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name> [B][COLOR red]â€¢[/COLOR][/B]Â Â Â Â  [COLOR yellow]LIVE[/COLOR] [COLOR white][B] USA Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+  <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportusa.xml</link>
+  <thumbnail>http://wsport.com.ua/uploads/posts/2012-05/1337779286_3tit.jpg</thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name> [B][COLOR lime]â€¢[/COLOR][/B]Â Â Â Â  [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Comcast Sports Networks[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+  <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/comsn.xml</link>
+  <thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <name> [B][COLOR lime]â€¢[/COLOR][/B]Â Â Â Â  [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Olympics Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
+  <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/olympic.xml</link>
+  <thumbnail>https://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=1200</thumbnail>
+  <fanart></fanart>
+</dir>
