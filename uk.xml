@@ -48,7 +48,7 @@
 </item>
 
 <item>
-        <title>[COLOR yellow]LIVE [/COLOR yellow] Sky Living [I][B]HD[/B][/I][/COLOR]</title>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Living[/COLOR][COLOR blue]HD[/COLOR]</title>
         <link>
         <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/5561.m3u8</sublink>
         </link>
@@ -57,7 +57,7 @@
 </item>
 
 <item>
-        <title>[COLOR yellow]LIVE [/COLOR yellow] Sky Living +1[I][B]HD[/B][/I][/COLOR]</title>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Living +1[/COLOR][COLOR blue]HD[/COLOR]</title>
         <link>
         <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/13329.m3u8</sublink>
         </link>
@@ -66,7 +66,7 @@
 </item>
 
 <item>
-        <title>[COLOR yellow]LIVE [/COLOR yellow] Sky Atlantic [I][B]HD[/B][/I][/COLOR]</title>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Atlantic[/COLOR][COLOR blue]HD[/COLOR]</title>
         <link>
         <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/665.m3u8</sublink>
         </link>
@@ -75,7 +75,7 @@
 </item>
 
 <item>
-        <title>[COLOR yellow]LIVE [/COLOR yellow] W [COLOR blue][I][B]HD[/B][/I][/COLOR]</title>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] W[/COLOR][COLOR blue]HD[/COLOR]</title>
         <link>
         <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/7994.m3u8</sublink>
         </link>
@@ -84,7 +84,7 @@
 </item>
 
 <item>
-        <title>[COLOR yellow]LIVE [/COLOR yellow] Gold</title>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Gold[/COLOR][COLOR blue]HD[/COLOR]</title>
         <link>
         <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/662.m3u8</sublink>
         </link>
@@ -93,7 +93,7 @@
 </item>
 
 <item>
-        <title>Dave</title>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Dave[/COLOR][COLOR blue]HD[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
