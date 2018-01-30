@@ -2,10 +2,44 @@
 <item>          
   <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Int'l Space Station 1[/COLOR][COLOR blue] [/COLOR]</title>  
   <link>  
-  <sublink>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-  </sublink>  
+  <sublink>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8</sublink>  
   </link>  
   <thumbnail></thumbnail>  
+  <fanart></fanart>
+</item>
+
+<item>
+  <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Int'l Space Station 2[/COLOR][COLOR blue] [/COLOR]</title>
+  <link>
+  <sublink>http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8</sublink>
+  </link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+
+<item>
+  <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Smithsonian Panda Cam 1[/COLOR][COLOR blue] [/COLOR]</title>
+  <link>
+  <sublink>http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8</sublink>
+  </link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+
+<item>
+  <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Smithsonian Panda Cam 2[/COLOR][COLOR blue] [/COLOR]</title>
+  <link>
+  <sublink>http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8</sublink>
+  </link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+
+<item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] TLC Cupcake Cam[/COLOR][COLOR blue] [/COLOR]</title>
+  <link>
+  <sublink>http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8</sublink>
+  </link>
+  <thumbnail></thumbnail>
   <fanart></fanart>
 </item>
 
@@ -16,19 +50,6 @@
 <item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] [/COLOR][COLOR blue] [/COLOR]</title>  <link>  <sublink></sublink>  </link>  <thumbnail></thumbnail>  <fanart></fanart></item>
 
 <item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] [/COLOR][COLOR blue] [/COLOR]</title>  <link>  <sublink></sublink>  </link>  <thumbnail></thumbnail>  <fanart></fanart></item>
-
-
-Int'l Space Station 2
-http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-
-Smithsonian Panda Cam 1
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-
-Smithsonian Panda Cam 2
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-
-TLC Cupcake Cam
-http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8
 
 DC Eagle Cam
 http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
