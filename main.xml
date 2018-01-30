@@ -45,23 +45,22 @@
 </dir>
 
 <dir>
-     <name>[B][COLOR orange]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red][/COLOR][COLOR white] World[/COLOR][COLOR blue] CCTV[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+     <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red][/COLOR][COLOR white] World[/COLOR][COLOR blue] CCTV[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://pensiuneadecebal.ro/images/cctv-icon.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/cctv.xml</link>
 </dir>
 
 <dir>
-     <name>[B][COLOR red]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] Streams [COLOR blue]Directory[/COLOR][/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
-     <!--link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/nasa.xml</link--!>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
+     <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red]NASA[/COLOR] [COLOR white] Streams [COLOR blue]Directory[/COLOR][/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/nasa.xml</link>
      <thumbnail>http://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
 </dir>
 
-<dir>
+<!--dir>
      <name>[B][COLOR red]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] Test[/COLOR][COLOR blue] Directory[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <thumbnail>http://www.quanmax.com/site/wp-content/uploads/2017/06/test.png</thumbnail>
-</dir>
+<!--/dir>
