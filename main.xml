@@ -38,10 +38,10 @@
 </dir>
 
 <dir>     
-     <name>[B][COLOR red]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red][/COLOR][COLOR white] Scrapper[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+     <name>[B][COLOR red]•[/COLOR]     [COLOR yellow]LIVE [/COLOR] [COLOR red][/COLOR][COLOR white] Scraper[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://www.wirelesshack.org/wp-content/uploads/2017/12/How-To-Install-Kodi-NAN-Scrappers-Dependency.jpg</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/scrappers.xml</link>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
 </dir>
 
 <dir>
