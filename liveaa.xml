@@ -9,64 +9,15 @@
 </dir>
 
 <dir>     
-<name>[B][COLOR lime]•[/COLOR]     [COLOR yellow][/COLOR] [COLOR red][/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+<name> [B][COLOR lime]•[/COLOR]     [COLOR yellow]LIVE[/COLOR] [COLOR red][/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
 <thumbnail>https://up.metropol247.co.uk/PresIdents/logos.jpg</thumbnail>
 <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
 <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/bbclive.xml</link>
 </dir>
 
 <dir>
-<name>[B][COLOR red]•[/COLOR]     [COLOR yellow][/COLOR] [COLOR red][/COLOR][COLOR white] Scraper[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+<name> [B][COLOR red]•[/COLOR]     [COLOR yellow]LIVE[/COLOR] [COLOR red][/COLOR][COLOR white] Scraper[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
 <thumbnail>http://www.wirelesshack.org/wp-content/uploads/2017/12/How-To-Install-Kodi-NAN-Scrappers-Dependency.jpg</thumbnail>
 <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
 <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-</dir>
-
-<dir>
-<name> [B][COLOR red]•[/COLOR][/B]     [COLOR yellow]LIVE[/COLOR] [COLOR white][B] UK Sky Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportuk.xml</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
- <fanart></fanart>
-</dir>
-
-<dir>
-<name> [B][COLOR red]•[/COLOR][/B]     [COLOR yellow]LIVE[/COLOR] [COLOR white][B] BT Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/btsportuk.xml</link>
-<thumbnail>http://i.espn.co.uk/espnuk/splash/bt_sport.png</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name> [B][COLOR red]•[/COLOR][/B]     [COLOR yellow]LIVE[/COLOR] [COLOR white][B] BeIN Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/beinsport.xml</link>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/f/ff/Bein-sports.jpg/revision/latest?cb=20140103213705</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name> [B][COLOR red]•[/COLOR][/B]     [COLOR yellow]LIVE[/COLOR] [COLOR white][B] World Sky Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportworld.xml</link>
-<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-Logo.png</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name> [B][COLOR red]•[/COLOR][/B]     [COLOR yellow]LIVE[/COLOR] [COLOR white][B] USA Sports Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/sportusa.xml</link>
-<thumbnail>http://wsport.com.ua/uploads/posts/2012-05/1337779286_3tit.jpg</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name> [B][COLOR lime]•[/COLOR][/B]     [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Comcast Sports Networks[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/comsn.xml</link>
-<thumbnail>http://media.bizj.us/view/img/1487081/comcast-sportsnet-1*1200xx2100-1181-0-410.jpg</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name> [B][COLOR lime]•[/COLOR][/B]     [COLOR yellow]LIVE[/COLOR] [COLOR white][B] Olympics Channels[/B] [/COLOR][COLOR blue]HD[/COLOR]</name>
-<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/olympic.xml</link>
-<thumbnail>https://nbcolympictalk.files.wordpress.com/2016/12/olympicchannel-e1481805666850.jpg?w=1200</thumbnail>
-<fanart></fanart>
 </dir>
