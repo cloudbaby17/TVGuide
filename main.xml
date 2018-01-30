@@ -38,25 +38,11 @@
 </dir>
 
 <dir>
-     <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow][/COLOR] [COLOR red][/COLOR][COLOR white] IPTV[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+     <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow][/COLOR] [COLOR red][/COLOR][COLOR white] TV[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>https://lh3.googleusercontent.com/x5ytZDRNTjScLegjK_pHe3wskaqlvb3WYFXUYoA7O152PKP4pMuEt7ZJYi1F9SdEiQQ=w170</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/liveaa.xml</link>
 </dir>
-
-<dir>
-     <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow][/COLOR] [COLOR red][/COLOR][COLOR white] BBC[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
-     <thumbnail>https://up.metropol247.co.uk/PresIdents/logos.jpg</thumbnail>
-     <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/bbclive.xml</link>
-</dir>
-
-<!--dir>     
-     <name>[B][COLOR red]•[/COLOR]     [COLOR yellow][/COLOR] [COLOR red][/COLOR][COLOR white] Scraper[/COLOR][COLOR blue] Channels[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
-     <thumbnail>http://www.wirelesshack.org/wp-content/uploads/2017/12/How-To-Install-Kodi-NAN-Scrappers-Dependency.jpg</thumbnail>
-     <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-<!--/dir>
 
 <dir>
      <name>[B][COLOR lime]•[/COLOR]     [COLOR yellow][/COLOR] [COLOR red][/COLOR][COLOR white] World[/COLOR][COLOR blue] CCTV[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
