@@ -13,3 +13,19 @@
 		<thumbnail>https://image.tmdb.org/t/p/original/ooR8S0O0ZgxK2OBnT1GWHrr9w92.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/be3mPpQZ3y83ly48ql76Hx5MlyH.jpg</fanart>
 </item>
+
+<item>
+	<title>Bright (2017)</title>
+	<meta>
+		<content>movie</content>
+		<imdb>tt5519340</imdb>
+		<title>Bright</title>
+		<year>2017</year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>http://www.imdb.com/title/tt5519340/mediaviewer/rm4041824512</thumbnail>
+	<fanart></fanart>
+</item>
