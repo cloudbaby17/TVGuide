@@ -1,14 +1,28 @@
 
-<dir><title>The Walking Dead</title><tmdb>list/46619</tmdb></dir>
+<dir>
+<title>The Walking Dead</title>
+<meta>
+<content>tvshow</content>
+<imdb>tt1520211</imdb>
+<tvdb>153021</tvdb>
+<tvshowtitle>The Walking Dead</tvshowtitle>
+<year>20100</year>
+</meta>   
+<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/tvshows.xml</link>
+<thumbnail></thumbnail>  
+<fanart></fanart>
+</dir>
 
-<dir>  <title>Fear The Walking Dead</title>  <tmdb>list/46623</tmdb></dir>
-
-<dir>  <title></title>  <tmdb>list/</tmdb></dir>
-
-<dir>  <title></title>  <tmdb>list/</tmdb></dir>
-
-<dir>  <title></title>  <tmdb>list/</tmdb></dir>
-
-<dir>  <title></title>  <tmdb>list/</tmdb></dir>
-
-<dir>  <title></title>  <tmdb>list/</tmdb></dir>
+<dir>
+<title></title>
+<meta>
+<content>tvshow</content>
+<imdb></imdb>
+<tvdb></tvdb>
+<tvshowtitle></tvshowtitle>
+<year></year>
+</meta>
+<link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/tvshows.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
