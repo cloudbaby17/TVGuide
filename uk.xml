@@ -63,14 +63,11 @@
 
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Atlantic[/COLOR][COLOR blue] SD[/COLOR]</title>
-        <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
-        <regex>
-        <name>get_sxstream</name>
-        <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-        <page>http://www.liveonlinetv247.info/embed/skyatlantic.php?width=650&amp;height=480</page>
-        <referer>http://www.liveonlinetv247.info/</referer>
-        </regex>
-        <thumbnail>https://michaelmasci.files.wordpress.com/2015/09/header-entertainment.jpg</thumbnail>
+        <link>
+        <sublink></sublink>
+        </link>
+        <thumbnail></thumbnail>
+        <fanart></fanart?
 </item>
 
 <item>
@@ -331,13 +328,6 @@ Crime & Investigation [COLOR blue]HD[/COLOR]
 
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Investigation Discovery
-
-<item><title>HBO</title><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/hbo.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://michaelmasci.files.wordpress.com/2015/09/header-entertainment.jpg</thumbnail></item>
-
-
-<item><title>HBO HD</title><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/hbohd.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://michaelmasci.files.wordpress.com/2015/09/header-entertainment.jpg</thumbnail></item>
-
-
 
 
 <title>[COLOR yellow] --- [/COLOR] [COLOR red][I][B] UK [/B][/I][/COLOR][COLOR white][I][B] Movies & Entertainment [/B][/I][/COLOR][COLOR cyan][I][B] Channels [/B][/I][/COLOR] [COLOR yellow] --- [/COLOR]</title>
