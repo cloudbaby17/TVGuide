@@ -1,7 +1,3 @@
-<title>[COLOR yellow] --- [/COLOR] [COLOR red][I][B] IPTV [/B][/I][/COLOR][COLOR white][I][B] Updated [/B][/I][/COLOR][COLOR cyan][I][B] 12.01.18 [/B][/I][/COLOR] [COLOR yellow] --- [/COLOR]</title>
-
-<title>[COLOR yellow] --- [/COLOR] [COLOR red][I][B] UK [/B][/I][/COLOR][COLOR white][I][B] Main [/B][/I][/COLOR][COLOR cyan][I][B] Channels [/B][/I][/COLOR] [COLOR yellow] --- [/COLOR]</title>
-
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] BBC One[/COLOR][COLOR blue] SD[/COLOR]</title>
         <link>
@@ -66,18 +62,21 @@
 </item>
 
 <item>
-        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Atlantic[/COLOR][COLOR blue] HD[/COLOR]</title>
-        <link>
-        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/665.m3u8</sublink>
-        </link>
-        <thumblink>http://emby.world/LOGOS/2/skyatlantichd.png</thumblink>
-        <fanart></fanart>
+        <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Atlantic[/COLOR][COLOR blue] SD[/COLOR]</title>
+        <link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+        <regex>
+        <name>get_sxstream</name>
+        <expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+        <page>http://www.liveonlinetv247.info/embed/skyatlantic.php?width=650&amp;height=480</page>
+        <referer>http://www.liveonlinetv247.info/</referer>
+        </regex>
+        <thumbnail>https://michaelmasci.files.wordpress.com/2015/09/header-entertainment.jpg</thumbnail>
 </item>
 
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] W[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
-        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/7994.m3u8</sublink>
+        <sublink></sublink>
         </link>
         <thumblink>http://emby.world/LOGOS/2/watch.png</thumblink>
         <fanart></fanart>
@@ -86,7 +85,7 @@
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Gold[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
-        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/662.m3u8</sublink>
+        <sublink></sublink>
         </link>
         <thumblink>http://emby.world/LOGOS/2/gold.png</thumblink>
         <fanart></fanart>
@@ -333,8 +332,17 @@ Crime & Investigation [COLOR blue]HD[/COLOR]
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Investigation Discovery
 
+<item><title>HBO</title><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/hbo.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://michaelmasci.files.wordpress.com/2015/09/header-entertainment.jpg</thumbnail></item>
+
+
+<item><title>HBO HD</title><link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link><regex><name>get_sxstream</name><expres>src=.*[",'](.*m3u8.*?)[",']</expres><page>http://www.liveonlinetv247.info/embed/hbohd.php?width=650&amp;height=480</page><referer>http://www.liveonlinetv247.info/</referer></regex><thumbnail>https://michaelmasci.files.wordpress.com/2015/09/header-entertainment.jpg</thumbnail></item>
+
+
+
+
 <title>[COLOR yellow] --- [/COLOR] [COLOR red][I][B] UK [/B][/I][/COLOR][COLOR white][I][B] Movies & Entertainment [/B][/I][/COLOR][COLOR cyan][I][B] Channels [/B][/I][/COLOR] [COLOR yellow] --- [/COLOR]</title>
-<title> Coming Soon </title>
+
+<item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 True Entertainment
 
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
