@@ -79,18 +79,18 @@
 </item>
 
 <item>
-	<title>Game of Thrones</title>
+	<title></title>
 	<meta>
 		<content>movie</content>
-		<imdb>tt0944947</imdb>
-		<title>Game of Thrones</title>
-		<year>2011</year>
+		<imdb></imdb>
+		<title></title>
+		<year></year>
 	</meta>
 	<link>
 		<sublink>search</sublink>
 		<sublink>searchsd</sublink>
 	</link>
-	<thumbnail>https://image.tmdb.org/t/p/w640/gwPSoYUHAKmdyVywgLpKKA4BjRr.jpg</thumbnail>
+	<thumbnail></thumbnail>
 	<fanart></fanart>
 </item>
 
@@ -111,10 +111,66 @@
 </item>
 
 
-<item> <title></title> <meta>  <content>movie</content>  <imdb></imdb>  <title></title>  <year></year> </meta> <link>  <sublink>search</sublink>  <sublink>searchsd</sublink> </link> <thumbnail></thumbnail> <fanart></fanart></item>
+<item>
+	<title></title>
+	<meta>
+		<content>movie</content>
+		<imdb></imdb>
+		<title></title>
+		<year></year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
 
-<item> <title></title> <meta>  <content>movie</content>  <imdb></imdb>  <title></title>  <year></year> </meta> <link>  <sublink>search</sublink>  <sublink>searchsd</sublink> </link> <thumbnail></thumbnail> <fanart></fanart></item>
+<item>
+	<title></title>
+	<meta>
+		<content>movie</content>
+		<imdb></imdb>
+		<title></title>
+		<year></year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
 
-<item> <title></title> <meta>  <content>movie</content>  <imdb></imdb>  <title></title>  <year></year> </meta> <link>  <sublink>search</sublink>  <sublink>searchsd</sublink> </link> <thumbnail></thumbnail> <fanart></fanart></item>
+<item>
+	<title></title>
+	<meta>
+		<content>movie</content>
+		<imdb></imdb>
+		<title></title>
+		<year></year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
 
-<item> <title></title> <meta>  <content>movie</content>  <imdb></imdb>  <title></title>  <year></year> </meta> <link>  <sublink>search</sublink>  <sublink>searchsd</sublink> </link> <thumbnail></thumbnail> <fanart></fanart></item>
+<item>
+	<title></title>
+	<meta>
+		<content>movie</content>
+		<imdb></imdb>
+		<title></title>
+		<year></year>
+	</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</item>
