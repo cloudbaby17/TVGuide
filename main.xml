@@ -2,29 +2,29 @@
 
 <fanart></fanart>
 
-<dir>
+<!--dir>
      <name>[B][COLOR red]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] Movies[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB514892123_.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-</dir>
+<!--/dir>
 
-<dir>
+<!--dir>
      <name>[B][COLOR red]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB514892123_.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-</dir>
+<!--/dir>
 
 <dir>     
-     <name>[B][COLOR lime]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] Movies[/COLOR][COLOR blue] Center[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+     <name>[B][COLOR lime]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDb[/COLOR][COLOR blue] Movies[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://ichef.bbci.co.uk/corporate2/images/width/live/p0/1h/jz/p01hjzcn.jpg/624</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/movies.xml</link>
 </dir>
 
 <dir>     
-     <name>[B][COLOR lime]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] TV[/COLOR][COLOR blue] Shows[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
+     <name>[B][COLOR lime]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDb[/COLOR][COLOR blue] TV Shows[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>https://filmoljupci.com/ikone/tv_serije.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/tvshows.xml</link>
