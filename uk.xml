@@ -46,7 +46,7 @@
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Living[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
-        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/5561.m3u8</sublink>
+        <sublink></sublink>
         </link>
         <thumblink>http://emby.world/LOGOS/2/skylivinghd.png</thumblink>
         <fanart></fanart>
@@ -55,7 +55,7 @@
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Living +1[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
-        <sublink>http://xc1.asmhosting.solutions:80/live/555555555/555555555/13329.m3u8</sublink>
+        <sublink></sublink>
         </link>
         <thumblink>http://plextream.co.uk/PICONS/skylivingplus1.png</thumblink>
         <fanart></fanart>
