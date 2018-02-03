@@ -52,50 +52,50 @@
         <fanart></fanart>
 </item!-->
 
-<!--<item>
+<!--item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Living +1[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
         <thumblink>http://plextream.co.uk/PICONS/skylivingplus1.png</thumblink>
         <fanart></fanart>
-</item>!-->
+</item!-->
 
-<!--<item>
+<!--item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Atlantic[/COLOR][COLOR blue] SD[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
         <thumbnail></thumbnail>
         <fanart></fanart?
-</item>!-->
+</item!-->
 
-<!--<item>
+<!--item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] W[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
         <thumblink>http://emby.world/LOGOS/2/watch.png</thumblink>
         <fanart></fanart>
-</item>!-->
+</item!-->
 
-<!--<item>
+<!--item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Gold[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
         <thumblink>http://emby.world/LOGOS/2/gold.png</thumblink>
         <fanart></fanart>
-</item>!-->
+</item!-->
 
-<!--<item>
+<!--item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Dave[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
         <sublink></sublink>
         </link>
         <thumblink></thumblink>
         <fanart></fanart>
-</item>!-->
+</item!-->
 
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Comedy Central [COLOR blue][I][B]HD[/B][/I][/COLOR]
@@ -269,14 +269,14 @@ DMAX
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Food Network
 
-<!--<item>  
+<!--item>  
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Travel Channel[/COLOR][COLOR blue] SD[/COLOR]</title>        
         <link>        
         <sublink></sublink>        
         </link>        
         <thumblink>https://github.com/cloudbaby17/logo/blob/master/Travel%20Channel.png</thumblink>        
         <fanart></fanart>
-</item>!-->
+</item!-->
 
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Food Network [COLOR green][I][B]+1[/B][/I][/COLOR]
@@ -302,14 +302,14 @@ National Geographic [COLOR blue]HD[/COLOR]
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 Nat Geo Wild
 
-<!--<item>
+<!--item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] History[/COLOR][COLOR blue] SD[/COLOR]</title>
         <link>
         <sublink>http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia</sublink>
         </link>
         <thumblink>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png</thumblink>
         <fanart></fanart>
-</item>!-->
+</item!-->
 
 <item>        <title></title>        <link>        <sublink></sublink>        </link>        <thumblink></thumblink>        <fanart></fanart></item>
 H2
