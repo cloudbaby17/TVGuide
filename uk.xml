@@ -30,7 +30,7 @@
         <link>
         <sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</sublink>
         </link>
-        <thumblink>http://assetsv2.su2c.channel4.com/donate-widget/_assets/img/svg/channel4-logo.svg</thumblink>
+        <thumblink></thumblink>
         <fanart></fanart>
 </item>
 
@@ -39,7 +39,7 @@
         <link>
         <sublink>http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8</sublink>        
         </link>        
-        <thumblink>https://github.com/cloudbaby17/logo/blob/master/5.png</thumblink>        
+        <thumblink>http://roberthollingworth.co.uk/wp-content/uploads/photo-gallery/Logos/Channel_5_logo_2016_2.png</thumblink>        
         <fanart></fanart>
 </item>
 
