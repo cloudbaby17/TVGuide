@@ -30,7 +30,7 @@
         <link>
         <sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8</sublink>
         </link>
-        <thumblink>http://emby.world/LOGOS/2/channel4hd.png</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/Channel%204.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -39,7 +39,7 @@
         <link>
         <sublink>http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8</sublink>        
         </link>        
-        <thumblink>http://emby.world/LOGOS/2/channel5hd.png</thumblink>        
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/5.png</thumblink>        
         <fanart></fanart>
 </item>
 
@@ -112,7 +112,7 @@ SyFy
         <link>
         <sublink>https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8</sublink>
         </link>
-        <thumblink>https://www.actonthis.tv/wp-content/uploads/2013/08/More-comedy-for-ITV2.jpg</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/ITV2.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -121,7 +121,7 @@ SyFy
         <link>
         <sublink>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</sublink>
         </link>
-        <thumblink>https://vignette.wikia.nocookie.net/dreamlogos/images/0/04/Itv_3.png/revision/latest?cb=20140108230235</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/ITV3.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -130,7 +130,7 @@ SyFy
         <link>
         <sublink>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</sublink>
         </link>
-        <thumblink>https://www.itv.com/presscentre/sites/default/files/ITV4%20logo_0.jpg</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/ITV4.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -163,7 +163,7 @@ Good Food
         <link>
         <sublink>http://streams.yo.tv/srv4/ngrp:4.stream_all/chunklist_b1046000.m3u8</sublink>
         </link>
-        <thumblink>https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/805px-E4_%28channel%29_logo.svg.png</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/E4.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -178,7 +178,7 @@ More4
         <link>
         <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8</sublink>
         </link>
-        <thumblink>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1200px-BBC_Four.svg.png</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/BBC%20FOUR.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -241,7 +241,7 @@ My5
         <link>
         <sublink>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8</sublink>
         </link>
-        <thumblink>https://vignette.wikia.nocookie.net/logopedia/images/7/74/ITVBe_logo_pink_with_the_white_background.png/revision/latest/scale-to-width-down/640?cb=20150814161212</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/ITVBe.png</thumblink>
         <fanart></fanart>
 </item>
 
@@ -409,33 +409,33 @@ Sky Cinema Superheroes
 <item>
         <title>[COLOR]LIVE [/COLOR]Nickelodeon</title@>
         <link></link>
-        <thumbnail>https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/08/after.png</thumbnail>
+        <thumbnail>https://github.com/cloudbaby17/logo/blob/master/Nickelodeon.png.png</thumbnail>
 </item>
 
-<item>
+<!--item>
         <title>[COLOR]LIVE [/COLOR]Disney Channel (down on site)</title@>
         <link></link>
         <thumbnail>https://pmcdeadline2.files.wordpress.com/2010/11/disneychannel.jpg?w=605</thumbnail>
-</item>
+</item!-->
 
-<item>
+<!--item>
         <title>[COLOR]LIVE [/COLOR]Disney Jnr</title@>
         <link></link>
         <thumbnail>http://laoblogger.com/images/disney-junior-logo-clipart-4.jpg</thumbnail>
-</item>
+</item!-->
 
-<item>
+<!--item>
         <title>Pogo (down on site)</title@>
         <link>
         <thumbnail>https://absolutethai.files.wordpress.com/2015/03/pogo_header.jpg</thumbnail>
-</item>
+</item!-->
 
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Cartoon Network[/COLOR][COLOR blue] HD[/COLOR]</title>
         <link>
         <sublink>http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8</sublink>
         </link>
-        <thumblink>https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png</thumblink>
+        <thumblink>https://github.com/cloudbaby17/logo/blob/master/Nickelodeon.png</thumblink>
         <fanart></fanart>
 </item>
 
