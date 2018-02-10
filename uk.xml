@@ -16,14 +16,14 @@
         <fanart></fanart>
 </item>
 
-<!--item>
+<item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] ITV 1[/COLOR][COLOR blue] SD[/COLOR]</title>
         <link>
         <sublink>https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8</sublink>
         </link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/800px-ITV_logo_2013.svg.png</thumbnail>
         <fanart></fanart>
-</item!-->
+</item>
 
 <item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Channel 4[/COLOR][COLOR blue] SD[/COLOR]</title>
@@ -34,14 +34,14 @@
         <fanart></fanart>
 </item>
 
-<!--item>        
+<item>        
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Channel 5[/COLOR][COLOR blue] SD[/COLOR]</title>
         <link>
         <sublink>https://github.com/cloudbaby17/logo/blob/master/Channel%205.png</sublink>        
         </link>        
         <thumblink></thumblink>        
         <fanart></fanart>
-</item!-->
+</item>
 
 <!--item>
         <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Sky Living[/COLOR][COLOR blue] HD[/COLOR]</title>
