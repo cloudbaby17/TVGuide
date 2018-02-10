@@ -7,14 +7,14 @@
      <thumbnail>http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB514892123_.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-<!--/dir>
+</dir!-->
 
 <!--dir>
      <name>[B][COLOR red]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDB[/COLOR][COLOR blue] TV Shows[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
      <thumbnail>http://ia.media-imdb.com/images/G/01/imdb/images/logos/imdb_fb_logo-1730868325._CB514892123_.png</thumbnail>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
-<!--/dir>
+</dir!-->
 
 <dir>     
      <name>[B][COLOR lime]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] IMDb[/COLOR][COLOR blue] Movies[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
@@ -65,9 +65,9 @@
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
 </dir>
 
-<!--dir>
+<dir>
      <name>[B][COLOR red]•[/COLOR]     [COLOR greenyellow][/COLOR] [COLOR red][/COLOR][COLOR white] Test[/COLOR][COLOR blue] Directory[/COLOR] [COLOR greenyellow][/COLOR][/B]</name>
-     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/offline.xml</link>
+     <link>https://raw.githubusercontent.com/cloudbaby17/TVGuide/master/test.xml</link>
      <fanart>https://github.com/cloudbaby17/TVGuide/blob/master/fanart.png</fanart>
      <thumbnail>http://www.quanmax.com/site/wp-content/uploads/2017/06/test.png</thumbnail>
-<!--/dir>
+</dir>
