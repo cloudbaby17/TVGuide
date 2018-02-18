@@ -45,7 +45,8 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 
 #EXTINF:-1, ITV 2
-https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
+http://mnenvyiptv.org:5050/live/tonic/tonic/57191.ts
+<!--https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8--!>
 
 #EXTINF:-1, ITV 3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
