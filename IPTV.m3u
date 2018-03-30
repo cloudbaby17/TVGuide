@@ -6,10 +6,10 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d827008.m3u8
 
 #EXTINF:-1, ITV 1
-https://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master.m3u8
+
 
 #EXTINF:-1, Channel 4
-http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/playlist.m3u8
+`
 
 #EXTINF:-1, Channel 5
 http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
@@ -45,8 +45,7 @@ http://streams.yo.tv/srv1/ngrp:4.stream_all/chunklist_b1046000_DVR.m3u8
 
 
 #EXTINF:-1, ITV 2
-http://mnenvyiptv.org:5050/live/tonic/tonic/57191.ts
-<!--https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8--!>
+https://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master.m3u8
 
 #EXTINF:-1, ITV 3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
@@ -145,7 +144,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 
 
 #EXTINF:-1, ITVBe
-http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
+
 
 #EXTINF:-1, ITV 2 [COLOR green][I][B]+1[/B][/I][/COLOR]
 
@@ -403,7 +402,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 http://
 
 #EXTINF:-1, Cartoon Network [COLOR blue]HD[/COLOR]
-http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1, Nickelodeon
 
@@ -439,31 +438,31 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] NASA [/I][/B][/COLOR] [COLOR red][I][B] Channels [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
-http://
+
 
 #EXTINF:-1, NASA TV Public
-http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_700.m3u8
+
 
 #EXTINF:-1, NASA TV Media
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master_2000.m3u8
+
 
 #EXTINF:-1, NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:-1, NASA TV MEDIA CHANNEL
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+
 
 #EXTINF:-1, ISS Live
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:-1, ISS Live 2
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:-1, NASA CSBF Operations
-http://iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:-1, NASA LaRC
-http://iphone-streaming.ustream.tv/uhls/7549153/streams/live/iphone/playlist.m3u8
+
 
 #EXTINF:-1, [COLOR red] --- [/COLOR] [COLOR yellow][I][B] NEWS CHANNELS [/I][/B][/COLOR] [COLOR red] --- [/COLOR]
 http://
