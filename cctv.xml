@@ -1,103 +1,48 @@
 
-<item>          
-  <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Int'l Space Station 1[/COLOR][COLOR blue] [/COLOR]</title>  
-  <link>  
-  <sublink>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8</sublink>  
-  </link>  
-  <thumbnail></thumbnail>  
-  <fanart></fanart>
-</item>
+<item>  <title>Int'l Space Station 1</title>  <link>  <sublink>http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8</sublink>  </link>  </item>
 
-<item>
-  <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Int'l Space Station 2[/COLOR][COLOR blue] [/COLOR]</title>
-  <link>
-  <sublink>http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8</sublink>
-  </link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
+<item>  <title>Int'l Space Station 2</title>  <link>  <sublink>http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8</sublink>  </link></item>
 
-<item>
-  <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Smithsonian Panda Cam 1[/COLOR][COLOR blue] [/COLOR]</title>
-  <link>
-  <sublink>http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8</sublink>
-  </link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
+<item>  <title>Smithsonian Panda Cam 1</title>  <link>  <sublink>http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8</sublink>  </link>  </item>
 
-<item>
-  <title>[COLOR yellow]LIVE[/COLOR][COLOR white] Smithsonian Panda Cam 2[/COLOR][COLOR blue] [/COLOR]</title>
-  <link>
-  <sublink>http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8</sublink>
-  </link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
+<item>  <title>Smithsonian Panda Cam 2</title>  <link>  <sublink>http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8</sublink>  </link>  </item>
 
-<item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] TLC Cupcake Cam[/COLOR][COLOR blue] [/COLOR]</title>
-  <link>
-  <sublink>http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8</sublink>
-  </link>
-  <thumbnail></thumbnail>
-  <fanart></fanart>
-</item>
+<item>  <title>TLC Cupcake Cam</title>  <link>  <sublink>http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8</sublink>  </link></item>
 
-<item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] [/COLOR][COLOR blue] [/COLOR]</title>  <link>  <sublink></sublink>  </link>  <thumbnail></thumbnail>  <fanart></fanart></item>
+<item>  <title>DC Eagle Cam</title>  <link>  <sublink>http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8</sublink>  </link></item>
 
-<item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] [/COLOR][COLOR blue] [/COLOR]</title>  <link>  <sublink></sublink>  </link>  <thumbnail></thumbnail>  <fanart></fanart></item>
+<item>  <title>Washington - District of Columbia - White House</title>  <link>  <sublink>http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8</sublink>  </link></item>
 
-<item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] [/COLOR][COLOR blue] [/COLOR]</title>  <link>  <sublink></sublink>  </link>  <thumbnail></thumbnail>  <fanart></fanart></item>
+<item>  <title>Washington - District of Columbia - Washington Monument</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8</sublink>  </link></item>
 
-<item>          <title>[COLOR yellow]LIVE[/COLOR][COLOR white] [/COLOR][COLOR blue] [/COLOR]</title>  <link>  <sublink></sublink>  </link>  <thumbnail></thumbnail>  <fanart></fanart></item>
+<item>  <title>NYC - New York - Statue of Liberty</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8</sublink>  </link></item>
 
-DC Eagle Cam
-http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+<item>  <title>NYC - New York - Midtown Skyline</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8</sublink>  </link></item>
 
-Washington - District of Columbia - White House
-http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+<item>  <title>NYC - New York - 5th Avenue</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8</sublink>  </link></item>
 
-Washington - District of Columbia - Washington Monument
-http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Brooklyn Bridge</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - Statue of Liberty
-http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Charging Bull</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - Midtown Skyline
-http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Columbus Circle</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - 5th Avenue
-http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+<item>  <title>NYC - New York - High Line</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - Brooklyn Bridge
-http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Times Square</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - Charging Bull
-http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Times Square (47th + Broadway)</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - Columbus Circle
-http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Times Square (Street Cam)</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - High Line
-http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Times Square (Crossroads)</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - Times Square
-http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+<item>  <title>NYC - New York - Times Square (South View)</title>  <link>  <sublink>http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8</sublink>  </link></item>
 
-NYC - New York - Times Square (47th + Broadway)
-http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+<item>  <title>Jamestown - New York</title>  <link>  <sublink>http://143.67.94.18:80/mjpg/video.mjpg</sublink>  </link></item>
 
-NYC - New York - Times Square (Street Cam)
-http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+<item>  <title></title>  <link>  <sublink></sublink>  </link></item>
 
-NYC - New York - Times Square (Crossroads)
-http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
-
-NYC - New York - Times Square (South View)
-http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
-
-Jamestown - New York
-http://143.67.94.18:80/mjpg/video.mjpg
 
 Staten Island - New York
 http://100.42.129.28:80/mjpg/video.mjpg
